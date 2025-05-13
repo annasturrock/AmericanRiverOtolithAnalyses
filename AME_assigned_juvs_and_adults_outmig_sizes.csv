@@ -1,0 +1,1346 @@
+Sample_ID,Location,Region,Capture_date,collect_method,Escap_yr,Outmig_yr,collection_julian_day,capture_fork_length_juvs_mm,mean_exog,time_bin_use,NATLOC_new,WYlabel,life_stage,Phenotype,WYT,Natal_Exit_um,FWDist_um,Natal_exit_FL_mm,FW_exit_FL_mm
+DM14001,Steamboat Slough,Within Delta,27/05/2014,sein,NA,2014,147,87,1,"(90,210]",AME,2014 (1),Juvenile,Early,Drought,228.1194,NA,35.93707032,NA
+DM14009,Clarksburg,Within Delta,06/03/2014,sein,NA,2014,65,48,2,"(-30,90]",AME,2014 (1),Juvenile,Early,Drought,210.9264,NA,35.57156434,NA
+DM14013,Clarksburg,Within Delta,12/03/2014,sein,NA,2014,71,47,1.5,"(-30,90]",AME,2014 (1),Juvenile,Early,Drought,196.1068,NA,35.25651446,NA
+DM14015,Clarksburg,Within Delta,12/03/2014,sein,NA,2014,71,37,1.666666667,"(-30,90]",AME,2014 (1),Juvenile,Early,Drought,232.3635,NA,36.02729565,NA
+DM14068,Rio Vista,Within Delta,11/03/2014,sein,NA,2014,70,36,1.5,"(-30,90]",AME,2014 (1),Juvenile,Early,Drought,178.745,NA,34.88741996,NA
+DM14074,Rio Vista,Within Delta,11/03/2014,sein,NA,2014,70,59,1,"(-30,90]",AME,2014 (1),Juvenile,Late,Drought,330.3523,NA,48.84626202,NA
+DM14084,Isleton,Within Delta,29/04/2014,sein,NA,2014,119,66,2,"(90,210]",AME,2014 (1),Juvenile,Early,Drought,188.8714,NA,35.10269709,NA
+DM14093,Eddo’s,Within Delta,01/04/2014,sein,NA,2014,91,58,1.666666667,"(90,210]",AME,2014 (1),Juvenile,Early,Drought,212.3101,NA,35.60098042,NA
+DM14097,Eddo’s,Within Delta,01/04/2014,sein,NA,2014,91,56,2,"(90,210]",AME,2014 (1),Juvenile,Early,Drought,216.1068,NA,35.68169446,NA
+DM14121,Sherman Island,Within Delta,25/03/2014,sein,NA,2014,84,43,1.666666667,"(-30,90]",AME,2014 (1),Juvenile,Early,Drought,228.7291,NA,35.95003194,NA
+DM14125,Eddo’s,Within Delta,25/03/2014,sein,NA,2014,84,45,1.166666667,"(-30,90]",AME,2014 (1),Juvenile,Early,Drought,174.4761,NA,34.79666741,NA
+DM14131,Antioch Dunes,Within Delta,20/03/2014,sein,NA,2014,79,38,2,"(-30,90]",AME,2014 (1),Juvenile,Early,Drought,208.8637,NA,35.5277134,NA
+DM14132,Antioch Dunes,Within Delta,20/03/2014,sein,NA,2014,79,55,1,"(-30,90]",AME,2014 (1),Juvenile,Early,Drought,187.8966,NA,35.08197382,NA
+DM14148,B&W Marina,Within Delta,20/03/2014,sein,NA,2014,79,61,2,"(-30,90]",AME,2014 (1),Juvenile,Early,Drought,221.1755,NA,35.78944995,NA
+DM14150,Koket,Within Delta,22/04/2014,sein,NA,2014,112,73,2,"(90,210]",AME,2014 (1),Juvenile,Late,Drought,432.7419,NA,65.80812315,NA
+DM14504,Chipps Island,Delta Exit,29/05/2014,mwtr,NA,2014,149,88,1.5,"(90,210]",AME,2014 (1),Juvenile,Late,Drought,521.625,NA,80.5324975,88
+DM14507,Chipps Island,Delta Exit,25/04/2014,mwtr,NA,2014,115,71,2,"(90,210]",AME,2014 (1),Juvenile,Early,Drought,235.1223,NA,36.08594498,71
+DM14528,Chipps Island,Delta Exit,09/04/2014,mwtr,NA,2014,99,74,1.5,"(90,210]",AME,2014 (1),Juvenile,Early,Drought,309.0081,NA,45.31038185,74
+DM14531,Chipps Island,Delta Exit,09/04/2014,mwtr,NA,2014,99,74,2,"(90,210]",AME,2014 (1),Juvenile,Late,Drought,348.6154,NA,51.87172716,74
+DM14543,Chipps Island,Delta Exit,11/04/2014,mwtr,NA,2014,101,71,2,"(90,210]",AME,2014 (1),Juvenile,Late,Drought,397.0299,NA,59.89207323,71
+DM14619,Chipps Island,Delta Exit,16/04/2014,mwtr,NA,2014,106,74,2,"(90,210]",AME,2014 (1),Juvenile,Late,Drought,411.7286,NA,62.32705988,74
+DM14627,Chipps Island,Delta Exit,21/04/2014,mwtr,NA,2014,111,76,2,"(90,210]",AME,2014 (1),Juvenile,Late,Drought,457.3,NA,69.876418,76
+DM15001,Sherwood Harbor,Delta entry,13/05/2015,kdtr,NA,2015,133,80,2,"(90,210]",AME,2015 (1.1),Juvenile,Late,Drought,405.762,NA,61.33863292,NA
+DM15002,Sherwood Harbor,Delta entry,13/05/2015,kdtr,NA,2015,133,78,2,"(90,210]",AME,2015 (1.1),Juvenile,Late,Drought,427.065,NA,64.8676879,NA
+DM15004,Sherwood Harbor,Delta entry,06/04/2015,kdtr,NA,2015,96,69,1.833333333,"(90,210]",AME,2015 (1.1),Juvenile,Late,Drought,368.229,NA,55.12091614,NA
+DM15007,Sherwood Harbor,Delta entry,10/04/2015,kdtr,NA,2015,100,66,2,"(90,210]",AME,2015 (1.1),Juvenile,Late,Drought,511.77,NA,78.8999182,NA
+DM15009,Sherwood Harbor,Delta entry,10/04/2015,kdtr,NA,2015,100,74,2,"(90,210]",AME,2015 (1.1),Juvenile,Early,Drought,238.5627,NA,36.15908444,NA
+DM15010,Sherwood Harbor,Delta entry,17/04/2015,kdtr,NA,2015,107,71,1.333333333,"(90,210]",AME,2015 (1.1),Juvenile,Late,Drought,397.647,NA,59.99430202,NA
+DM15014,Sherwood Harbor,Delta entry,27/02/2015,kdtr,NA,2015,58,34,2,"(-30,90]",AME,2015 (1.1),Juvenile,Early,Drought,215.054,NA,35.65931299,NA
+DM15016,Sherwood Harbor,Delta entry,18/02/2015,kdtr,NA,2015,49,36,2,"(-30,90]",AME,2015 (1.1),Juvenile,Early,Drought,211.334,NA,35.58022951,NA
+DM15017,Sherwood Harbor,Delta entry,24/04/2015,kdtr,NA,2015,114,79,2,"(90,210]",AME,2015 (1.1),Juvenile,Late,Drought,433.151,NA,65.87589466,NA
+DM15019,Sherwood Harbor,Delta entry,20/04/2015,kdtr,NA,2015,110,69,1.333333333,"(90,210]",AME,2015 (1.1),Juvenile,Late,Drought,409.82,NA,62.0108812,NA
+DM15020,Sherwood Harbor,Delta entry,11/05/2015,kdtr,NA,2015,131,86,2,"(90,210]",AME,2015 (1.1),Juvenile,Late,Drought,479.138,NA,73.49410108,NA
+DM15022,Sherwood Harbor,Delta entry,13/04/2015,kdtr,NA,2015,103,69,2,"(90,210]",AME,2015 (1.1),Juvenile,Late,Drought,392.237,NA,59.09808142,NA
+DM15023,Sherwood Harbor,Delta entry,13/04/2015,kdtr,NA,2015,103,77,2,"(90,210]",AME,2015 (1.1),Juvenile,Late,Drought,398.323,NA,60.10628818,NA
+DM15028,Sherwood Harbor,Delta entry,03/04/2015,kdtr,NA,2015,93,70,1.5,"(90,210]",AME,2015 (1.1),Juvenile,Late,Drought,402.1372,NA,60.73814855,NA
+DM15036,Sherwood Harbor,Delta entry,29/04/2015,kdtr,NA,2015,119,73,2,"(90,210]",AME,2015 (1.1),Juvenile,Late,Drought,478.461,NA,73.38194926,NA
+DM15054,Clarksburg,Within Delta,14/04/2015,sein,NA,2015,104,75,2,"(90,210]",AME,2015 (1.1),Juvenile,Late,Drought,411.7042,NA,62.32301777,NA
+DM15079,Rio Vista,Within Delta,20/03/2015,sein,NA,2015,79,53,2,"(-30,90]",AME,2015 (1.1),Juvenile,Early,Drought,198.4006,NA,35.30527836,NA
+DM15098,Koket,Within Delta,14/04/2015,sein,NA,2015,104,78,2,"(90,210]",AME,2015 (1.1),Juvenile,Late,Drought,387.4505,NA,58.30514983,NA
+DM15101,Koket,Within Delta,09/04/2015,sein,NA,2015,99,75,2,"(90,210]",AME,2015 (1.1),Juvenile,Late,Drought,394.4136,NA,59.45865698,NA
+DM15102,Koket,Within Delta,06/03/2015,sein,NA,2015,65,36,2,"(-30,90]",AME,2015 (1.1),Juvenile,Early,Drought,223.8756,NA,35.84685138,NA
+DM15105,Wimpy’s,Within Delta,04/03/2015,sein,NA,2015,63,39,1.333333333,"(-30,90]",AME,2015 (1.1),Juvenile,Early,Drought,240.6445,NA,36.20334143,NA
+DM15139,Chipps Island,Delta Exit,04/05/2015,mwtr,NA,2015,124,76,1.666666667,"(90,210]",AME,2015 (1.1),Juvenile,Late,Drought,413.6,NA,62.637076,76
+DM15170,Chipps Island,Delta Exit,07/05/2015,mwtr,NA,2015,127,76,1.666666667,"(90,210]",AME,2015 (1.1),Juvenile,Late,Drought,443.295,NA,67.5563497,76
+DM15179,Chipps Island,Delta Exit,21/05/2015,mwtr,NA,2015,141,89,1.5,"(90,210]",AME,2015 (1.1),Juvenile,Late,Drought,568.405,NA,88.2820723,89
+DM15180,Chipps Island,Delta Exit,20/05/2015,mwtr,NA,2015,140,89,2,"(90,210]",AME,2015 (1.1),Juvenile,Late,Drought,543.721,NA,84.19292086,89
+DM15190,Chipps Island,Delta Exit,15/04/2015,mwtr,NA,2015,105,79,1.166666667,"(90,210]",AME,2015 (1.1),Juvenile,Late,Drought,517.347,NA,79.82380402,79
+DM15276,Chipps Island,Delta Exit,18/02/2015,mwtr,NA,2015,49,39,1.5,"(-30,90]",AME,2015 (1.1),Juvenile,Early,Drought,220.66,NA,35.77849094,39
+DM15290,Chipps Island,Delta Exit,20/04/2015,mwtr,NA,2015,110,81,2,"(90,210]",AME,2015 (1.1),Juvenile,Late,Drought,384.2125,NA,57.76874275,81
+DM15292,Chipps Island,Delta Exit,20/04/2015,mwtr,NA,2015,110,79,1.666666667,"(90,210]",AME,2015 (1.1),Juvenile,Late,Drought,474.862,NA,72.78573892,79
+DM15344,Sandy Beach,Within Delta,29/12/2015,sein,NA,2016,-2,36,1.5,"(-30,90]",AME,2016 (4.2),Juvenile,Early,Intermediate,184.123,NA,35.00175086,NA
+DM16004,Chipps Island,Delta Exit,27/04/2016,mwtr,NA,2016,118,67,1,"(90,210]",AME,2016 (4.2),Juvenile,Early,Intermediate,201.0935,NA,35.36252672,67
+DM16012,Garcia Bend,Within Delta,19/04/2016,sein,NA,2016,110,76,2,"(90,210]",AME,2016 (4.2),Juvenile,Late,Intermediate,379.6521,NA,57.01326689,NA
+DM16015,Steamboat Slough,Within Delta,03/03/2016,sein,NA,2016,63,35,1.5,"(-30,90]",AME,2016 (4.2),Juvenile,Early,Intermediate,227.565,NA,35.92528434,NA
+DM16016,Clarksburg,Within Delta,11/03/2016,sein,NA,2016,71,45,1,"(-30,90]",AME,2016 (4.2),Juvenile,Early,Intermediate,223.882,NA,35.84698744,NA
+DM16021,Garcia Bend,Within Delta,18/02/2016,sein,NA,2016,49,42,2,"(-30,90]",AME,2016 (4.2),Juvenile,Early,Intermediate,219.7493,NA,35.75913037,NA
+DM16025,Sherwood Harbor,Delta entry,11/03/2016,kdtr,NA,2016,71,38,2,"(-30,90]",AME,2016 (4.2),Juvenile,Early,Intermediate,260.364,NA,37.25200024,NA
+DM16030,Sherwood Harbor,Delta entry,28/03/2016,kdtr,NA,2016,88,37,1.5,"(-30,90]",AME,2016 (4.2),Juvenile,Early,Intermediate,229.815,NA,35.97311709,NA
+DM16031,Sherwood Harbor,Delta entry,18/02/2016,kdtr,NA,2016,49,38,1.5,"(-30,90]",AME,2016 (4.2),Juvenile,Early,Intermediate,194.428,NA,35.22082485,NA
+DM16032,Sherwood Harbor,Delta entry,21/03/2016,kdtr,NA,2016,81,37,1.5,"(-30,90]",AME,2016 (4.2),Juvenile,Early,Intermediate,198.485,NA,35.30707262,NA
+DM16033,Sherwood Harbor,Delta entry,21/03/2016,kdtr,NA,2016,81,39,1.5,"(-30,90]",AME,2016 (4.2),Juvenile,Early,Intermediate,213.366,NA,35.62342779,NA
+DM16035,Sherwood Harbor,Delta entry,02/03/2016,kdtr,NA,2016,62,36,1.833333333,"(-30,90]",AME,2016 (4.2),Juvenile,Early,Intermediate,226.1802,NA,35.89584487,NA
+DM16036,Sherwood Harbor,Delta entry,21/03/2016,kdtr,NA,2016,81,41,1.333333333,"(-30,90]",AME,2016 (4.2),Juvenile,Early,Intermediate,251.234,NA,36.42846361,NA
+DM16039,Garcia Bend,Within Delta,07/04/2016,sein,NA,2016,98,58,2,"(90,210]",AME,2016 (4.2),Juvenile,Early,Intermediate,281.3623,NA,40.73057862,NA
+DM16042,Sherwood Harbor,Delta entry,25/04/2016,kdtr,NA,2016,116,72,2,"(90,210]",AME,2016 (4.2),Juvenile,Late,Intermediate,418.273,NA,63.41120518,NA
+DM16043,Sherwood Harbor,Delta entry,12/02/2016,kdtr,NA,2016,43,39,1.5,"(-30,90]",AME,2016 (4.2),Juvenile,Early,Intermediate,220.464,NA,35.77432418,NA
+DM16045,Garcia Bend,Within Delta,07/04/2016,sein,NA,2016,98,54,2,"(90,210]",AME,2016 (4.2),Juvenile,Early,Intermediate,305.3172,NA,44.69894735,NA
+DM16046,Garcia Bend,Within Delta,13/04/2016,sein,NA,2016,104,70,2,"(90,210]",AME,2016 (4.2),Juvenile,Late,Intermediate,319.1433,NA,46.98937908,NA
+DM16047,Garcia Bend,Within Delta,07/04/2016,sein,NA,2016,98,47,2,"(90,210]",AME,2016 (4.2),Juvenile,Early,Intermediate,237.4355,NA,36.13512129,NA
+DM16050,Sherwood Harbor,Delta entry,11/05/2016,kdtr,NA,2016,132,75,1,"(90,210]",AME,2016 (4.2),Juvenile,Late,Intermediate,433.489,NA,65.93188774,NA
+DM16053,Sherwood Harbor,Delta entry,09/05/2016,kdtr,NA,2016,130,87,2,"(90,210]",AME,2016 (4.2),Juvenile,Late,Intermediate,459.526,NA,70.24517716,NA
+DM16054,Sherwood Harbor,Delta entry,24/02/2016,kdtr,NA,2016,55,34,1.5,"(-30,90]",AME,2016 (4.2),Juvenile,Early,Intermediate,209.982,NA,35.55148734,NA
+DM16055,Sherwood Harbor,Delta entry,16/03/2016,kdtr,NA,2016,76,38,1.5,"(-30,90]",AME,2016 (4.2),Juvenile,Early,Intermediate,213.025,NA,35.61617848,NA
+DM16058,Sherwood Harbor,Delta entry,27/04/2016,kdtr,NA,2016,118,65,1.5,"(90,210]",AME,2016 (4.2),Juvenile,Late,Intermediate,378.711,NA,56.85736426,NA
+DM16060,Sherwood Harbor,Delta entry,16/05/2016,kdtr,NA,2016,137,78,2,"(90,210]",AME,2016 (4.2),Juvenile,Late,Intermediate,468.317,NA,71.70149422,NA
+DM16061,Sherwood Harbor,Delta entry,16/05/2016,kdtr,NA,2016,137,72,2,"(90,210]",AME,2016 (4.2),Juvenile,Late,Intermediate,451.072,NA,68.84468752,NA
+DM16062,Sherwood Harbor,Delta entry,11/05/2016,kdtr,NA,2016,132,72,2,"(90,210]",AME,2016 (4.2),Juvenile,Late,Intermediate,365.524,NA,54.67280584,NA
+DM16063,Sherwood Harbor,Delta entry,16/03/2016,kdtr,NA,2016,76,39,1.5,"(-30,90]",AME,2016 (4.2),Juvenile,Early,Intermediate,193.751,NA,35.20643251,NA
+DM16069,Sherwood Harbor,Delta entry,08/02/2016,kdtr,NA,2016,39,34,1.5,"(-30,90]",AME,2016 (4.2),Juvenile,Early,Intermediate,223.169,NA,35.83182977,NA
+DM16071,Sherwood Harbor,Delta entry,02/05/2016,kdtr,NA,2016,123,84,1.833333333,"(90,210]",AME,2016 (4.2),Juvenile,Late,Intermediate,414.219,NA,62.73961954,NA
+DM16074,Garcia Bend,Within Delta,15/03/2016,sein,NA,2016,75,39,1.5,"(-30,90]",AME,2016 (4.2),Juvenile,Early,Intermediate,231.623,NA,36.01155336,NA
+DM16076,Sherwood Harbor,Delta entry,24/02/2016,kdtr,NA,2016,55,36,1.5,"(-30,90]",AME,2016 (4.2),Juvenile,Early,Intermediate,205.248,NA,35.45084723,NA
+DM16077,Sherwood Harbor,Delta entry,24/02/2016,kdtr,NA,2016,55,36,1.5,"(-30,90]",AME,2016 (4.2),Juvenile,Early,Intermediate,250.462,NA,36.41205166,NA
+DM16078,Steamboat Slough,Within Delta,03/03/2016,sein,NA,2016,63,36,1.5,"(-30,90]",AME,2016 (4.2),Juvenile,Early,Intermediate,239.2463,NA,36.17361709,NA
+DM16079,Sherwood Harbor,Delta entry,14/03/2016,kdtr,NA,2016,74,38,1.5,"(-30,90]",AME,2016 (4.2),Juvenile,Early,Intermediate,220.802,NA,35.78150972,NA
+DM16084,Clarksburg,Within Delta,03/03/2016,sein,NA,2016,63,47,1.333333333,"(-30,90]",AME,2016 (4.2),Juvenile,Early,Intermediate,237.6631,NA,36.13995984,NA
+DM16087,Sherwood Harbor,Delta entry,24/02/2016,kdtr,NA,2016,55,38,1.833333333,"(-30,90]",AME,2016 (4.2),Juvenile,Early,Intermediate,262.055,NA,37.5321313,NA
+DM16088,Steamboat Slough,Within Delta,03/03/2016,sein,NA,2016,63,38,2,"(-30,90]",AME,2016 (4.2),Juvenile,Early,Intermediate,191.569,NA,35.16004537,NA
+DM16089,Sherwood Harbor,Delta entry,24/02/2016,kdtr,NA,2016,55,34,1.5,"(-30,90]",AME,2016 (4.2),Juvenile,Early,Intermediate,187.665,NA,35.07705024,NA
+DM16091,Koket,Within Delta,15/03/2016,sein,NA,2016,75,38,1.5,"(-30,90]",AME,2016 (4.2),Juvenile,Early,Intermediate,217.228,NA,35.70553005,NA
+DM16095,Antioch Dunes,Within Delta,01/03/2016,sein,NA,2016,61,54,1.333333333,"(-30,90]",AME,2016 (4.2),Juvenile,Early,Intermediate,173.4712,NA,34.77530424,NA
+DM16096,Antioch Dunes,Within Delta,05/05/2016,sein,NA,2016,126,75,2,"(90,210]",AME,2016 (4.2),Juvenile,Early,Intermediate,245.053,NA,36.29706173,NA
+DM16098,Koket,Within Delta,25/04/2016,sein,NA,2016,116,66,2,"(90,210]",AME,2016 (4.2),Juvenile,Late,Intermediate,390.884,NA,58.87394344,NA
+DM16099,Koket,Within Delta,25/04/2016,sein,NA,2016,116,50,1.333333333,"(90,210]",AME,2016 (4.2),Juvenile,Late,Intermediate,349.4171,NA,52.00453679,NA
+DM16100,Koket,Within Delta,25/04/2016,sein,NA,2016,116,64,1.333333333,"(90,210]",AME,2016 (4.2),Juvenile,Late,Intermediate,366.6193,NA,54.85425324,NA
+DM16101,Koket,Within Delta,25/04/2016,sein,NA,2016,116,47,2,"(90,210]",AME,2016 (4.2),Juvenile,Early,Intermediate,300.0908,NA,43.83314193,NA
+DM16103,B&W Marina,Within Delta,12/02/2016,sein,NA,2016,43,36,2,"(-30,90]",AME,2016 (4.2),Juvenile,Early,Intermediate,209.9188,NA,35.55014377,NA
+DM16105,Koket,Within Delta,25/04/2016,sein,NA,2016,116,69,2,"(90,210]",AME,2016 (4.2),Juvenile,Late,Intermediate,356.394,NA,53.16033004,NA
+DM16107,Koket,Within Delta,25/04/2016,sein,NA,2016,116,55,2,"(90,210]",AME,2016 (4.2),Juvenile,Early,Intermediate,253.1548,NA,36.46929789,NA
+DM16110,Wimpy’s,Within Delta,13/04/2016,sein,NA,2016,104,67,2,"(90,210]",AME,2016 (4.2),Juvenile,Early,Intermediate,306.6058,NA,44.91241683,NA
+DM16115,Koket,Within Delta,13/04/2016,sein,NA,2016,104,69,1.5,"(90,210]",AME,2016 (4.2),Juvenile,Early,Intermediate,241.3104,NA,36.21749779,NA
+DM16116,Rio Vista,Within Delta,19/04/2016,sein,NA,2016,110,50,2,"(90,210]",AME,2016 (4.2),Juvenile,Early,Intermediate,186.6283,NA,35.05501103,NA
+DM16127,Koket,Within Delta,19/04/2016,sein,NA,2016,110,62,2,"(90,210]",AME,2016 (4.2),Juvenile,Early,Intermediate,241.2905,NA,36.21707474,NA
+DM16131,Garcia Bend,Within Delta,29/03/2016,sein,NA,2016,89,39,1.5,"(-30,90]",AME,2016 (4.2),Juvenile,Early,Intermediate,235.5083,NA,36.09415095,NA
+DM16133,Sandy Beach,Within Delta,25/03/2016,sein,NA,2016,85,54,1,"(-30,90]",AME,2016 (4.2),Juvenile,Early,Intermediate,233.41,NA,36.04954319,NA
+DM16134,Garcia Bend,Within Delta,15/03/2016,sein,NA,2016,75,30,1.5,"(-30,90]",AME,2016 (4.2),Juvenile,Early,Intermediate,199.817,NA,35.3353896,NA
+DM16136,Koket,Within Delta,13/04/2016,sein,NA,2016,104,57,1.666666667,"(90,210]",AME,2016 (4.2),Juvenile,Early,Intermediate,200.1463,NA,35.34239019,NA
+DM16137,Sandy Beach,Within Delta,25/03/2016,sein,NA,2016,85,41,2,"(-30,90]",AME,2016 (4.2),Juvenile,Early,Intermediate,223.507,NA,35.83901531,NA
+DM16138,Koket,Within Delta,19/04/2016,sein,NA,2016,110,61,2,"(90,210]",AME,2016 (4.2),Juvenile,Early,Intermediate,236.0353,NA,36.10535444,NA
+DM16139,Koket,Within Delta,19/04/2016,sein,NA,2016,110,63,2,"(90,210]",AME,2016 (4.2),Juvenile,Early,Intermediate,216.8255,NA,35.6969733,NA
+DM16141,Koket,Within Delta,15/03/2016,sein,NA,2016,75,37,1.5,"(-30,90]",AME,2016 (4.2),Juvenile,Early,Intermediate,211.145,NA,35.57621156,NA
+DM16147,Sherwood Harbor,Delta entry,28/03/2016,kdtr,NA,2016,88,67,2,"(-30,90]",AME,2016 (4.2),Juvenile,Early,Intermediate,208.605,NA,35.5222137,NA
+DM16155,Garcia Bend,Within Delta,07/04/2016,sein,NA,2016,98,57,1.833333333,"(90,210]",AME,2016 (4.2),Juvenile,Early,Intermediate,231.6993,NA,36.01317542,NA
+DM16156,Garcia Bend,Within Delta,15/03/2016,sein,NA,2016,75,37,1.5,"(-30,90]",AME,2016 (4.2),Juvenile,Early,Intermediate,214.716,NA,35.65212744,NA
+DM16164,Sherwood Harbor,Delta entry,12/02/2016,kdtr,NA,2016,43,38,1,"(-30,90]",AME,2016 (4.2),Juvenile,Early,Intermediate,217.292,NA,35.70689063,NA
+DM16190,Sherman Island,Within Delta,04/02/2016,sein,NA,2016,35,38,1.5,"(-30,90]",AME,2016 (4.2),Juvenile,Early,Intermediate,257.2698,NA,36.73941507,NA
+DM16191,Sandy Beach,Within Delta,04/02/2016,sein,NA,2016,35,30,1,"(-30,90]",AME,2016 (4.2),Juvenile,Early,Intermediate,253.283,NA,36.4720233,NA
+DM16202,Sandy Beach,Within Delta,25/02/2016,sein,NA,2016,56,36,1.5,"(-30,90]",AME,2016 (4.2),Juvenile,Early,Intermediate,192.585,NA,35.18164452,NA
+DM16205,Clarksburg,Within Delta,11/03/2016,sein,NA,2016,71,40,2,"(-30,90]",AME,2016 (4.2),Juvenile,Early,Intermediate,242.1162,NA,36.2346283,NA
+DM16207,Clarksburg,Within Delta,11/03/2016,sein,NA,2016,71,38,2,"(-30,90]",AME,2016 (4.2),Juvenile,Early,Intermediate,194.5826,NA,35.22411149,NA
+DM16208,Paradise Beach,Bay,05/04/2016,sein,NA,2016,96,51,2,"(90,210]",AME,2016 (4.2),Juvenile,Late,Intermediate,328.308,NA,48.50760328,NA
+DM16209,Clarksburg,Within Delta,11/03/2016,sein,NA,2016,71,42,2,"(-30,90]",AME,2016 (4.2),Juvenile,Early,Intermediate,267.1151,NA,38.37038747,NA
+DM16211,Garcia Bend,Within Delta,22/03/2016,sein,NA,2016,82,34,1.5,"(-30,90]",AME,2016 (4.2),Juvenile,Early,Intermediate,203.557,NA,35.41489826,NA
+DM16213,Garcia Bend,Within Delta,22/03/2016,sein,NA,2016,82,37,1.5,"(-30,90]",AME,2016 (4.2),Juvenile,Early,Intermediate,210.32,NA,35.55867288,NA
+DM16214,Garcia Bend,Within Delta,22/03/2016,sein,NA,2016,82,39,1,"(-30,90]",AME,2016 (4.2),Juvenile,Early,Intermediate,252.492,NA,36.45520743,NA
+DM16215,Clarksburg,Within Delta,11/03/2016,sein,NA,2016,71,40,1.833333333,"(-30,90]",AME,2016 (4.2),Juvenile,Early,Intermediate,228.8831,NA,35.95330582,NA
+DM16218,Steamboat Slough,Within Delta,22/03/2016,sein,NA,2016,82,43,1.5,"(-30,90]",AME,2016 (4.2),Juvenile,Early,Intermediate,222.9483,NA,35.82713791,NA
+DM16219,Steamboat Slough,Within Delta,22/03/2016,sein,NA,2016,82,45,2,"(-30,90]",AME,2016 (4.2),Juvenile,Early,Intermediate,254.954,NA,36.50754709,NA
+DM16220,Steamboat Slough,Within Delta,22/03/2016,sein,NA,2016,82,50,2,"(-30,90]",AME,2016 (4.2),Juvenile,Early,Intermediate,227.2309,NA,35.9181817,NA
+DM16222,Garcia Bend,Within Delta,22/03/2016,sein,NA,2016,82,38,1.5,"(-30,90]",AME,2016 (4.2),Juvenile,Early,Intermediate,176.729,NA,34.84456181,NA
+DM16223,Steamboat Slough,Within Delta,22/03/2016,sein,NA,2016,82,47,1,"(-30,90]",AME,2016 (4.2),Juvenile,Early,Intermediate,226.7976,NA,35.90897018,NA
+DM16224,Garcia Bend,Within Delta,29/03/2016,sein,NA,2016,89,36,2,"(-30,90]",AME,2016 (4.2),Juvenile,Early,Intermediate,222.831,NA,35.82464423,NA
+DM16228,Steamboat Slough,Within Delta,22/03/2016,sein,NA,2016,82,40,1.5,"(-30,90]",AME,2016 (4.2),Juvenile,Early,Intermediate,211.3845,NA,35.58130309,NA
+DM16229,B&W Marina,Within Delta,04/02/2016,sein,NA,2016,35,32,1.5,"(-30,90]",AME,2016 (4.2),Juvenile,Early,Intermediate,184.523,NA,35.01025446,NA
+DM16263,Clarksburg,Within Delta,11/03/2016,sein,NA,2016,71,34,1.5,"(-30,90]",AME,2016 (4.2),Juvenile,Early,Intermediate,226.341,NA,35.89926332,NA
+DM16286,Chipps Island,Delta Exit,27/04/2016,mwtr,NA,2016,118,81,1.5,"(90,210]",AME,2016 (4.2),Juvenile,Early,Intermediate,189.6713,NA,35.11970217,81
+DM16298,Garcia Bend,Within Delta,13/04/2016,sein,NA,2016,104,73,1.5,"(90,210]",AME,2016 (4.2),Juvenile,Early,Intermediate,228.7636,NA,35.95076537,NA
+DM16300,Garcia Bend,Within Delta,19/04/2016,sein,NA,2016,110,65,2,"(90,210]",AME,2016 (4.2),Juvenile,Early,Intermediate,218.4404,NA,35.73130446,NA
+DM16301,Garcia Bend,Within Delta,18/02/2016,sein,NA,2016,49,36,1.666666667,"(-30,90]",AME,2016 (4.2),Juvenile,Early,Intermediate,196.9923,NA,35.27533931,NA
+DM16302,Garcia Bend,Within Delta,19/04/2016,sein,NA,2016,110,71,1.666666667,"(90,210]",AME,2016 (4.2),Juvenile,Early,Intermediate,232.795,NA,36.03646891,NA
+DM16304,Garcia Bend,Within Delta,13/04/2016,sein,NA,2016,104,58,2,"(90,210]",AME,2016 (4.2),Juvenile,Early,Intermediate,312.062,NA,45.81629092,NA
+DM16305,Garcia Bend,Within Delta,19/04/2016,sein,NA,2016,110,60,2,"(90,210]",AME,2016 (4.2),Juvenile,Early,Intermediate,260.4177,NA,37.26089618,NA
+DM16306,Garcia Bend,Within Delta,19/04/2016,sein,NA,2016,110,65,1.666666667,"(90,210]",AME,2016 (4.2),Juvenile,Early,Intermediate,289.5661,NA,42.08962013,NA
+DM16307,Clarksburg,Within Delta,25/02/2016,sein,NA,2016,56,40,1.666666667,"(-30,90]",AME,2016 (4.2),Juvenile,Early,Intermediate,233.2,NA,36.0450788,NA
+DM16308,Garcia Bend,Within Delta,25/02/2016,sein,NA,2016,56,44,1.333333333,"(-30,90]",AME,2016 (4.2),Juvenile,Early,Intermediate,273.477,NA,39.42429982,NA
+DM16314,Clarksburg,Within Delta,25/02/2016,sein,NA,2016,56,42,1.5,"(-30,90]",AME,2016 (4.2),Juvenile,Early,Intermediate,243.692,NA,36.26812823,NA
+DM16315,Garcia Bend,Within Delta,25/02/2016,sein,NA,2016,56,36,1.5,"(-30,90]",AME,2016 (4.2),Juvenile,Early,Intermediate,174.897,NA,34.80561532,NA
+DM16319,Garcia Bend,Within Delta,18/02/2016,sein,NA,2016,49,35,1.75,"(-30,90]",AME,2016 (4.2),Juvenile,Early,Intermediate,197.662,NA,35.28957646,NA
+DM16328,Rio Vista,Within Delta,06/04/2016,sein,NA,2016,97,35,1.75,"(90,210]",AME,2016 (4.2),Juvenile,Early,Intermediate,218.985,NA,35.74288212,NA
+DM16331,Rio Vista,Within Delta,06/04/2016,sein,NA,2016,97,38,2,"(90,210]",AME,2016 (4.2),Juvenile,Early,Intermediate,200.27,NA,35.34501993,NA
+DM16332,Rio Vista,Within Delta,06/04/2016,sein,NA,2016,97,36,2,"(90,210]",AME,2016 (4.2),Juvenile,Early,Intermediate,214.246,NA,35.64213571,NA
+DM16333,Terminous,Within Delta,17/03/2016,sein,NA,2016,77,38,1.5,"(-30,90]",AME,2016 (4.2),Juvenile,Early,Intermediate,206.462,NA,35.47665566,NA
+DM16334,Sandy Beach,Within Delta,10/03/2016,sein,NA,2016,70,35,1.5,"(-30,90]",AME,2016 (4.2),Juvenile,Early,Intermediate,160.397,NA,34.49735982,NA
+DM16335,Eddo’s,Within Delta,31/03/2016,sein,NA,2016,91,41,2,"(90,210]",AME,2016 (4.2),Juvenile,Early,Intermediate,217.3187,NA,35.70745824,NA
+DM16338,Koket,Within Delta,15/03/2016,sein,NA,2016,75,43,1.333333333,"(-30,90]",AME,2016 (4.2),Juvenile,Early,Intermediate,231.0174,NA,35.99867891,NA
+DM16339,Sandy Beach,Within Delta,25/03/2016,sein,NA,2016,85,43,2,"(-30,90]",AME,2016 (4.2),Juvenile,Late,Intermediate,345.262,NA,51.31620292,NA
+DM16341,Eddo’s,Within Delta,31/03/2016,sein,NA,2016,91,40,1.666666667,"(90,210]",AME,2016 (4.2),Juvenile,Early,Intermediate,249.785,NA,36.39765932,NA
+DM16342,B&W Marina,Within Delta,17/03/2016,sein,NA,2016,77,51,1.333333333,"(-30,90]",AME,2016 (4.2),Juvenile,Early,Intermediate,256.3408,NA,36.58551693,NA
+DM16343,Koket,Within Delta,15/03/2016,sein,NA,2016,75,43,2,"(-30,90]",AME,2016 (4.2),Juvenile,Early,Intermediate,244.3074,NA,36.28121102,NA
+DM16344,Eddo’s,Within Delta,31/03/2016,sein,NA,2016,91,45,1.333333333,"(90,210]",AME,2016 (4.2),Juvenile,Early,Intermediate,223.385,NA,35.83642172,NA
+DM16345,B&W Marina,Within Delta,17/03/2016,sein,NA,2016,77,37,1.333333333,"(-30,90]",AME,2016 (4.2),Juvenile,Early,Intermediate,194.833,NA,35.22943475,NA
+DM16346,Terminous,Within Delta,17/03/2016,sein,NA,2016,77,38,1.5,"(-30,90]",AME,2016 (4.2),Juvenile,Early,Intermediate,208.469,NA,35.51932247,NA
+DM16347,Eddo’s,Within Delta,31/03/2016,sein,NA,2016,91,37,2,"(90,210]",AME,2016 (4.2),Juvenile,Early,Intermediate,195.631,NA,35.24639943,NA
+DM16352,Eddo’s,Within Delta,25/03/2016,sein,NA,2016,85,41,2,"(-30,90]",AME,2016 (4.2),Juvenile,Early,Intermediate,230.8784,NA,35.99572391,NA
+DM16353,Eddo’s,Within Delta,31/03/2016,sein,NA,2016,91,41,1.333333333,"(90,210]",AME,2016 (4.2),Juvenile,Early,Intermediate,235.433,NA,36.09255015,NA
+DM16354,Eddo’s,Within Delta,31/03/2016,sein,NA,2016,91,44,1.833333333,"(90,210]",AME,2016 (4.2),Juvenile,Early,Intermediate,229.6625,NA,35.96987509,NA
+DM16355,Eddo’s,Within Delta,31/03/2016,sein,NA,2016,91,43,1.666666667,"(90,210]",AME,2016 (4.2),Juvenile,Early,Intermediate,219.323,NA,35.75006766,NA
+DM16356,Wimpy’s,Within Delta,03/03/2016,sein,NA,2016,63,43,1.5,"(-30,90]",AME,2016 (4.2),Juvenile,Early,Intermediate,210.4627,NA,35.56170654,NA
+DM16359,Eddo’s,Within Delta,25/03/2016,sein,NA,2016,85,41,2,"(-30,90]",AME,2016 (4.2),Juvenile,Early,Intermediate,215.9509,NA,35.67838018,NA
+DM16360,Koket,Within Delta,15/03/2016,sein,NA,2016,75,36,1.333333333,"(-30,90]",AME,2016 (4.2),Juvenile,Early,Intermediate,217.488,NA,35.71105739,NA
+DM16361,Eddo’s,Within Delta,31/03/2016,sein,NA,2016,91,39,1.333333333,"(90,210]",AME,2016 (4.2),Juvenile,Early,Intermediate,200.3696,NA,35.34713733,NA
+DM16362,Sandy Beach,Within Delta,10/03/2016,sein,NA,2016,70,39,1,"(-30,90]",AME,2016 (4.2),Juvenile,Early,Intermediate,211.641,NA,35.58675602,NA
+DM16363,Koket,Within Delta,15/03/2016,sein,NA,2016,75,38,2,"(-30,90]",AME,2016 (4.2),Juvenile,Early,Intermediate,242.3184,NA,36.23892687,NA
+DM16364,Medford Island,Within Delta,17/03/2016,sein,NA,2016,77,49,1,"(-30,90]",AME,2016 (4.2),Juvenile,Early,Intermediate,232.523,NA,36.03068646,NA
+DM16365,Eddo’s,Within Delta,25/03/2016,sein,NA,2016,85,43,1.5,"(-30,90]",AME,2016 (4.2),Juvenile,Early,Intermediate,159.038,NA,34.46846884,NA
+DM16367,Eddo’s,Within Delta,31/03/2016,sein,NA,2016,91,37,2,"(90,210]",AME,2016 (4.2),Juvenile,Early,Intermediate,222.524,NA,35.81811772,NA
+DM16368,Eddo’s,Within Delta,25/03/2016,sein,NA,2016,85,36,1.5,"(-30,90]",AME,2016 (4.2),Juvenile,Early,Intermediate,223.046,NA,35.82921491,NA
+DM16369,Terminous,Within Delta,17/03/2016,sein,NA,2016,77,38,2,"(-30,90]",AME,2016 (4.2),Juvenile,Early,Intermediate,212.051,NA,35.59547221,NA
+DM16370,B&W Marina,Within Delta,17/03/2016,sein,NA,2016,77,36,1.166666667,"(-30,90]",AME,2016 (4.2),Juvenile,Early,Intermediate,217.631,NA,35.71409743,NA
+DM16372,Steamboat Slough,Within Delta,03/03/2016,sein,NA,2016,63,36,1.666666667,"(-30,90]",AME,2016 (4.2),Juvenile,Early,Intermediate,217.969,NA,35.72128297,NA
+DM16373,Sandy Beach,Within Delta,10/03/2016,sein,NA,2016,70,31,1.666666667,"(-30,90]",AME,2016 (4.2),Juvenile,Early,Intermediate,204.769,NA,35.44066417,NA
+DM16374,Steamboat Slough,Within Delta,03/03/2016,sein,NA,2016,63,34,1.5,"(-30,90]",AME,2016 (4.2),Juvenile,Early,Intermediate,189.849,NA,35.12347989,NA
+DM16380,B&W Marina,Within Delta,21/01/2016,sein,NA,2016,21,34,1.5,"(-30,90]",AME,2016 (4.2),Juvenile,Early,Intermediate,188.862,NA,35.10249726,NA
+DM16381,Rio Vista,Within Delta,06/04/2016,sein,NA,2016,97,38,2,"(90,210]",AME,2016 (4.2),Juvenile,Early,Intermediate,161.785,NA,34.52686732,NA
+DM16383,Sandy Beach,Within Delta,06/04/2016,sein,NA,2016,97,45,2,"(90,210]",AME,2016 (4.2),Juvenile,Early,Intermediate,222.065,NA,35.80835984,NA
+DM16384,Sandy Beach,Within Delta,06/04/2016,sein,NA,2016,97,47,1.666666667,"(90,210]",AME,2016 (4.2),Juvenile,Early,Intermediate,221.1527,NA,35.78896525,NA
+DM16385,Sandy Beach,Within Delta,06/04/2016,sein,NA,2016,97,46,2,"(90,210]",AME,2016 (4.2),Juvenile,Early,Intermediate,260.595,NA,37.2902677,NA
+DM16386,Sandy Beach,Within Delta,06/04/2016,sein,NA,2016,97,40,1.666666667,"(90,210]",AME,2016 (4.2),Juvenile,Early,Intermediate,246.5625,NA,36.32915219,NA
+DM16389,Koket,Within Delta,19/04/2016,sein,NA,2016,110,47,2,"(90,210]",AME,2016 (4.2),Juvenile,Early,Intermediate,235.9327,NA,36.10317327,NA
+DM16390,Clarksburg,Within Delta,03/03/2016,sein,NA,2016,63,35,1.333333333,"(-30,90]",AME,2016 (4.2),Juvenile,Early,Intermediate,237.878,NA,36.1445284,NA
+DM16409,Chipps Island,Delta Exit,06/05/2016,mwtr,NA,2016,127,84,2,"(90,210]",AME,2016 (4.2),Juvenile,Late,Intermediate,364.1281,NA,54.44156105,84
+DM16423,Chipps Island,Delta Exit,20/04/2016,mwtr,NA,2016,111,79,1,"(90,210]",AME,2016 (4.2),Juvenile,Early,Intermediate,209.9634,NA,35.55109192,79
+DM16435,Chipps Island,Delta Exit,27/05/2016,mwtr,NA,2016,148,85,1,"(90,210]",AME,2016 (4.2),Juvenile,Late,Intermediate,496.862,NA,76.43025892,85
+DM16472,Chipps Island,Delta Exit,11/05/2016,mwtr,NA,2016,132,87,2,"(90,210]",AME,2016 (4.2),Juvenile,Early,Intermediate,200.0872,NA,35.34113378,87
+DM16489,Chipps Island,Delta Exit,11/05/2016,mwtr,NA,2016,132,73,1.833333333,"(90,210]",AME,2016 (4.2),Juvenile,Early,Intermediate,171.7823,NA,34.73939992,73
+DM16515,Chipps Island,Delta Exit,01/06/2016,mwtr,NA,2016,153,94,2,"(90,210]",AME,2016 (4.2),Juvenile,Late,Intermediate,508.7232,NA,78.39518531,94
+DM16541,Chipps Island,Delta Exit,29/04/2016,mwtr,NA,2016,120,73,2,"(90,210]",AME,2016 (4.2),Juvenile,Early,Intermediate,247.9528,NA,36.35870858,73
+DM16546,Chipps Island,Delta Exit,16/05/2016,mwtr,NA,2016,137,80,2,"(90,210]",AME,2016 (4.2),Juvenile,Late,Intermediate,395.103,NA,59.57286298,80
+DM16578,Chipps Island,Delta Exit,13/06/2016,mwtr,NA,2016,165,86,2,"(90,210]",AME,2016 (4.2),Juvenile,Late,Intermediate,500.223,NA,76.98704218,86
+DM16579,Chipps Island,Delta Exit,13/06/2016,mwtr,NA,2016,165,81,1.666666667,"(90,210]",AME,2016 (4.2),Juvenile,Late,Intermediate,455.819,NA,69.63107554,81
+DM16591,Chipps Island,Delta Exit,22/04/2016,mwtr,NA,2016,113,71,2,"(90,210]",AME,2016 (4.2),Juvenile,Early,Intermediate,282.844,NA,40.97603704,71
+DM16605,Chipps Island,Delta Exit,18/05/2016,mwtr,NA,2016,139,89,2,"(90,210]",AME,2016 (4.2),Juvenile,Late,Intermediate,420.708,NA,63.81458728,89
+DM16606,Chipps Island,Delta Exit,18/05/2016,mwtr,NA,2016,139,90,1.5,"(90,210]",AME,2016 (4.2),Juvenile,Early,Intermediate,176.3431,NA,34.83635796,90
+DM16614,Chipps Island,Delta Exit,20/05/2016,mwtr,NA,2016,141,86,2,"(90,210]",AME,2016 (4.2),Juvenile,Late,Intermediate,374.261,NA,56.12017726,86
+DM16627,Chipps Island,Delta Exit,02/05/2016,mwtr,NA,2016,123,67,2,"(90,210]",AME,2016 (4.2),Juvenile,Early,Intermediate,251.8966,NA,36.44254982,67
+DM16636,Chipps Island,Delta Exit,04/05/2016,mwtr,NA,2016,125,83,2,"(90,210]",AME,2016 (4.2),Juvenile,Late,Intermediate,399.3394,NA,60.274665,83
+DM16644,Chipps Island,Delta Exit,04/05/2016,mwtr,NA,2016,125,72,1.5,"(90,210]",AME,2016 (4.2),Juvenile,Early,Intermediate,235.2776,NA,36.0892465,72
+DM16645,Chipps Island,Delta Exit,04/05/2016,mwtr,NA,2016,125,85,2,"(90,210]",AME,2016 (4.2),Juvenile,Early,Intermediate,206.1731,NA,35.47051393,85
+DM16646,Chipps Island,Delta Exit,04/05/2016,mwtr,NA,2016,125,74,2,"(90,210]",AME,2016 (4.2),Juvenile,Early,Intermediate,230.9585,NA,35.99742675,74
+DM16651,Chipps Island,Delta Exit,25/05/2016,mwtr,NA,2016,146,86,2,"(90,210]",AME,2016 (4.2),Juvenile,Early,Intermediate,257.639,NA,36.80057674,86
+DM16680,Chipps Island,Delta Exit,15/06/2016,mwtr,NA,2016,167,70,1.666666667,"(90,210]",AME,2016 (4.2),Juvenile,Late,Intermediate,441.32,NA,67.2291712,70
+DM16709,Sherwood Harbor,Delta entry,04/04/2016,kdtr,NA,2016,95,59,2,"(90,210]",AME,2016 (4.2),Juvenile,Late,Intermediate,350.646,NA,52.20811636,NA
+DM17007,Sherwood Harbor,Delta entry,16/02/2017,kdtr,NA,2017,47,51,1,"(-30,90]",AME,2017 (15.3),Juvenile,Late,Wet,331.016,NA,48.95621056,NA
+DM17039,Sherwood Harbor,Delta entry,27/02/2017,kdtr,NA,2017,58,54,2,"(-30,90]",AME,2017 (15.3),Juvenile,Late,Wet,341.254,NA,50.65223764,NA
+DM17071,Koket,Within Delta,04/04/2017,sein,NA,2017,94,52,2,"(90,210]",AME,2017 (15.3),Juvenile,Early,Wet,273.7676,NA,39.47244062,NA
+DM17072,Koket,Within Delta,04/04/2017,sein,NA,2017,94,45,2,"(90,210]",AME,2017 (15.3),Juvenile,Early,Wet,252.1861,NA,36.4487043,NA
+DM17075,Keller Beach,Bay,14/03/2017,sein,NA,2017,73,47,1.666666667,"(-30,90]",AME,2017 (15.3),Juvenile,Early,Wet,195.6997,NA,35.24785992,NA
+DM17077,Treasure Island,Bay,14/03/2017,sein,NA,2017,73,42,1.333333333,"(-30,90]",AME,2017 (15.3),Juvenile,Early,Wet,230.492,NA,35.98750943,NA
+DM17079,Rio Vista,Within Delta,05/04/2017,sein,NA,2017,95,40,1.666666667,"(90,210]",AME,2017 (15.3),Juvenile,Early,Wet,245.046,NA,36.29691291,NA
+DM17089,B&W Marina,Within Delta,03/03/2017,sein,NA,2017,62,37,1.666666667,"(-30,90]",AME,2017 (15.3),Juvenile,Early,Wet,192.115,NA,35.17165279,NA
+DM17098,Paradise Beach,Bay,23/03/2017,sein,NA,2017,82,55,1,"(-30,90]",AME,2017 (15.3),Juvenile,Late,Wet,336.769,NA,49.90925254,NA
+DM17105,Rio Vista,Within Delta,29/03/2017,sein,NA,2017,88,45,2,"(-30,90]",AME,2017 (15.3),Juvenile,Early,Wet,264.1024,NA,37.87130358,NA
+DM17111,Rio Vista,Within Delta,29/03/2017,sein,NA,2017,88,62,1.833333333,"(-30,90]",AME,2017 (15.3),Juvenile,Early,Wet,220.5527,NA,35.77620985,NA
+DM17133,Sandy Beach,Within Delta,14/03/2017,sein,NA,2017,73,37,1.5,"(-30,90]",AME,2017 (15.3),Juvenile,Early,Wet,224.4,NA,35.8579996,NA
+DM17138,Sandy Beach,Within Delta,14/03/2017,sein,NA,2017,73,40,1.666666667,"(-30,90]",AME,2017 (15.3),Juvenile,Early,Wet,218.7555,NA,35.73800317,NA
+DM17145,Rio Vista,Within Delta,22/03/2017,sein,NA,2017,81,41,1.666666667,"(-30,90]",AME,2017 (15.3),Juvenile,Early,Wet,256.1712,NA,36.55742099,NA
+DM17146,B&W Marina,Within Delta,22/03/2017,sein,NA,2017,81,38,1.5,"(-30,90]",AME,2017 (15.3),Juvenile,Early,Wet,222.971,NA,35.82762049,NA
+DM17147,Rio Vista,Within Delta,22/03/2017,sein,NA,2017,81,35,1.333333333,"(-30,90]",AME,2017 (15.3),Juvenile,Early,Wet,218.847,NA,35.73994837,NA
+DM17148,Rio Vista,Within Delta,22/03/2017,sein,NA,2017,81,40,1,"(-30,90]",AME,2017 (15.3),Juvenile,Early,Wet,231.081,NA,36.00003098,NA
+DM17152,Wimpy’s,Within Delta,24/03/2017,sein,NA,2017,83,57,1.666666667,"(-30,90]",AME,2017 (15.3),Juvenile,Early,Wet,224.4497,NA,35.85905617,NA
+DM17164,McNear’s Beach,Bay,24/02/2017,sein,NA,2017,55,35,1.833333333,"(-30,90]",AME,2017 (15.3),Juvenile,Early,Wet,224.522,NA,35.8605932,NA
+DM17165,McNear’s Beach,Bay,24/02/2017,sein,NA,2017,55,34,2,"(-30,90]",AME,2017 (15.3),Juvenile,Early,Wet,183.785,NA,34.99456532,NA
+DM17198,Isleton,Within Delta,16/02/2017,sein,NA,2017,47,47,1,"(-30,90]",AME,2017 (15.3),Juvenile,Early,Wet,216.1714,NA,35.68306779,NA
+DM17200,Eddo’s,Within Delta,14/02/2017,sein,NA,2017,45,37,1.5,"(-30,90]",AME,2017 (15.3),Juvenile,Early,Wet,185.9949,NA,35.04154558,NA
+DM17201,Berkeley Frontage,Bay,14/02/2017,sein,NA,2017,45,35,1.333333333,"(-30,90]",AME,2017 (15.3),Juvenile,Early,Wet,208.154,NA,35.51262589,NA
+DM17216,Isleton,Within Delta,16/02/2017,sein,NA,2017,47,36,1.5,"(-30,90]",AME,2017 (15.3),Juvenile,Early,Wet,191.723,NA,35.16331926,NA
+DM17272,B&W Marina,Within Delta,11/04/2017,sein,NA,2017,101,37,1.666666667,"(90,210]",AME,2017 (15.3),Juvenile,Early,Wet,229.477,NA,35.96593154,NA
+DM17280,B&W Marina,Within Delta,11/04/2017,sein,NA,2017,101,36,1.5,"(90,210]",AME,2017 (15.3),Juvenile,Early,Wet,198,NA,35.296762,NA
+DM17281,Antioch Dunes,Within Delta,11/04/2017,sein,NA,2017,101,52,1.666666667,"(90,210]",AME,2017 (15.3),Juvenile,Early,Wet,221.5801,NA,35.79805135,NA
+DM17288,Koket,Within Delta,19/04/2017,sein,NA,2017,109,58,2,"(90,210]",AME,2017 (15.3),Juvenile,Early,Wet,221.3712,NA,35.79361034,NA
+DM17291,Rio Vista,Within Delta,20/04/2017,sein,NA,2017,110,64,2,"(90,210]",AME,2017 (15.3),Juvenile,Early,Wet,246.0846,NA,36.31899251,NA
+DM17295,Sandy Beach,Within Delta,20/04/2017,sein,NA,2017,110,50,2,"(90,210]",AME,2017 (15.3),Juvenile,Early,Wet,269.8884,NA,38.82981234,NA
+DM17298,Clarksburg,Within Delta,19/04/2017,sein,NA,2017,109,71,1,"(90,210]",AME,2017 (15.3),Juvenile,Early,Wet,237.1072,NA,36.12814196,NA
+DM17299,Clarksburg,Within Delta,19/04/2017,sein,NA,2017,109,55,2,"(90,210]",AME,2017 (15.3),Juvenile,Early,Wet,249.5011,NA,36.39162388,NA
+DM17307,Isleton,Within Delta,07/03/2017,sein,NA,2017,66,38,1,"(-30,90]",AME,2017 (15.3),Juvenile,Early,Wet,204.39,NA,35.43260701,NA
+DM17308,Isleton,Within Delta,07/03/2017,sein,NA,2017,66,33,1.333333333,"(-30,90]",AME,2017 (15.3),Juvenile,Early,Wet,241.662,NA,36.22497246,NA
+DM17309,Isleton,Within Delta,01/03/2017,sein,NA,2017,60,36,1.333333333,"(-30,90]",AME,2017 (15.3),Juvenile,Early,Wet,246.062,NA,36.31851206,NA
+DM17312,Rio Vista,Within Delta,03/05/2017,sein,NA,2017,123,75,2,"(90,210]",AME,2017 (15.3),Juvenile,Early,Wet,215.714,NA,35.67334393,NA
+DM17313,Rio Vista,Within Delta,03/05/2017,sein,NA,2017,123,60,2,"(90,210]",AME,2017 (15.3),Juvenile,Early,Wet,233.1022,NA,36.04299967,NA
+DM17317,Rio Vista,Within Delta,27/04/2017,sein,NA,2017,117,61,1.833333333,"(90,210]",AME,2017 (15.3),Juvenile,Early,Wet,228.0957,NA,35.93656649,NA
+DM17539,Chipps Island,Delta Exit,19/05/2017,mwtr,NA,2017,139,69,1.666666667,"(90,210]",AME,2017 (15.3),Juvenile,Late,Wet,339.372,NA,50.34046552,69
+DM17541,Chipps Island,Delta Exit,19/06/2017,mwtr,NA,2017,170,86,2,"(90,210]",AME,2017 (15.3),Juvenile,Late,Wet,432.554,NA,65.77699564,86
+DM17542,Chipps Island,Delta Exit,19/06/2017,mwtr,NA,2017,170,90,2,"(90,210]",AME,2017 (15.3),Juvenile,Late,Wet,401.1418,NA,60.57325059,90
+DM17543,Chipps Island,Delta Exit,19/06/2017,mwtr,NA,2017,170,87,2,"(90,210]",AME,2017 (15.3),Juvenile,Late,Wet,421.8231,NA,63.99931475,87
+DM17549,Chipps Island,Delta Exit,05/06/2017,mwtr,NA,2017,156,80,2,"(90,210]",AME,2017 (15.3),Juvenile,Late,Wet,487.385,NA,74.8602991,80
+DM17550,Chipps Island,Delta Exit,05/06/2017,mwtr,NA,2017,156,86,1.666666667,"(90,210]",AME,2017 (15.3),Juvenile,Late,Wet,495.508,NA,76.20595528,86
+DM17553,Chipps Island,Delta Exit,07/06/2017,mwtr,NA,2017,158,79,2,"(90,210]",AME,2017 (15.3),Juvenile,Late,Wet,460.308,NA,70.37472328,79
+DM17554,Chipps Island,Delta Exit,07/06/2017,mwtr,NA,2017,158,85,2,"(90,210]",AME,2017 (15.3),Juvenile,Late,Wet,483.662,NA,74.24354692,85
+DM17563,Chipps Island,Delta Exit,26/05/2017,mwtr,NA,2017,146,87,2,"(90,210]",AME,2017 (15.3),Juvenile,Early,Wet,251.5314,NA,36.43478603,87
+DM17564,Chipps Island,Delta Exit,02/06/2017,mwtr,NA,2017,153,86,1.5,"(90,210]",AME,2017 (15.3),Juvenile,Late,Wet,527.97,NA,81.5836102,86
+DM17568,Chipps Island,Delta Exit,15/05/2017,mwtr,NA,2017,135,95,1,"(90,210]",AME,2017 (15.3),Juvenile,Late,Wet,439.96,NA,67.0038736,95
+DM17571,Chipps Island,Delta Exit,15/05/2017,mwtr,NA,2017,135,82,2,"(90,210]",AME,2017 (15.3),Juvenile,Late,Wet,433.617,NA,65.95309222,82
+DM17575,Chipps Island,Delta Exit,12/05/2017,mwtr,NA,2017,132,82,1.166666667,"(90,210]",AME,2017 (15.3),Juvenile,Late,Wet,413.681,NA,62.65049446,82
+DM17606,Chipps Island,Delta Exit,28/04/2017,mwtr,NA,2017,118,82,1,"(90,210]",AME,2017 (15.3),Juvenile,Late,Wet,456.725,NA,69.7811635,82
+DM17689,Sherwood Harbor,Delta entry,24/04/2017,kdtr,NA,2017,114,81,1.166666667,"(90,210]",AME,2017 (15.3),Juvenile,Late,Wet,440.5165,NA,67.09606339,NA
+DM17692,Sherwood Harbor,Delta entry,05/01/2017,kdtr,NA,2017,5,37,1.666666667,"(-30,90]",AME,2017 (15.3),Juvenile,Early,Wet,201.218,NA,35.36517346,NA
+DM17693,Sherwood Harbor,Delta entry,19/12/2016,kdtr,NA,2017,-11,36,1.333333333,"(-30,90]",AME,2017 (15.3),Juvenile,Early,Wet,192.246,NA,35.17443771,NA
+DM17707,Garcia Bend,Within Delta,30/03/2017,sein,NA,2017,89,41,1,"(-30,90]",AME,2017 (15.3),Juvenile,Early,Wet,216.954,NA,35.69970509,NA
+DM17714,Garcia Bend,Within Delta,30/03/2017,sein,NA,2017,89,40,1.166666667,"(-30,90]",AME,2017 (15.3),Juvenile,Early,Wet,231.7741,NA,36.01476559,NA
+DM17725,Sherwood Harbor,Delta entry,03/03/2017,kdtr,NA,2017,62,38,1,"(-30,90]",AME,2017 (15.3),Juvenile,Early,Wet,217.969,NA,35.72128297,NA
+DM17739,Sherwood Harbor,Delta entry,23/01/2017,kdtr,NA,2017,23,42,1.333333333,"(-30,90]",AME,2017 (15.3),Juvenile,Early,Wet,257.3431,NA,36.75155795,NA
+DM17783,Sherwood Harbor,Delta entry,01/03/2017,kdtr,NA,2017,60,46,1.833333333,"(-30,90]",AME,2017 (15.3),Juvenile,Early,Wet,236.585,NA,36.11704052,NA
+DM17796,Sherwood Harbor,Delta entry,25/02/2017,kdtr,NA,2017,56,38,1,"(-30,90]",AME,2017 (15.3),Juvenile,Early,Wet,189.2,NA,35.1096828,NA
+DM17815,Sherwood Harbor,Delta entry,04/02/2017,kdtr,NA,2017,35,39,2,"(-30,90]",AME,2017 (15.3),Juvenile,Early,Wet,197.0677,NA,35.27694223,NA
+DM17825,B&W Marina,Within Delta,18/01/2017,sein,NA,2017,18,39,1,"(-30,90]",AME,2017 (15.3),Juvenile,Early,Wet,199.7335,NA,35.33361448,NA
+DM17860,Keller Beach,Bay,10/04/2017,sein,NA,2017,100,74,1.5,"(90,210]",AME,2017 (15.3),Juvenile,Early,Wet,230,NA,35.97705,NA
+DM18006,Chipps Island,Delta Exit,18/04/2018,mwtr,NA,2018,108,78,2,"(90,210]",AME,2018 (4),Juvenile,Early,Intermediate,244.9409,NA,36.29467859,78
+DM18011,Chipps Island,Delta Exit,18/04/2018,mwtr,NA,2018,108,74,1.5,"(90,210]",AME,2018 (4),Juvenile,Early,Intermediate,239.1769,NA,36.17214172,74
+DM18063,Chipps Island,Delta Exit,27/04/2018,mwtr,NA,2018,117,85,1.666666667,"(90,210]",AME,2018 (4),Juvenile,Late,Intermediate,467.146,NA,71.50750636,85
+DM18153,Chipps Island,Delta Exit,18/05/2018,mwtr,NA,2018,138,84,1.833333333,"(90,210]",AME,2018 (4),Juvenile,Late,Intermediate,516.64,NA,79.7066824,84
+DM18158,Steamboat Slough,Within Delta,03/05/2018,sein,NA,2018,123,63,2,"(90,210]",AME,2018 (4),Juvenile,Early,Intermediate,204.1445,NA,35.42738793,NA
+DM18160,Steamboat Slough,Within Delta,03/05/2018,sein,NA,2018,123,62,1.666666667,"(90,210]",AME,2018 (4),Juvenile,Early,Intermediate,258.0101,NA,36.86205317,NA
+DM18161,Steamboat Slough,Within Delta,03/05/2018,sein,NA,2018,123,60,2,"(90,210]",AME,2018 (4),Juvenile,Early,Intermediate,228.9313,NA,35.95433051,NA
+DM18185,Chipps Island,Delta Exit,04/06/2018,mwtr,NA,2018,155,78,2,"(90,210]",AME,2018 (4),Juvenile,Late,Intermediate,449.6088,NA,68.60229381,78
+DM18186,Chipps Island,Delta Exit,01/06/2018,mwtr,NA,2018,152,79,2,"(90,210]",AME,2018 (4),Juvenile,Late,Intermediate,434.4082,NA,66.08416241,79
+DM18322,Chipps Island,Delta Exit,11/05/2018,mwtr,NA,2018,131,70,1.833333333,"(90,210]",AME,2018 (4),Juvenile,Early,Intermediate,224.2854,NA,35.85556332,70
+DM18363,Isleton,Within Delta,05/04/2018,sein,NA,2018,95,35,1,"(90,210]",AME,2018 (4),Juvenile,Early,Intermediate,191.231,NA,35.15285983,NA
+DM18364,Isleton,Within Delta,05/04/2018,sein,NA,2018,95,40,1.5,"(90,210]",AME,2018 (4),Juvenile,Early,Intermediate,245.9382,NA,36.31588019,NA
+DM18372,Isleton,Within Delta,05/04/2018,sein,NA,2018,95,39,1.166666667,"(90,210]",AME,2018 (4),Juvenile,Early,Intermediate,214.1567,NA,35.64023729,NA
+DM18376,Koket,Within Delta,05/04/2018,sein,NA,2018,95,54,1.333333333,"(90,210]",AME,2018 (4),Juvenile,Early,Intermediate,221.3684,NA,35.79355082,NA
+DM18382,Steamboat Slough,Within Delta,05/04/2018,sein,NA,2018,95,39,1.333333333,"(90,210]",AME,2018 (4),Juvenile,Early,Intermediate,207.4403,NA,35.49745334,NA
+DM18383,Rio Vista,Within Delta,25/04/2018,sein,NA,2018,115,47,2,"(90,210]",AME,2018 (4),Juvenile,Early,Intermediate,250.2724,NA,36.40802095,NA
+DM18385,Sandy Beach,Within Delta,10/04/2018,sein,NA,2018,100,76,1.666666667,"(90,210]",AME,2018 (4),Juvenile,Late,Intermediate,433.908,NA,66.00129928,NA
+DM18388,Sherman Island,Within Delta,10/04/2018,sein,NA,2018,100,45,1.5,"(90,210]",AME,2018 (4),Juvenile,Early,Intermediate,226.6424,NA,35.90567078,NA
+DM18389,Antioch Dunes,Within Delta,10/04/2018,sein,NA,2018,100,45,1.833333333,"(90,210]",AME,2018 (4),Juvenile,Early,Intermediate,223.8231,NA,35.84573528,NA
+DM18390,Rio Vista,Within Delta,10/04/2018,sein,NA,2018,100,37,2,"(90,210]",AME,2018 (4),Juvenile,Early,Intermediate,232.0162,NA,36.0199124,NA
+DM18396,Garcia Bend,Within Delta,12/03/2018,sein,NA,2018,71,51,2,"(-30,90]",AME,2018 (4),Juvenile,Early,Intermediate,267.3203,NA,38.4043809,NA
+DM18397,Koket,Within Delta,12/03/2018,sein,NA,2018,71,47,2,"(-30,90]",AME,2018 (4),Juvenile,Early,Intermediate,216.4984,NA,35.69001949,NA
+DM18398,Garcia Bend,Within Delta,12/03/2018,sein,NA,2018,71,46,2,"(-30,90]",AME,2018 (4),Juvenile,Early,Intermediate,256.1685,NA,36.55697371,NA
+DM18401,Steamboat Slough,Within Delta,05/04/2018,sein,NA,2018,95,58,2,"(90,210]",AME,2018 (4),Juvenile,Early,Intermediate,230.1766,NA,35.98080434,NA
+DM18402,Clarksburg,Within Delta,05/04/2018,sein,NA,2018,95,70,2,"(90,210]",AME,2018 (4),Juvenile,Early,Intermediate,230.3164,NA,35.98377635,NA
+DM18405,Clarksburg,Within Delta,05/04/2018,sein,NA,2018,95,38,2,"(90,210]",AME,2018 (4),Juvenile,Early,Intermediate,217.9727,NA,35.72136163,NA
+DM18411,Steamboat Slough,Within Delta,26/03/2018,sein,NA,2018,85,60,2,"(-30,90]",AME,2018 (4),Juvenile,Early,Intermediate,270.5019,NA,38.93144475,NA
+DM18412,Garcia Bend,Within Delta,26/03/2018,sein,NA,2018,85,34,1.5,"(-30,90]",AME,2018 (4),Juvenile,Early,Intermediate,194.42,NA,35.22065478,NA
+DM18414,Steamboat Slough,Within Delta,26/03/2018,sein,NA,2018,85,59,2,"(-30,90]",AME,2018 (4),Juvenile,Early,Intermediate,233.4642,NA,36.05069543,NA
+DM18420,Sandy Beach,Within Delta,08/03/2018,sein,NA,2018,67,54,1,"(-30,90]",AME,2018 (4),Juvenile,Early,Intermediate,181.9231,NA,34.95498318,NA
+DM18425,Steamboat Slough,Within Delta,23/01/2018,sein,NA,2018,23,40,1,"(-30,90]",AME,2018 (4),Juvenile,Early,Intermediate,214.814,NA,35.65421083,NA
+DM18426,Koket,Within Delta,23/01/2018,sein,NA,2018,23,41,2,"(-30,90]",AME,2018 (4),Juvenile,Early,Intermediate,233.7048,NA,36.05581034,NA
+DM18430,Clarksburg,Within Delta,23/01/2018,sein,NA,2018,23,39,1.166666667,"(-30,90]",AME,2018 (4),Juvenile,Early,Intermediate,193.0701,NA,35.19195726,NA
+DM18432,Rio Vista,Within Delta,23/01/2018,sein,NA,2018,23,40,2,"(-30,90]",AME,2018 (4),Juvenile,Early,Intermediate,211.1034,NA,35.57532718,NA
+DM18434,Rio Vista,Within Delta,23/01/2018,sein,NA,2018,23,41,1,"(-30,90]",AME,2018 (4),Juvenile,Early,Intermediate,239.9254,NA,36.18805408,NA
+DM18435,Rio Vista,Within Delta,23/01/2018,sein,NA,2018,23,43,2,"(-30,90]",AME,2018 (4),Juvenile,Early,Intermediate,208.5424,NA,35.52088288,NA
+DM18437,Sherwood Harbor,Delta entry,20/06/2018,kdtr,NA,2018,171,82,2,"(90,210]",AME,2018 (4),Juvenile,Late,Intermediate,485.562,NA,74.55830092,NA
+DM18438,Sherwood Harbor,Delta entry,29/05/2018,kdtr,NA,2018,149,88,2,"(90,210]",AME,2018 (4),Juvenile,Late,Intermediate,430.533,NA,65.44219678,NA
+DM18439,Sherwood Harbor,Delta entry,29/05/2018,kdtr,NA,2018,149,71,1.5,"(90,210]",AME,2018 (4),Juvenile,Late,Intermediate,319.5112,NA,47.05032539,NA
+DM18441,Sherwood Harbor,Delta entry,23/05/2018,kdtr,NA,2018,143,75,2,"(90,210]",AME,2018 (4),Juvenile,Late,Intermediate,388.84,NA,58.5353344,NA
+DM18444,Sherwood Harbor,Delta entry,11/05/2018,kdtr,NA,2018,131,88,2,"(90,210]",AME,2018 (4),Juvenile,Late,Intermediate,558.262,NA,86.60178292,NA
+DM18453,Sherwood Harbor,Delta entry,04/06/2018,kdtr,NA,2018,155,81,2,"(90,210]",AME,2018 (4),Juvenile,Late,Intermediate,464.07,NA,70.9979362,NA
+DM18454,Sherwood Harbor,Delta entry,12/05/2018,kdtr,NA,2018,132,86,2,"(90,210]",AME,2018 (4),Juvenile,Late,Intermediate,506.677,NA,78.05621182,NA
+DM18467,Sherwood Harbor,Delta entry,27/04/2018,kdtr,NA,2018,117,75,1.833333333,"(90,210]",AME,2018 (4),Juvenile,Early,Intermediate,180.3387,NA,34.92130042,NA
+DM18476,Sherwood Harbor,Delta entry,24/03/2018,kdtr,NA,2018,83,60,1.333333333,"(-30,90]",AME,2018 (4),Juvenile,Late,Intermediate,334.457,NA,49.52624662,NA
+DM18482,Sherwood Harbor,Delta entry,17/03/2018,kdtr,NA,2018,76,52,1.333333333,"(-30,90]",AME,2018 (4),Juvenile,Early,Intermediate,213.4939,NA,35.62614682,NA
+DM18485,Sherwood Harbor,Delta entry,17/03/2018,kdtr,NA,2018,76,46,2,"(-30,90]",AME,2018 (4),Juvenile,Early,Intermediate,298.654,NA,43.59512164,NA
+DM18486,Sherwood Harbor,Delta entry,27/03/2018,kdtr,NA,2018,86,60,2,"(-30,90]",AME,2018 (4),Juvenile,Late,Intermediate,341.254,NA,50.65223764,NA
+DM18506,Sherwood Harbor,Delta entry,03/03/2018,kdtr,NA,2018,62,49,1.833333333,"(-30,90]",AME,2018 (4),Juvenile,Early,Intermediate,276.901,NA,39.99151966,NA
+DM18507,Sherwood Harbor,Delta entry,25/03/2018,kdtr,NA,2018,84,36,2,"(-30,90]",AME,2018 (4),Juvenile,Early,Intermediate,200.311,NA,35.34589155,NA
+DM18508,Sherwood Harbor,Delta entry,25/03/2018,kdtr,NA,2018,84,37,1,"(-30,90]",AME,2018 (4),Juvenile,Early,Intermediate,202.881,NA,35.40052718,NA
+DM18517,Sherwood Harbor,Delta entry,26/01/2018,kdtr,NA,2018,26,46,1.166666667,"(-30,90]",AME,2018 (4),Juvenile,Early,Intermediate,260.586,NA,37.28877676,NA
+DM18522,Sherwood Harbor,Delta entry,17/01/2018,kdtr,NA,2018,17,38,2,"(-30,90]",AME,2018 (4),Juvenile,Early,Intermediate,224.784,NA,35.86616306,NA
+DM18523,Sherwood Harbor,Delta entry,18/01/2018,kdtr,NA,2018,18,35,1.5,"(-30,90]",AME,2018 (4),Juvenile,Early,Intermediate,195.78,NA,35.24956702,NA
+DM18525,Sherwood Harbor,Delta entry,29/01/2018,kdtr,NA,2018,29,37,1,"(-30,90]",AME,2018 (4),Juvenile,Early,Intermediate,218.892,NA,35.74090503,NA
+DM18526,Sherwood Harbor,Delta entry,24/01/2018,kdtr,NA,2018,24,36,1,"(-30,90]",AME,2018 (4),Juvenile,Early,Intermediate,220.252,NA,35.76981727,NA
+DM18527,Sherwood Harbor,Delta entry,10/01/2018,kdtr,NA,2018,10,38,1,"(-30,90]",AME,2018 (4),Juvenile,Early,Intermediate,238.833,NA,36.16483075,NA
+DM18529,Sherwood Harbor,Delta entry,23/01/2018,kdtr,NA,2018,23,39,1,"(-30,90]",AME,2018 (4),Juvenile,Early,Intermediate,240.646,NA,36.20337331,NA
+DM18530,Sherwood Harbor,Delta entry,20/01/2018,kdtr,NA,2018,20,39,1.5,"(-30,90]",AME,2018 (4),Juvenile,Early,Intermediate,193.967,NA,35.21102445,NA
+DM18531,Sherwood Harbor,Delta entry,19/01/2018,kdtr,NA,2018,19,37,1.5,"(-30,90]",AME,2018 (4),Juvenile,Early,Intermediate,277.807,NA,40.14160762,NA
+DM18534,Sherwood Harbor,Delta entry,21/01/2018,kdtr,NA,2018,21,37,1.5,"(-30,90]",AME,2018 (4),Juvenile,Early,Intermediate,225.69,NA,35.88542371,NA
+DM18536,Sherwood Harbor,Delta entry,21/01/2018,kdtr,NA,2018,21,37,1.5,"(-30,90]",AME,2018 (4),Juvenile,Early,Intermediate,219.45,NA,35.75276755,NA
+DM18541,Sherwood Harbor,Delta entry,09/01/2018,kdtr,NA,2018,9,37,1.5,"(-30,90]",AME,2018 (4),Juvenile,Early,Intermediate,214.814,NA,35.65421083,NA
+DM18544,Sherwood Harbor,Delta entry,07/01/2018,kdtr,NA,2018,7,37,1.5,"(-30,90]",AME,2018 (4),Juvenile,Early,Intermediate,221.611,NA,35.79870825,NA
+DM18545,Sherwood Harbor,Delta entry,17/02/2018,kdtr,NA,2018,48,36,1,"(-30,90]",AME,2018 (4),Juvenile,Early,Intermediate,202.124,NA,35.38443412,NA
+DM18546,Sherwood Harbor,Delta entry,10/02/2018,kdtr,NA,2018,41,44,2,"(-30,90]",AME,2018 (4),Juvenile,Early,Intermediate,242.912,NA,36.25154621,NA
+DM18548,Sherwood Harbor,Delta entry,08/02/2018,kdtr,NA,2018,39,48,2,"(-30,90]",AME,2018 (4),Juvenile,Early,Intermediate,262.399,NA,37.58911834,NA
+DM18551,Sherwood Harbor,Delta entry,11/02/2018,kdtr,NA,2018,42,38,1,"(-30,90]",AME,2018 (4),Juvenile,Early,Intermediate,220.705,NA,35.7794476,NA
+DM18552,Sherwood Harbor,Delta entry,02/02/2018,kdtr,NA,2018,33,36,1.5,"(-30,90]",AME,2018 (4),Juvenile,Early,Intermediate,227.956,NA,35.9335966,NA
+DM18553,Sherwood Harbor,Delta entry,02/02/2018,kdtr,NA,2018,33,37,1,"(-30,90]",AME,2018 (4),Juvenile,Early,Intermediate,234.754,NA,36.07811529,NA
+DM18554,Sherwood Harbor,Delta entry,03/02/2018,kdtr,NA,2018,34,36,1,"(-30,90]",AME,2018 (4),Juvenile,Early,Intermediate,223.877,NA,35.84688114,NA
+DM18557,Sherwood Harbor,Delta entry,04/02/2018,kdtr,NA,2018,35,37,1,"(-30,90]",AME,2018 (4),Juvenile,Early,Intermediate,234.328,NA,36.06905895,NA
+DM18558,Sherwood Harbor,Delta entry,04/02/2018,kdtr,NA,2018,35,38,1.5,"(-30,90]",AME,2018 (4),Juvenile,Early,Intermediate,228.409,NA,35.94322693,NA
+DM18562,Sherwood Harbor,Delta entry,06/02/2018,kdtr,NA,2018,37,36,1,"(-30,90]",AME,2018 (4),Juvenile,Early,Intermediate,226.597,NA,35.90470562,NA
+DM18563,Sherwood Harbor,Delta entry,02/02/2018,kdtr,NA,2018,33,36,1.5,"(-30,90]",AME,2018 (4),Juvenile,Early,Intermediate,212.094,NA,35.59638635,NA
+DM18564,Sherwood Harbor,Delta entry,12/01/2018,kdtr,NA,2018,12,38,1.5,"(-30,90]",AME,2018 (4),Juvenile,Early,Intermediate,212.094,NA,35.59638635,NA
+DM18569,Clarksburg,Within Delta,26/03/2018,sein,NA,2018,85,39,1,"(-30,90]",AME,2018 (4),Juvenile,Early,Intermediate,233.848,NA,36.05885463,NA
+DM18571,Clarksburg,Within Delta,22/03/2018,sein,NA,2018,81,62,1.666666667,"(-30,90]",AME,2018 (4),Juvenile,Early,Intermediate,180.0203,NA,34.91453156,NA
+DM18575,Garcia Bend,Within Delta,12/03/2018,sein,NA,2018,71,39,2,"(-30,90]",AME,2018 (4),Juvenile,Early,Intermediate,216.4752,NA,35.68952628,NA
+DM18577,Medford Island,Within Delta,29/03/2018,sein,NA,2018,88,44,1.666666667,"(-30,90]",AME,2018 (4),Juvenile,Early,Intermediate,255.601,NA,36.52130166,NA
+DM18584,Koket,Within Delta,21/03/2018,sein,NA,2018,80,38,1.833333333,"(-30,90]",AME,2018 (4),Juvenile,Early,Intermediate,253.788,NA,36.48275909,NA
+DM18585,Koket,Within Delta,12/03/2018,sein,NA,2018,71,43,2,"(-30,90]",AME,2018 (4),Juvenile,Early,Intermediate,221.8822,NA,35.80447369,NA
+DM18587,Koket,Within Delta,12/03/2018,sein,NA,2018,71,41,2,"(-30,90]",AME,2018 (4),Juvenile,Early,Intermediate,237.3171,NA,36.13260423,NA
+DM18594,Garcia Bend,Within Delta,09/03/2018,sein,NA,2018,68,48,2,"(-30,90]",AME,2018 (4),Juvenile,Early,Intermediate,212.5974,NA,35.60708813,NA
+DM18595,Garcia Bend,Within Delta,21/02/2018,sein,NA,2018,52,43,1.666666667,"(-30,90]",AME,2018 (4),Juvenile,Early,Intermediate,224.6214,NA,35.86270634,NA
+DM18596,Garcia Bend,Within Delta,21/02/2018,sein,NA,2018,52,50,2,"(-30,90]",AME,2018 (4),Juvenile,Early,Intermediate,272.5375,NA,39.26866225,NA
+DM18599,Garcia Bend,Within Delta,21/02/2018,sein,NA,2018,52,43,1.833333333,"(-30,90]",AME,2018 (4),Juvenile,Early,Intermediate,251.1144,NA,36.42592103,NA
+DM18603,Garcia Bend,Within Delta,10/01/2018,sein,NA,2018,10,35,1,"(-30,90]",AME,2018 (4),Juvenile,Early,Intermediate,200.176,NA,35.34302158,NA
+DM18611,Garcia Bend,Within Delta,26/01/2018,sein,NA,2018,26,37,1.5,"(-30,90]",AME,2018 (4),Juvenile,Early,Intermediate,216.173,NA,35.68310181,NA
+DM18613,Koket,Within Delta,18/01/2018,sein,NA,2018,18,36,2,"(-30,90]",AME,2018 (4),Juvenile,Early,Intermediate,208.016,NA,35.50969214,NA
+DM18614,Garcia Bend,Within Delta,05/01/2018,sein,NA,2018,5,35,1.5,"(-30,90]",AME,2018 (4),Juvenile,Early,Intermediate,246.839,NA,36.3350303,NA
+DM18628,Garcia Bend,Within Delta,15/01/2018,sein,NA,2018,15,38,1,"(-30,90]",AME,2018 (4),Juvenile,Early,Intermediate,196.233,NA,35.25919735,NA
+DM18640,Garcia Bend,Within Delta,01/03/2018,sein,NA,2018,60,50,2,"(-30,90]",AME,2018 (4),Juvenile,Early,Intermediate,246.535,NA,36.32856757,NA
+DM18642,Garcia Bend,Within Delta,01/03/2018,sein,NA,2018,60,43,1.333333333,"(-30,90]",AME,2018 (4),Juvenile,Early,Intermediate,210.2247,NA,35.5566469,NA
+DM18643,Garcia Bend,Within Delta,13/02/2018,sein,NA,2018,44,44,1,"(-30,90]",AME,2018 (4),Juvenile,Early,Intermediate,252.9481,NA,36.46490366,NA
+DM18647,Garcia Bend,Within Delta,01/03/2018,sein,NA,2018,60,47,2,"(-30,90]",AME,2018 (4),Juvenile,Early,Intermediate,245.6669,NA,36.31011263,NA
+DM18648,Garcia Bend,Within Delta,12/01/2018,sein,NA,2018,12,36,1.5,"(-30,90]",AME,2018 (4),Juvenile,Early,Intermediate,214.814,NA,35.65421083,NA
+DM18670,Isleton,Within Delta,10/04/2018,sein,NA,2018,100,40,2,"(90,210]",AME,2018 (4),Juvenile,Early,Intermediate,254.0999,NA,36.48938977,NA
+DM18671,Steamboat Slough,Within Delta,10/04/2018,sein,NA,2018,100,46,1,"(90,210]",AME,2018 (4),Juvenile,Early,Intermediate,263.5377,NA,37.77775538,NA
+DM18672,Steamboat Slough,Within Delta,26/03/2018,sein,NA,2018,85,53,1,"(-30,90]",AME,2018 (4),Juvenile,Early,Intermediate,270.8894,NA,38.995638,NA
+DM18673,Steamboat Slough,Within Delta,26/03/2018,sein,NA,2018,85,64,2,"(-30,90]",AME,2018 (4),Juvenile,Early,Intermediate,226.7337,NA,35.90761173,NA
+DM18674,Rio Vista,Within Delta,30/03/2018,sein,NA,2018,89,36,1,"(-30,90]",AME,2018 (4),Juvenile,Early,Intermediate,226.597,NA,35.90470562,NA
+DM18676,Rio Vista,Within Delta,30/03/2018,sein,NA,2018,89,38,1,"(-30,90]",AME,2018 (4),Juvenile,Early,Intermediate,301.827,NA,44.12076082,NA
+DM18678,Steamboat Slough,Within Delta,10/04/2018,sein,NA,2018,100,38,1.666666667,"(90,210]",AME,2018 (4),Juvenile,Early,Intermediate,191.8285,NA,35.16556208,NA
+DM19005,Chipps Island,Delta Exit,21/06/2019,mwtr,NA,2019,172,82,1.5,"(90,210]",AME,2019 (8),Juvenile,Late,Wet,463.317,NA,70.87319422,82
+DM19008,Chipps Island,Delta Exit,20/06/2019,mwtr,NA,2019,171,87,1.5,"(90,210]",AME,2019 (8),Juvenile,Late,Wet,593.99,NA,92.5204834,87
+DM19010,Chipps Island,Delta Exit,05/06/2019,mwtr,NA,2019,156,80,1,"(90,210]",AME,2019 (8),Juvenile,Late,Wet,418.0883,NA,63.38060778,80
+DM19013,Chipps Island,Delta Exit,20/06/2019,mwtr,NA,2019,171,81,1,"(90,210]",AME,2019 (8),Juvenile,Late,Wet,419.9747,NA,63.6931088,81
+DM19018,Chipps Island,Delta Exit,07/06/2019,mwtr,NA,2019,158,71,2,"(90,210]",AME,2019 (8),Juvenile,Late,Wet,433.599,NA,65.95011034,71
+DM19023,Chipps Island,Delta Exit,07/06/2019,mwtr,NA,2019,158,85,1.5,"(90,210]",AME,2019 (8),Juvenile,Early,Wet,230.723,NA,35.99242026,85
+DM19031,Chipps Island,Delta Exit,31/05/2019,mwtr,NA,2019,151,83,1.5,"(90,210]",AME,2019 (8),Juvenile,Late,Wet,470.299,NA,72.02983234,83
+DM19033,Chipps Island,Delta Exit,28/04/2019,mwtr,NA,2019,118,73,1,"(90,210]",AME,2019 (8),Juvenile,Early,Wet,251.9839,NA,36.44440573,73
+DM19039,Chipps Island,Delta Exit,11/04/2019,mwtr,NA,2019,101,59,1.5,"(90,210]",AME,2019 (8),Juvenile,Early,Wet,249.373,NA,36.38890061,59
+DM19051,Chipps Island,Delta Exit,31/05/2019,mwtr,NA,2019,151,87,1.5,"(90,210]",AME,2019 (8),Juvenile,Late,Wet,507.669,NA,78.22054654,87
+DM19060,Chipps Island,Delta Exit,04/05/2019,mwtr,NA,2019,124,91,1,"(90,210]",AME,2019 (8),Juvenile,Late,Wet,540.327,NA,83.63067082,91
+DM19080,Chipps Island,Delta Exit,14/05/2019,mwtr,NA,2019,134,84,1,"(90,210]",AME,2019 (8),Juvenile,Late,Wet,519.878,NA,80.24308948,84
+DM19091,Chipps Island,Delta Exit,29/05/2019,mwtr,NA,2019,149,86,1,"(90,210]",AME,2019 (8),Juvenile,Late,Wet,468.526,NA,71.73611716,86
+DM19118,Chipps Island,Delta Exit,09/04/2019,mwtr,NA,2019,99,70,1,"(90,210]",AME,2019 (8),Juvenile,Early,Wet,226.7899,NA,35.90880648,70
+DM19119,Chipps Island,Delta Exit,29/04/2019,mwtr,NA,2019,119,73,1,"(90,210]",AME,2019 (8),Juvenile,Early,Wet,234.934,NA,36.08194191,73
+DM19121,Chipps Island,Delta Exit,29/05/2019,mwtr,NA,2019,149,75,1,"(90,210]",AME,2019 (8),Juvenile,Late,Wet,405.346,NA,61.26971836,75
+DM19128,Chipps Island,Delta Exit,18/03/2019,mwtr,NA,2019,77,41,1,"(-30,90]",AME,2019 (8),Juvenile,Early,Wet,231.6188,NA,36.01146407,41
+DM19134,Chipps Island,Delta Exit,30/04/2019,mwtr,NA,2019,120,76,1.5,"(90,210]",AME,2019 (8),Juvenile,Early,Wet,231.3385,NA,36.00550517,76
+DM19141,Chipps Island,Delta Exit,23/05/2019,mwtr,NA,2019,143,86,1.5,"(90,210]",AME,2019 (8),Juvenile,Late,Wet,456.001,NA,69.66122566,86
+DM19150,Chipps Island,Delta Exit,12/05/2019,mwtr,NA,2019,132,86,1,"(90,210]",AME,2019 (8),Juvenile,Late,Wet,491.811,NA,75.59351026,86
+DM19153,Chipps Island,Delta Exit,14/04/2019,mwtr,NA,2019,104,64,1.5,"(90,210]",AME,2019 (8),Juvenile,Late,Wet,403.9671,NA,61.04128979,64
+DM19157,Chipps Island,Delta Exit,14/06/2019,mwtr,NA,2019,165,75,1,"(90,210]",AME,2019 (8),Juvenile,Late,Wet,427.445,NA,64.9306387,75
+DM19168,Chipps Island,Delta Exit,03/03/2019,mwtr,NA,2019,62,38,1,"(-30,90]",AME,2019 (8),Juvenile,Early,Wet,228.001,NA,35.93455326,38
+DM19180,Chipps Island,Delta Exit,03/06/2019,mwtr,NA,2019,154,80,1,"(90,210]",AME,2019 (8),Juvenile,Late,Wet,419.9006,NA,63.6808334,80
+DM19184,Chipps Island,Delta Exit,14/06/2019,mwtr,NA,2019,165,92,1.5,"(90,210]",AME,2019 (8),Juvenile,Late,Wet,436.8265,NA,66.48477799,92
+DM19185,Chipps Island,Delta Exit,28/05/2019,mwtr,NA,2019,148,87,1,"(90,210]",AME,2019 (8),Juvenile,Late,Wet,453.282,NA,69.21079612,87
+DM19192,Chipps Island,Delta Exit,07/06/2019,mwtr,NA,2019,158,85,1,"(90,210]",AME,2019 (8),Juvenile,Late,Wet,439.23,NA,66.8829418,85
+DM19195,Chipps Island,Delta Exit,10/06/2019,mwtr,NA,2019,161,85,1,"(90,210]",AME,2019 (8),Juvenile,Late,Wet,525.6536,NA,81.19987538,85
+DM19221,Chipps Island,Delta Exit,20/05/2019,mwtr,NA,2019,140,88,1,"(90,210]",AME,2019 (8),Juvenile,Late,Wet,543.698,NA,84.18911068,88
+DM19242,Chipps Island,Delta Exit,01/04/2019,mwtr,NA,2019,91,67,1,"(90,210]",AME,2019 (8),Juvenile,Late,Wet,350.5177,NA,52.18686218,67
+DM19276,Chipps Island,Delta Exit,12/06/2019,mwtr,NA,2019,163,86,1.5,"(90,210]",AME,2019 (8),Juvenile,Early,Wet,208.7262,NA,35.52479029,86
+DM19340,Chipps Island,Delta Exit,20/05/2019,mwtr,NA,2019,140,88,1.5,"(90,210]",AME,2019 (8),Juvenile,Late,Wet,553.662,NA,85.83974692,88
+DM19427,Chipps Island,Delta Exit,24/05/2019,mwtr,NA,2019,144,78,1,"(90,210]",AME,2019 (8),Juvenile,Late,Wet,456.465,NA,69.7380919,78
+DM19429,Chipps Island,Delta Exit,24/05/2019,mwtr,NA,2019,144,86,1.5,"(90,210]",AME,2019 (8),Juvenile,Late,Wet,533.3884,NA,82.48122234,86
+DM19479,Chipps Island,Delta Exit,19/05/2019,mwtr,NA,2019,139,90,2,"(90,210]",AME,2019 (8),Juvenile,Late,Wet,540.491,NA,83.65783906,90
+DM19481,Chipps Island,Delta Exit,24/05/2019,mwtr,NA,2019,144,83,2,"(90,210]",AME,2019 (8),Juvenile,Late,Wet,441.3152,NA,67.22837603,83
+DM19482,Chipps Island,Delta Exit,19/05/2019,mwtr,NA,2019,139,87,1,"(90,210]",AME,2019 (8),Juvenile,Late,Wet,500.976,NA,77.11178416,87
+DM19544,Chipps Island,Delta Exit,30/05/2019,mwtr,NA,2019,150,82,2,"(90,210]",AME,2019 (8),Juvenile,Late,Wet,535.7504,NA,82.87251126,82
+DM19546,Chipps Island,Delta Exit,30/05/2019,mwtr,NA,2019,150,95,2,"(90,210]",AME,2019 (8),Juvenile,Late,Wet,441.9089,NA,67.32672837,95
+DM19571,Chipps Island,Delta Exit,10/06/2019,mwtr,NA,2019,161,84,1,"(90,210]",AME,2019 (8),Juvenile,Late,Wet,400.5127,NA,60.46903388,84
+DM19581,Chipps Island,Delta Exit,06/05/2019,mwtr,NA,2019,126,79,2,"(90,210]",AME,2019 (8),Juvenile,Early,Wet,225.9364,NA,35.89066193,79
+DM19838,Chipps Island,Delta Exit,04/03/2019,mwtr,NA,2019,63,35,1,"(-30,90]",AME,2019 (8),Juvenile,Early,Wet,214.761,NA,35.6530841,35
+DM15016,Sherwood Harbor,Delta entry,18/02/2015,kdtr,NA,2015,49,36,2,"(-30,90]",AME,2015 (1.1),Juvenile,Early,Drought,211.334,NA,35.58022951,NA
+DM15014,Sherwood Harbor,Delta entry,27/02/2015,kdtr,NA,2015,58,34,2,"(-30,90]",AME,2015 (1.1),Juvenile,Early,Drought,215.054,NA,35.65931299,NA
+DM15016,Sherwood Harbor,Delta entry,18/02/2015,kdtr,NA,2015,49,36,2,"(-30,90]",AME,2015 (1.1),Juvenile,Early,Drought,211.334,NA,35.58022951,NA
+DM15016,Sherwood Harbor,Delta entry,18/02/2015,kdtr,NA,2015,49,36,2,"(-30,90]",AME,2015 (1.1),Juvenile,Early,Drought,211.334,NA,35.58022951,NA
+DM15016,Sherwood Harbor,Delta entry,18/02/2015,kdtr,NA,2015,49,36,2,"(-30,90]",AME,2015 (1.1),Juvenile,Early,Drought,211.334,NA,35.58022951,NA
+DM15016,Sherwood Harbor,Delta entry,18/02/2015,kdtr,NA,2015,49,36,2,"(-30,90]",AME,2015 (1.1),Juvenile,Early,Drought,211.334,NA,35.58022951,NA
+DM15016,Sherwood Harbor,Delta entry,18/02/2015,kdtr,NA,2015,49,36,2,"(-30,90]",AME,2015 (1.1),Juvenile,Early,Drought,211.334,NA,35.58022951,NA
+DM15014,Sherwood Harbor,Delta entry,27/02/2015,kdtr,NA,2015,58,34,2,"(-30,90]",AME,2015 (1.1),Juvenile,Early,Drought,215.054,NA,35.65931299,NA
+DM15016,Sherwood Harbor,Delta entry,18/02/2015,kdtr,NA,2015,49,36,2,"(-30,90]",AME,2015 (1.1),Juvenile,Early,Drought,211.334,NA,35.58022951,NA
+DM15016,Sherwood Harbor,Delta entry,18/02/2015,kdtr,NA,2015,49,36,2,"(-30,90]",AME,2015 (1.1),Juvenile,Early,Drought,211.334,NA,35.58022951,NA
+DM15014,Sherwood Harbor,Delta entry,27/02/2015,kdtr,NA,2015,58,34,2,"(-30,90]",AME,2015 (1.1),Juvenile,Early,Drought,215.054,NA,35.65931299,NA
+DM15014,Sherwood Harbor,Delta entry,27/02/2015,kdtr,NA,2015,58,34,2,"(-30,90]",AME,2015 (1.1),Juvenile,Early,Drought,215.054,NA,35.65931299,NA
+DM15016,Sherwood Harbor,Delta entry,18/02/2015,kdtr,NA,2015,49,36,2,"(-30,90]",AME,2015 (1.1),Juvenile,Early,Drought,211.334,NA,35.58022951,NA
+DM15016,Sherwood Harbor,Delta entry,18/02/2015,kdtr,NA,2015,49,36,2,"(-30,90]",AME,2015 (1.1),Juvenile,Early,Drought,211.334,NA,35.58022951,NA
+DM15016,Sherwood Harbor,Delta entry,18/02/2015,kdtr,NA,2015,49,36,2,"(-30,90]",AME,2015 (1.1),Juvenile,Early,Drought,211.334,NA,35.58022951,NA
+DM15014,Sherwood Harbor,Delta entry,27/02/2015,kdtr,NA,2015,58,34,2,"(-30,90]",AME,2015 (1.1),Juvenile,Early,Drought,215.054,NA,35.65931299,NA
+DM15014,Sherwood Harbor,Delta entry,27/02/2015,kdtr,NA,2015,58,34,2,"(-30,90]",AME,2015 (1.1),Juvenile,Early,Drought,215.054,NA,35.65931299,NA
+DM15016,Sherwood Harbor,Delta entry,18/02/2015,kdtr,NA,2015,49,36,2,"(-30,90]",AME,2015 (1.1),Juvenile,Early,Drought,211.334,NA,35.58022951,NA
+DM15016,Sherwood Harbor,Delta entry,18/02/2015,kdtr,NA,2015,49,36,2,"(-30,90]",AME,2015 (1.1),Juvenile,Early,Drought,211.334,NA,35.58022951,NA
+DM15014,Sherwood Harbor,Delta entry,27/02/2015,kdtr,NA,2015,58,34,2,"(-30,90]",AME,2015 (1.1),Juvenile,Early,Drought,215.054,NA,35.65931299,NA
+DM15014,Sherwood Harbor,Delta entry,27/02/2015,kdtr,NA,2015,58,34,2,"(-30,90]",AME,2015 (1.1),Juvenile,Early,Drought,215.054,NA,35.65931299,NA
+DM15016,Sherwood Harbor,Delta entry,18/02/2015,kdtr,NA,2015,49,36,2,"(-30,90]",AME,2015 (1.1),Juvenile,Early,Drought,211.334,NA,35.58022951,NA
+DM15016,Sherwood Harbor,Delta entry,18/02/2015,kdtr,NA,2015,49,36,2,"(-30,90]",AME,2015 (1.1),Juvenile,Early,Drought,211.334,NA,35.58022951,NA
+DM15014,Sherwood Harbor,Delta entry,27/02/2015,kdtr,NA,2015,58,34,2,"(-30,90]",AME,2015 (1.1),Juvenile,Early,Drought,215.054,NA,35.65931299,NA
+DM15016,Sherwood Harbor,Delta entry,18/02/2015,kdtr,NA,2015,49,36,2,"(-30,90]",AME,2015 (1.1),Juvenile,Early,Drought,211.334,NA,35.58022951,NA
+DM16164,Sherwood Harbor,Delta entry,12/02/2016,kdtr,NA,2016,43,38,1,"(-30,90]",AME,2016 (4.2),Juvenile,Early,Intermediate,217.292,NA,35.70689063,NA
+DM16063,Sherwood Harbor,Delta entry,16/03/2016,kdtr,NA,2016,76,39,1.5,"(-30,90]",AME,2016 (4.2),Juvenile,Early,Intermediate,193.751,NA,35.20643251,NA
+DM16063,Sherwood Harbor,Delta entry,16/03/2016,kdtr,NA,2016,76,39,1.5,"(-30,90]",AME,2016 (4.2),Juvenile,Early,Intermediate,193.751,NA,35.20643251,NA
+DM16077,Sherwood Harbor,Delta entry,24/02/2016,kdtr,NA,2016,55,36,1.5,"(-30,90]",AME,2016 (4.2),Juvenile,Early,Intermediate,250.462,NA,36.41205166,NA
+DM16030,Sherwood Harbor,Delta entry,28/03/2016,kdtr,NA,2016,88,37,1.5,"(-30,90]",AME,2016 (4.2),Juvenile,Early,Intermediate,229.815,NA,35.97311709,NA
+DM16031,Sherwood Harbor,Delta entry,18/02/2016,kdtr,NA,2016,49,38,1.5,"(-30,90]",AME,2016 (4.2),Juvenile,Early,Intermediate,194.428,NA,35.22082485,NA
+DM16032,Sherwood Harbor,Delta entry,21/03/2016,kdtr,NA,2016,81,37,1.5,"(-30,90]",AME,2016 (4.2),Juvenile,Early,Intermediate,198.485,NA,35.30707262,NA
+DM16055,Sherwood Harbor,Delta entry,16/03/2016,kdtr,NA,2016,76,38,1.5,"(-30,90]",AME,2016 (4.2),Juvenile,Early,Intermediate,213.025,NA,35.61617848,NA
+DM16079,Sherwood Harbor,Delta entry,14/03/2016,kdtr,NA,2016,74,38,1.5,"(-30,90]",AME,2016 (4.2),Juvenile,Early,Intermediate,220.802,NA,35.78150972,NA
+DM16063,Sherwood Harbor,Delta entry,16/03/2016,kdtr,NA,2016,76,39,1.5,"(-30,90]",AME,2016 (4.2),Juvenile,Early,Intermediate,193.751,NA,35.20643251,NA
+DM16035,Sherwood Harbor,Delta entry,02/03/2016,kdtr,NA,2016,62,36,1.833333333,"(-30,90]",AME,2016 (4.2),Juvenile,Early,Intermediate,226.1802,NA,35.89584487,NA
+DM16032,Sherwood Harbor,Delta entry,21/03/2016,kdtr,NA,2016,81,37,1.5,"(-30,90]",AME,2016 (4.2),Juvenile,Early,Intermediate,198.485,NA,35.30707262,NA
+DM16032,Sherwood Harbor,Delta entry,21/03/2016,kdtr,NA,2016,81,37,1.5,"(-30,90]",AME,2016 (4.2),Juvenile,Early,Intermediate,198.485,NA,35.30707262,NA
+DM16076,Sherwood Harbor,Delta entry,24/02/2016,kdtr,NA,2016,55,36,1.5,"(-30,90]",AME,2016 (4.2),Juvenile,Early,Intermediate,205.248,NA,35.45084723,NA
+DM16164,Sherwood Harbor,Delta entry,12/02/2016,kdtr,NA,2016,43,38,1,"(-30,90]",AME,2016 (4.2),Juvenile,Early,Intermediate,217.292,NA,35.70689063,NA
+DM16036,Sherwood Harbor,Delta entry,21/03/2016,kdtr,NA,2016,81,41,1.333333333,"(-30,90]",AME,2016 (4.2),Juvenile,Early,Intermediate,251.234,NA,36.42846361,NA
+DM16030,Sherwood Harbor,Delta entry,28/03/2016,kdtr,NA,2016,88,37,1.5,"(-30,90]",AME,2016 (4.2),Juvenile,Early,Intermediate,229.815,NA,35.97311709,NA
+DM16025,Sherwood Harbor,Delta entry,11/03/2016,kdtr,NA,2016,71,38,2,"(-30,90]",AME,2016 (4.2),Juvenile,Early,Intermediate,260.364,NA,37.25200024,NA
+DM16035,Sherwood Harbor,Delta entry,02/03/2016,kdtr,NA,2016,62,36,1.833333333,"(-30,90]",AME,2016 (4.2),Juvenile,Early,Intermediate,226.1802,NA,35.89584487,NA
+DM16069,Sherwood Harbor,Delta entry,08/02/2016,kdtr,NA,2016,39,34,1.5,"(-30,90]",AME,2016 (4.2),Juvenile,Early,Intermediate,223.169,NA,35.83182977,NA
+DM16036,Sherwood Harbor,Delta entry,21/03/2016,kdtr,NA,2016,81,41,1.333333333,"(-30,90]",AME,2016 (4.2),Juvenile,Early,Intermediate,251.234,NA,36.42846361,NA
+DM16076,Sherwood Harbor,Delta entry,24/02/2016,kdtr,NA,2016,55,36,1.5,"(-30,90]",AME,2016 (4.2),Juvenile,Early,Intermediate,205.248,NA,35.45084723,NA
+DM17689,Sherwood Harbor,Delta entry,24/04/2017,kdtr,NA,2017,114,81,1.166666667,"(90,210]",AME,2017 (15.3),Juvenile,Late,Wet,440.5165,NA,67.09606339,NA
+DM17689,Sherwood Harbor,Delta entry,24/04/2017,kdtr,NA,2017,114,81,1.166666667,"(90,210]",AME,2017 (15.3),Juvenile,Late,Wet,440.5165,NA,67.09606339,NA
+DM17689,Sherwood Harbor,Delta entry,24/04/2017,kdtr,NA,2017,114,81,1.166666667,"(90,210]",AME,2017 (15.3),Juvenile,Late,Wet,440.5165,NA,67.09606339,NA
+DM17689,Sherwood Harbor,Delta entry,24/04/2017,kdtr,NA,2017,114,81,1.166666667,"(90,210]",AME,2017 (15.3),Juvenile,Late,Wet,440.5165,NA,67.09606339,NA
+DM17689,Sherwood Harbor,Delta entry,24/04/2017,kdtr,NA,2017,114,81,1.166666667,"(90,210]",AME,2017 (15.3),Juvenile,Late,Wet,440.5165,NA,67.09606339,NA
+DM17689,Sherwood Harbor,Delta entry,24/04/2017,kdtr,NA,2017,114,81,1.166666667,"(90,210]",AME,2017 (15.3),Juvenile,Late,Wet,440.5165,NA,67.09606339,NA
+DM17689,Sherwood Harbor,Delta entry,24/04/2017,kdtr,NA,2017,114,81,1.166666667,"(90,210]",AME,2017 (15.3),Juvenile,Late,Wet,440.5165,NA,67.09606339,NA
+DM18439,Sherwood Harbor,Delta entry,29/05/2018,kdtr,NA,2018,149,71,1.5,"(90,210]",AME,2018 (4),Juvenile,Late,Intermediate,319.5112,NA,47.05032539,NA
+18-5619,NA,Spawning,NA,carcass_survey,2018,2016,NA,NA,NA,NA,AME,2016 (4.2),Spawner,Early,Intermediate,236.5041,610,36.11532066,95.1727
+20-1071,NA,Spawning,NA,carcass_survey,2020,2018,NA,NA,NA,NA,AME,2018 (4),Spawner,Late,Intermediate,482.731,532.4383,74.08931746,82.32382878
+20-1124,NA,Spawning,NA,carcass_survey,2020,2018,NA,NA,NA,NA,AME,2018 (4),Spawner,Early,Intermediate,236.1437,496.0498,36.10765892,76.29570987
+20-1328,NA,Spawning,NA,carcass_survey,2020,2019,NA,NA,NA,NA,AME,2019 (8),Spawner,Late,Wet,511.7334,531.4722,78.89385504,82.16378465
+20-1348,NA,Spawning,NA,carcass_survey,2020,2018,NA,NA,NA,NA,AME,2018 (4),Spawner,Late,Intermediate,418.4043,455.4847,63.43295634,69.5756954
+20-1371,NA,Spawning,NA,carcass_survey,2020,2018,NA,NA,NA,NA,AME,2018 (4),Spawner,Late,Intermediate,440.8369,440.8369,67.14914085,67.14914085
+20-1411,NA,Spawning,NA,carcass_survey,2020,2018,NA,NA,NA,NA,AME,2018 (4),Spawner,Late,Intermediate,447.4853,468.8957,68.2505148,71.79736166
+20-9211,NA,Spawning,NA,carcass_survey,2020,2018,NA,NA,NA,NA,AME,2018 (4),Spawner,Late,Intermediate,434.4302,488.3127,66.08780693,75.01398188
+20-p215,NA,Spawning,NA,carcass_survey,2020,2018,NA,NA,NA,NA,AME,2018 (4),Spawner,Late,Intermediate,353.1273,414.3277,52.61916852,62.75762678
+20-p231,NA,Spawning,NA,carcass_survey,2020,2017,NA,NA,NA,NA,AME,2017 (15.3),Spawner,Late,Wet,485.1125,515.4812,74.48383675,79.51471559
+20-p239,NA,Spawning,NA,carcass_survey,2020,2017,NA,NA,NA,NA,AME,2017 (15.3),Spawner,Late,Wet,442.0067,537.1424,67.34292992,83.10310998
+20-p26,NA,Spawning,NA,carcass_survey,2020,2017,NA,NA,NA,NA,AME,2017 (15.3),Spawner,Late,Wet,556.8407,600,86.36633036,93.5161
+20-p270,NA,Spawning,NA,carcass_survey,2020,2018,NA,NA,NA,NA,AME,2018 (4),Spawner,Early,Intermediate,225.0509,496.2523,35.87183708,76.32925602
+20-p315,NA,Spawning,NA,carcass_survey,2020,2017,NA,NA,NA,NA,AME,2017 (15.3),Spawner,Late,Wet,418.1502,418.1502,63.39086213,63.39086213
+20-p382,NA,Spawning,NA,carcass_survey,2020,2018,NA,NA,NA,NA,AME,2018 (4),Spawner,Late,Intermediate,563.5677,563.5677,87.48072518,87.48072518
+20-p393,NA,Spawning,NA,carcass_survey,2020,2017,NA,NA,NA,NA,AME,2017 (15.3),Spawner,Late,Wet,542.595,577.1866,84.0063877,89.73683216
+20-p411,NA,Spawning,NA,carcass_survey,2020,2018,NA,NA,NA,NA,AME,2018 (4),Spawner,Late,Intermediate,435.8442,502.0204,66.32205017,77.28479946
+20-p420,NA,Spawning,NA,carcass_survey,2020,2017,NA,NA,NA,NA,AME,2017 (15.3),Spawner,Late,Wet,382.8355,415.3144,57.54062893,62.9210835
+20-p449,NA,Spawning,NA,carcass_survey,2020,2018,NA,NA,NA,NA,AME,2018 (4),Spawner,Late,Intermediate,418.4317,475.8932,63.43749542,72.95656751
+20-p452,NA,Spawning,NA,carcass_survey,2020,2018,NA,NA,NA,NA,AME,2018 (4),Spawner,Late,Intermediate,469.1467,469.1467,71.83894232,71.83894232
+20-p490,NA,Spawning,NA,carcass_survey,2020,2018,NA,NA,NA,NA,AME,2018 (4),Spawner,Late,Intermediate,332.2703,427.5519,49.1639979,64.94834775
+20-p60,NA,Spawning,NA,carcass_survey,2020,2018,NA,NA,NA,NA,AME,2018 (4),Spawner,Late,Intermediate,478.2204,529.696,73.34209146,81.86953936
+20-p676,NA,Spawning,NA,carcass_survey,2020,2018,NA,NA,NA,NA,AME,2018 (4),Spawner,Late,Intermediate,422.947,460.3888,64.18550002,70.38810861
+20-p695,NA,Spawning,NA,carcass_survey,2020,2017,NA,NA,NA,NA,AME,2017 (15.3),Spawner,Late,Wet,550.0242,550.0242,85.23710897,85.23710897
+20-p696,NA,Spawning,NA,carcass_survey,2020,2019,NA,NA,NA,NA,AME,2019 (8),Spawner,Late,Wet,488.1696,516.4625,74.99027594,79.67727775
+20-p729,NA,Spawning,NA,carcass_survey,2020,2017,NA,NA,NA,NA,AME,2017 (15.3),Spawner,Late,Wet,509.8934,536.8011,78.58904064,83.04657023
+20-p73,NA,Spawning,NA,carcass_survey,2020,2019,NA,NA,NA,NA,AME,2019 (8),Spawner,Late,Wet,455.1921,477.4204,69.52722329,73.20956346
+20-p752,NA,Spawning,NA,carcass_survey,2020,2018,NA,NA,NA,NA,AME,2018 (4),Spawner,Late,Intermediate,432.0374,471.9458,65.69141568,72.30264123
+20-p782,NA,Spawning,NA,carcass_survey,2020,2017,NA,NA,NA,NA,AME,2017 (15.3),Spawner,Early,Wet,268.6116,456.3354,38.61829766,69.71662236
+20-p804,NA,Spawning,NA,carcass_survey,2020,2018,NA,NA,NA,NA,AME,2018 (4),Spawner,Late,Intermediate,418.6881,500.3289,63.47997065,77.00458557
+20-p806,NA,Spawning,NA,carcass_survey,2020,2017,NA,NA,NA,NA,AME,2017 (15.3),Spawner,Late,Wet,408.176,456.4572,61.73853616,69.73679975
+20-p848,NA,Spawning,NA,carcass_survey,2020,2018,NA,NA,NA,NA,AME,2018 (4),Spawner,Late,Intermediate,459.2178,510.6105,70.19412075,78.70783543
+20-p85,NA,Spawning,NA,carcass_survey,2020,2018,NA,NA,NA,NA,AME,2018 (4),Spawner,Late,Intermediate,399.6472,473.8147,60.32565515,72.6122432
+20-p9,NA,Spawning,NA,carcass_survey,2020,2017,NA,NA,NA,NA,AME,2017 (15.3),Spawner,Early,Wet,240.2643,482.2564,36.19525875,74.01069522
+21- 1000,NA,Spawning,NA,carcass_survey,2021,2019,NA,NA,NA,NA,AME,2019 (8),Spawner,Late,Wet,474.2445,509.0901,72.68344387,78.45596597
+21- 1007,NA,Spawning,NA,carcass_survey,2021,2019,NA,NA,NA,NA,AME,2019 (8),Spawner,Late,Wet,434.4022,442.8776,66.08316845,67.48720322
+21- 1082,NA,Spawning,NA,carcass_survey,2021,2018,NA,NA,NA,NA,AME,2018 (4),Spawner,Late,Intermediate,427.974,466.048,65.01827284,71.32561168
+21- 1111,NA,Spawning,NA,carcass_survey,2021,2019,NA,NA,NA,NA,AME,2019 (8),Spawner,Early,Wet,248.6854,520.047,36.37428292,80.27108602
+21- 1135,NA,Spawning,NA,carcass_survey,2021,2019,NA,NA,NA,NA,AME,2019 (8),Spawner,Late,Wet,490.4672,524.2317,75.37089635,80.96432342
+21- 1139,NA,Spawning,NA,carcass_survey,2021,2018,NA,NA,NA,NA,AME,2018 (4),Spawner,Late,Intermediate,495.1028,536.2334,76.13882985,82.95252504
+21- 1195,NA,Spawning,NA,carcass_survey,2021,2019,NA,NA,NA,NA,AME,2019 (8),Spawner,Late,Wet,535.9749,535.9749,82.90970193,82.90970193
+21- 1223,NA,Spawning,NA,carcass_survey,2021,2019,NA,NA,NA,NA,AME,2019 (8),Spawner,Late,Wet,450.9868,450.9868,68.83057329,68.83057329
+21- 1224,NA,Spawning,NA,carcass_survey,2021,2019,NA,NA,NA,NA,AME,2019 (8),Spawner,Early,Wet,247.6245,533.8524,36.35172925,82.55808858
+21- 1271,NA,Spawning,NA,carcass_survey,2021,2019,NA,NA,NA,NA,AME,2019 (8),Spawner,Late,Wet,363.8411,363.8411,54.39401663,54.39401663
+21- 1295,NA,Spawning,NA,carcass_survey,2021,2018,NA,NA,NA,NA,AME,2018 (4),Spawner,Late,Intermediate,368.9798,416.8316,55.24529367,63.17242286
+21- 1296,NA,Spawning,NA,carcass_survey,2021,2019,NA,NA,NA,NA,AME,2019 (8),Spawner,Late,Wet,507.3229,507.3229,78.16321161,78.16321161
+21- 1319,NA,Spawning,NA,carcass_survey,2021,2019,NA,NA,NA,NA,AME,2019 (8),Spawner,Early,Wet,235.5959,417.6467,36.09601324,63.30745232
+21- 1323,NA,Spawning,NA,carcass_survey,2021,2019,NA,NA,NA,NA,AME,2019 (8),Spawner,Late,Wet,429.0282,466.2548,65.19291161,71.35987017
+21- 1324,NA,Spawning,NA,carcass_survey,2021,2019,NA,NA,NA,NA,AME,2019 (8),Spawner,Late,Wet,549.5446,604.6748,85.15765844,94.29052737
+21- P288,NA,Spawning,NA,carcass_survey,2021,2019,NA,NA,NA,NA,AME,2019 (8),Spawner,Late,Wet,492.8567,492.8567,75.76674092,75.76674092
+21- P289,NA,Spawning,NA,carcass_survey,2021,2019,NA,NA,NA,NA,AME,2019 (8),Spawner,Early,Wet,231.8611,416.2396,36.01661512,63.07435214
+21- P361,NA,Spawning,NA,carcass_survey,2021,2019,NA,NA,NA,NA,AME,2019 (8),Spawner,Late,Wet,585.563,630.2754,91.12446658,98.53152276
+21- P383,NA,Spawning,NA,carcass_survey,2021,2019,NA,NA,NA,NA,AME,2019 (8),Spawner,Late,Wet,472.3446,472.3446,72.36870644,72.36870644
+21- P384,NA,Spawning,NA,carcass_survey,2021,2019,NA,NA,NA,NA,AME,2019 (8),Spawner,Late,Wet,380.7754,454.833,57.19935276,69.46773478
+21- P59,NA,Spawning,NA,carcass_survey,2021,2019,NA,NA,NA,NA,AME,2019 (8),Spawner,Early,Wet,233.5043,468.0221,36.05154791,71.65264109
+21- P73,NA,Spawning,NA,carcass_survey,2021,2019,NA,NA,NA,NA,AME,2019 (8),Spawner,Late,Wet,377.3994,420.4205,56.6400846,63.76696003
+21- p108,NA,Spawning,NA,carcass_survey,2021,2019,NA,NA,NA,NA,AME,2019 (8),Spawner,Late,Wet,466.8994,503.9212,71.4666546,77.59968599
+21- p138,NA,Spawning,NA,carcass_survey,2021,2019,NA,NA,NA,NA,AME,2019 (8),Spawner,Late,Wet,580.8846,580.8846,90.34944284,90.34944284
+21- p201,NA,Spawning,NA,carcass_survey,2021,2019,NA,NA,NA,NA,AME,2019 (8),Spawner,Late,Wet,417.6022,446.5877,63.30008045,68.10181838
+21- p207,NA,Spawning,NA,carcass_survey,2021,2019,NA,NA,NA,NA,AME,2019 (8),Spawner,Late,Wet,444.8099,489.8074,67.80730803,75.26159388
+21- p295,NA,Spawning,NA,carcass_survey,2021,2019,NA,NA,NA,NA,AME,2019 (8),Spawner,Early,Wet,254.7503,526.8126,36.50321663,81.39187532
+21- p299,NA,Spawning,NA,carcass_survey,2021,2019,NA,NA,NA,NA,AME,2019 (8),Spawner,Late,Wet,405.9936,405.9936,61.37699978,61.37699978
+21- p301,NA,Spawning,NA,carcass_survey,2021,2019,NA,NA,NA,NA,AME,2019 (8),Spawner,Late,Wet,478.6159,492.9077,73.40760999,75.77518958
+21- p302,NA,Spawning,NA,carcass_survey,2021,2019,NA,NA,NA,NA,AME,2019 (8),Spawner,Early,Wet,241.2475,533.2634,36.2161606,82.46051484
+21- p303,NA,Spawning,NA,carcass_survey,2021,2019,NA,NA,NA,NA,AME,2019 (8),Spawner,Late,Wet,489.4663,489.4663,75.20508726,75.20508726
+21- p308,NA,Spawning,NA,carcass_survey,2021,2019,NA,NA,NA,NA,AME,2019 (8),Spawner,Late,Wet,485.2436,485.2436,74.50555478,74.50555478
+21- p402,NA,Spawning,NA,carcass_survey,2021,2019,NA,NA,NA,NA,AME,2019 (8),Spawner,Late,Wet,366.231,461.5586,54.78992746,70.58189768
+21- p617,NA,Spawning,NA,carcass_survey,2021,2019,NA,NA,NA,NA,AME,2019 (8),Spawner,Late,Wet,410.1402,536.0583,62.06392553,82.92351798
+21- p62,NA,Spawning,NA,carcass_survey,2021,2019,NA,NA,NA,NA,AME,2019 (8),Spawner,Late,Wet,427.4826,453.1148,64.93686752,69.18309777
+21- p628,NA,Spawning,NA,carcass_survey,2021,2019,NA,NA,NA,NA,AME,2019 (8),Spawner,Early,Wet,217.1627,473.4897,35.70414184,72.5584037
+21- p632,NA,Spawning,NA,carcass_survey,2021,2019,NA,NA,NA,NA,AME,2019 (8),Spawner,Late,Wet,461.4587,482.4669,70.56534824,74.04556665
+21- p633,NA,Spawning,NA,carcass_survey,2021,2019,NA,NA,NA,NA,AME,2019 (8),Spawner,Late,Wet,468.0927,513.2693,71.66433668,79.14829224
+21- p637,NA,Spawning,NA,carcass_survey,2021,2019,NA,NA,NA,NA,AME,2019 (8),Spawner,Early,Wet,269.2366,591.2743,38.72183516,92.07060054
+21- p688,NA,Spawning,NA,carcass_survey,2021,2019,NA,NA,NA,NA,AME,2019 (8),Spawner,Late,Wet,499.539,567.5984,76.87373074,88.14845094
+21- p697,NA,Spawning,NA,carcass_survey,2021,2019,NA,NA,NA,NA,AME,2019 (8),Spawner,Early,Wet,230.3195,550.9949,35.98384225,85.39791513
+21- p702,NA,Spawning,NA,carcass_survey,2021,2019,NA,NA,NA,NA,AME,2019 (8),Spawner,Late,Wet,328.41,590.425,48.5245006,91.9299055
+5058,NA,Spawning,NA,carcass_survey,2018,2017,NA,NA,NA,NA,AME,2017 (15.3),Spawner,Late,Wet,347.7839,475.1264,51.73398087,72.82953942
+5110,NA,Spawning,NA,carcass_survey,2018,2016,NA,NA,NA,NA,AME,2016 (4.2),Spawner,Early,Intermediate,221.5697,490,35.79783025,75.2935
+5112,NA,Spawning,NA,carcass_survey,2018,2016,NA,NA,NA,NA,AME,2016 (4.2),Spawner,Late,Intermediate,452.3538,492.1101,69.05703051,75.64305917
+5139,NA,Spawning,NA,carcass_survey,2018,2016,NA,NA,NA,NA,AME,2016 (4.2),Spawner,Late,Intermediate,405.8579,486.1425,61.35451971,74.65446655
+5152,NA,Spawning,NA,carcass_survey,2018,2016,NA,NA,NA,NA,AME,2016 (4.2),Spawner,Late,Intermediate,486.349,561.5547,74.68867534,87.1472516
+5205,NA,Spawning,NA,carcass_survey,2018,2016,NA,NA,NA,NA,AME,2016 (4.2),Spawner,Early,Intermediate,256.4958,383.0249,36.61119423,57.57200493
+5237,NA,Spawning,NA,carcass_survey,2018,2016,NA,NA,NA,NA,AME,2016 (4.2),Spawner,Late,Intermediate,511.8624,535.6735,78.91522518,82.85977201
+5256,NA,Spawning,NA,carcass_survey,2018,2016,NA,NA,NA,NA,AME,2016 (4.2),Spawner,Late,Intermediate,455,476.5021,69.4954,73.05743789
+5319,NA,Spawning,NA,carcass_survey,2018,2016,NA,NA,NA,NA,AME,2016 (4.2),Spawner,Early,Intermediate,263.1128,523.6018,37.70736645,80.85997419
+5363,NA,Spawning,NA,carcass_survey,2018,2016,NA,NA,NA,NA,AME,2016 (4.2),Spawner,Early,Intermediate,308.9903,448.3066,45.3074331,68.38657136
+5482,NA,Spawning,NA,carcass_survey,2018,2016,NA,NA,NA,NA,AME,2016 (4.2),Spawner,Early,Intermediate,247.0405,519.7417,36.33931399,80.22051002
+5484,NA,Spawning,NA,carcass_survey,2018,2017,NA,NA,NA,NA,AME,2017 (15.3),Spawner,Late,Wet,492.1939,525.536,75.65694147,81.18039376
+5602,NA,Spawning,NA,carcass_survey,2018,2015,NA,NA,NA,NA,AME,2015 (1.1),Spawner,Late,Drought,402.8241,448.1129,60.85194041,68.35448301
+5673,NA,Spawning,NA,carcass_survey,2018,2017,NA,NA,NA,NA,AME,2017 (15.3),Spawner,Late,Wet,490.7776,490.7776,75.42231722,75.42231722
+5710,NA,Spawning,NA,carcass_survey,2018,2016,NA,NA,NA,NA,AME,2016 (4.2),Spawner,Early,Intermediate,227.9846,481.3762,35.93420461,73.86488129
+5850,NA,Spawning,NA,carcass_survey,2019,2018,NA,NA,NA,NA,AME,2018 (4),Spawner,Late,Intermediate,556.9779,604.4541,86.38905891,94.25396621
+5902,NA,Spawning,NA,carcass_survey,2019,2017,NA,NA,NA,NA,AME,2017 (15.3),Spawner,Late,Wet,441.878,465.3497,67.32160948,71.2099313
+5910,NA,Spawning,NA,carcass_survey,2019,2017,NA,NA,NA,NA,AME,2017 (15.3),Spawner,Late,Wet,512.7228,549.8327,79.05775905,85.20538508
+5911,NA,Spawning,NA,carcass_survey,2019,2017,NA,NA,NA,NA,AME,2017 (15.3),Spawner,Late,Wet,501.4069,501.4069,77.18316705,77.18316705
+5963,NA,Spawning,NA,carcass_survey,2019,2017,NA,NA,NA,NA,AME,2017 (15.3),Spawner,Late,Wet,516.6712,516.6712,79.71185099,79.71185099
+6037,NA,Spawning,NA,carcass_survey,2019,2017,NA,NA,NA,NA,AME,2017 (15.3),Spawner,Late,Wet,493.6631,528.82,75.90032915,81.7244212
+7056,NA,Spawning,NA,carcass_survey,2018,2017,NA,NA,NA,NA,AME,2017 (15.3),Spawner,Late,Wet,580,580,90.2029,90.2029
+7057,NA,Spawning,NA,carcass_survey,2018,2016,NA,NA,NA,NA,AME,2016 (4.2),Spawner,Late,Intermediate,405.4273,486.4119,61.28318652,74.69909535
+7180,NA,Spawning,NA,carcass_survey,2018,2016,NA,NA,NA,NA,AME,2016 (4.2),Spawner,Late,Intermediate,370.0879,413.7793,55.42886151,62.66677884
+7190,NA,Spawning,NA,carcass_survey,2018,2017,NA,NA,NA,NA,AME,2017 (15.3),Spawner,Late,Wet,610.4556,610.4556,95.2481747,95.2481747
+7341,NA,Spawning,NA,carcass_survey,2018,2016,NA,NA,NA,NA,AME,2016 (4.2),Spawner,Early,Intermediate,267.7045,474.9435,38.46802747,72.79924021
+7436,NA,Spawning,NA,carcass_survey,2018,2016,NA,NA,NA,NA,AME,2016 (4.2),Spawner,Late,Intermediate,481.1748,481.1748,73.83151737,73.83151737
+8024,NA,Spawning,NA,carcass_survey,2019,2018,NA,NA,NA,NA,AME,2018 (4),Spawner,Early,Intermediate,252.9465,520.0844,36.46486964,80.2772817
+8045,NA,Spawning,NA,carcass_survey,2019,2017,NA,NA,NA,NA,AME,2017 (15.3),Spawner,Late,Wet,372.3943,425.7373,55.81093974,64.64774112
+8062,NA,Spawning,NA,carcass_survey,2019,2017,NA,NA,NA,NA,AME,2017 (15.3),Spawner,Late,Wet,507.3677,507.3677,78.17063318,78.17063318
+8080,NA,Spawning,NA,carcass_survey,2019,2017,NA,NA,NA,NA,AME,2017 (15.3),Spawner,Late,Wet,403.9767,441.6513,61.04288012,67.28405436
+8082,NA,Spawning,NA,carcass_survey,2019,2017,NA,NA,NA,NA,AME,2017 (15.3),Spawner,Late,Wet,460.6966,486.0903,70.43909876,74.6458191
+8085,NA,Spawning,NA,carcass_survey,2019,2017,NA,NA,NA,NA,AME,2017 (15.3),Spawner,Late,Wet,347.0501,448.2152,51.61241957,68.37143003
+8086,NA,Spawning,NA,carcass_survey,2019,2017,NA,NA,NA,NA,AME,2017 (15.3),Spawner,Late,Wet,451.1494,500.714,68.8575096,77.06838124
+8088,NA,Spawning,NA,carcass_survey,2019,2016,NA,NA,NA,NA,AME,2016 (4.2),Spawner,Early,Intermediate,238.8648,420.7312,36.16550678,63.81843059
+8097,NA,Spawning,NA,carcass_survey,2019,2017,NA,NA,NA,NA,AME,2017 (15.3),Spawner,Late,Wet,434.6549,473.367,66.12503073,72.53807722
+8101,NA,Spawning,NA,carcass_survey,2019,2017,NA,NA,NA,NA,AME,2017 (15.3),Spawner,Late,Wet,437.7517,447.1461,66.63804662,68.19432293
+8102,NA,Spawning,NA,carcass_survey,2019,2017,NA,NA,NA,NA,AME,2017 (15.3),Spawner,Late,Wet,366.276,435.3934,54.79738216,66.24737064
+8105,NA,Spawning,NA,carcass_survey,2019,2017,NA,NA,NA,NA,AME,2017 (15.3),Spawner,Late,Wet,504.1908,504.1908,77.64434793,77.64434793
+8107,NA,Spawning,NA,carcass_survey,2019,2017,NA,NA,NA,NA,AME,2017 (15.3),Spawner,Late,Wet,410.8946,410.8946,62.18889944,62.18889944
+8110,NA,Spawning,NA,carcass_survey,2019,2017,NA,NA,NA,NA,AME,2017 (15.3),Spawner,Late,Wet,453.4603,484.969,69.2403333,74.46006454
+8111,NA,Spawning,NA,carcass_survey,2019,2017,NA,NA,NA,NA,AME,2017 (15.3),Spawner,Late,Wet,482.0965,482.0965,73.98420619,73.98420619
+8141,NA,Spawning,NA,carcass_survey,2019,2016,NA,NA,NA,NA,AME,2016 (4.2),Spawner,Early,Intermediate,278.1907,590,40.20517136,91.8595
+8151,NA,Spawning,NA,carcass_survey,2019,2017,NA,NA,NA,NA,AME,2017 (15.3),Spawner,Late,Wet,446.8705,487.6918,68.14866703,74.91112359
+8170,NA,Spawning,NA,carcass_survey,2019,2018,NA,NA,NA,NA,AME,2018 (4),Spawner,Early,Intermediate,234.5072,525.2749,36.07286856,81.13713993
+8175,NA,Spawning,NA,carcass_survey,2019,2018,NA,NA,NA,NA,AME,2018 (4),Spawner,Late,Intermediate,459.2475,470,70.19904085,71.9803
+8187,NA,Spawning,NA,carcass_survey,2019,2017,NA,NA,NA,NA,AME,2017 (15.3),Spawner,Late,Wet,540.9205,540.9205,83.72899003,83.72899003
+8251,NA,Spawning,NA,carcass_survey,2019,2017,NA,NA,NA,NA,AME,2017 (15.3),Spawner,Late,Wet,466.7657,494.0853,71.44450586,75.9702708
+8254,NA,Spawning,NA,carcass_survey,2019,2017,NA,NA,NA,NA,AME,2017 (15.3),Spawner,Late,Wet,500.8052,537.7399,77.08348943,83.20209183
+8268,NA,Spawning,NA,carcass_survey,2019,2017,NA,NA,NA,NA,AME,2017 (15.3),Spawner,Late,Wet,400,405.811,60.3841,61.34675026
+8273,NA,Spawning,NA,carcass_survey,2019,2017,NA,NA,NA,NA,AME,2017 (15.3),Spawner,Late,Wet,364.8603,431.1212,54.5628573,65.53963799
+8283,NA,Spawning,NA,carcass_survey,2019,2017,NA,NA,NA,NA,AME,2017 (15.3),Spawner,Late,Wet,433.6543,511.3431,65.95927134,78.82919795
+8284,NA,Spawning,NA,carcass_survey,2019,2017,NA,NA,NA,NA,AME,2017 (15.3),Spawner,Late,Wet,524,550,80.92594,85.2331
+8285,NA,Spawning,NA,carcass_survey,2019,2017,NA,NA,NA,NA,AME,2017 (15.3),Spawner,Late,Wet,583.1708,583.1708,90.72817473,90.72817473
+8287,NA,Spawning,NA,carcass_survey,2020,2018,NA,NA,NA,NA,AME,2018 (4),Spawner,Late,Intermediate,517.3956,517.3956,79.8318551,79.8318551
+8301,NA,Spawning,NA,carcass_survey,2020,2017,NA,NA,NA,NA,AME,2017 (15.3),Spawner,Late,Wet,465.6673,500.0514,71.26254492,76.95861492
+8305,NA,Spawning,NA,carcass_survey,2020,2017,NA,NA,NA,NA,AME,2017 (15.3),Spawner,Late,Wet,497.7483,497.7483,76.57708338,76.57708338
+8334,NA,Spawning,NA,carcass_survey,2019,2017,NA,NA,NA,NA,AME,2017 (15.3),Spawner,Late,Wet,443.392,472.355,67.57241872,72.3704293
+8339,NA,Spawning,NA,carcass_survey,2019,2017,NA,NA,NA,NA,AME,2017 (15.3),Spawner,Late,Wet,503.3493,559.7854,77.50494504,86.85414936
+8343,NA,Spawning,NA,carcass_survey,2019,2017,NA,NA,NA,NA,AME,2017 (15.3),Spawner,Late,Wet,440.7897,490.5067,67.1413217,75.37743992
+8344,NA,Spawning,NA,carcass_survey,2019,2018,NA,NA,NA,NA,AME,2018 (4),Spawner,Late,Intermediate,391.467,452.7295,58.97052322,69.11926897
+8357,NA,Spawning,NA,carcass_survey,2019,2017,NA,NA,NA,NA,AME,2017 (15.3),Spawner,Late,Wet,506.9978,557.5536,78.10935555,86.48442938
+8373,NA,Spawning,NA,carcass_survey,2019,2017,NA,NA,NA,NA,AME,2017 (15.3),Spawner,Late,Wet,491.0416,532.8983,75.46605146,82.40003238
+8414,NA,Spawning,NA,carcass_survey,2019,2017,NA,NA,NA,NA,AME,2017 (15.3),Spawner,Late,Wet,570,570,88.5463,88.5463
+8426,NA,Spawning,NA,carcass_survey,2019,2017,NA,NA,NA,NA,AME,2017 (15.3),Spawner,Late,Wet,447.8197,600,68.3059115,93.5161
+8468,NA,Spawning,NA,carcass_survey,2019,2017,NA,NA,NA,NA,AME,2017 (15.3),Spawner,Late,Wet,460.5133,474.6809,70.40873328,72.75573789
+8515,NA,Spawning,NA,carcass_survey,2020,2018,NA,NA,NA,NA,AME,2018 (4),Spawner,Late,Intermediate,407.9753,510.4885,61.7052882,78.68762491
+8536,NA,Spawning,NA,carcass_survey,2020,2018,NA,NA,NA,NA,AME,2018 (4),Spawner,Late,Intermediate,474.0082,504.249,72.64429841,77.65398934
+8542,NA,Spawning,NA,carcass_survey,2020,2017,NA,NA,NA,NA,AME,2017 (15.3),Spawner,Late,Wet,411.8792,455.4342,62.35200827,69.56732957
+9127,NA,Spawning,NA,carcass_survey,2019,2018,NA,NA,NA,NA,AME,2018 (4),Spawner,Late,Intermediate,543.7642,543.7642,84.20007737,84.20007737
+9192,NA,Spawning,NA,carcass_survey,2019,2017,NA,NA,NA,NA,AME,2017 (15.3),Spawner,Late,Wet,511.2784,511.2784,78.81847974,78.81847974
+9199,NA,Spawning,NA,carcass_survey,2020,2018,NA,NA,NA,NA,AME,2018 (4),Spawner,Late,Intermediate,536.2675,569.5539,82.95817405,88.47239907
+AR005,NA,Spawning,NA,carcass_survey,2014,2012,NA,NA,NA,NA,AME,2012 (2.3),Spawner,Late,Intermediate,538.9532,538.9532,83.40308711,83.40308711
+AR015,NA,Spawning,NA,carcass_survey,2014,2013,NA,NA,NA,NA,AME,2013 (1.9),Spawner,Early,Intermediate,233.2409,453.0505,36.04594829,69.17244583
+AR018,NA,Spawning,NA,carcass_survey,2014,2011,NA,NA,NA,NA,AME,2011 (8.1),Spawner,Late,Wet,450.8081,478.5151,68.80096985,73.39091147
+AR021,NA,Spawning,NA,carcass_survey,2014,2011,NA,NA,NA,NA,AME,2011 (8.1),Spawner,Late,Wet,504.2046,558.9352,77.64663404,86.71330523
+AR030,NA,Spawning,NA,carcass_survey,2014,2012,NA,NA,NA,NA,AME,2012 (2.3),Spawner,Late,Intermediate,328.0239,463.9932,48.46053927,70.98521351
+AR034,NA,Spawning,NA,carcass_survey,2014,2011,NA,NA,NA,NA,AME,2011 (8.1),Spawner,Late,Wet,385.5017,491.5394,57.98231162,75.548517
+AR036,NA,Spawning,NA,carcass_survey,2014,2012,NA,NA,NA,NA,AME,2012 (2.3),Spawner,Late,Intermediate,507.8698,507.8698,78.25381107,78.25381107
+AR038,NA,Spawning,NA,carcass_survey,2014,2012,NA,NA,NA,NA,AME,2012 (2.3),Spawner,Late,Intermediate,447.861,498.2101,68.31275326,76.65358517
+AR043,NA,Spawning,NA,carcass_survey,2014,2012,NA,NA,NA,NA,AME,2012 (2.3),Spawner,Late,Intermediate,513.7145,573.0166,79.22204407,89.04602996
+AR044,NA,Spawning,NA,carcass_survey,2014,2012,NA,NA,NA,NA,AME,2012 (2.3),Spawner,Early,Intermediate,235.6375,513.432,36.09689761,79.17524512
+AR046,NA,Spawning,NA,carcass_survey,2014,2012,NA,NA,NA,NA,AME,2012 (2.3),Spawner,Late,Intermediate,363.53,468.6371,54.3424798,71.75452199
+AR068,NA,Spawning,NA,carcass_survey,2014,2011,NA,NA,NA,NA,AME,2011 (8.1),Spawner,Late,Wet,480,495,73.6369,76.1218
+AR071,NA,Spawning,NA,carcass_survey,2014,2011,NA,NA,NA,NA,AME,2011 (8.1),Spawner,Late,Wet,461.78,461.78,70.6185748,70.6185748
+AR079,NA,Spawning,NA,carcass_survey,2014,2012,NA,NA,NA,NA,AME,2012 (2.3),Spawner,Late,Intermediate,519.753,568.6166,80.22238198,88.31712596
+AR083,NA,Spawning,NA,carcass_survey,2014,2013,NA,NA,NA,NA,AME,2013 (1.9),Spawner,Late,Intermediate,552.3513,552.3513,85.62261636,85.62261636
+AR087,NA,Spawning,NA,carcass_survey,2014,2012,NA,NA,NA,NA,AME,2012 (2.3),Spawner,Late,Intermediate,550.7617,602.1689,85.35928322,93.87539997
+AR093,NA,Spawning,NA,carcass_survey,2014,2012,NA,NA,NA,NA,AME,2012 (2.3),Spawner,Late,Intermediate,460.8535,506.1036,70.46509081,77.96122238
+AR095,NA,Spawning,NA,carcass_survey,2014,2012,NA,NA,NA,NA,AME,2012 (2.3),Spawner,Late,Intermediate,465.0498,465.0498,71.16024987,71.16024987
+AR096,NA,Spawning,NA,carcass_survey,2014,2012,NA,NA,NA,NA,AME,2012 (2.3),Spawner,Late,Intermediate,450.3023,517.0558,68.71717902,79.77556383
+AR097,NA,Spawning,NA,carcass_survey,2014,2011,NA,NA,NA,NA,AME,2011 (8.1),Spawner,Late,Wet,472.2552,484.3078,72.35389643,74.35053015
+AR102,NA,Spawning,NA,carcass_survey,2014,2012,NA,NA,NA,NA,AME,2012 (2.3),Spawner,Late,Intermediate,499.6648,526,76.89457077,81.25726
+AR104,NA,Spawning,NA,carcass_survey,2014,2012,NA,NA,NA,NA,AME,2012 (2.3),Spawner,Late,Intermediate,440.7898,472.2906,67.14133827,72.3597608
+AR105,NA,Spawning,NA,carcass_survey,2014,2011,NA,NA,NA,NA,AME,2011 (8.1),Spawner,Late,Wet,411.8052,447.3466,62.33974943,68.22753776
+AR108,NA,Spawning,NA,carcass_survey,2014,2011,NA,NA,NA,NA,AME,2011 (8.1),Spawner,Late,Wet,459.2173,503.4034,70.19403792,77.51390724
+AR112,NA,Spawning,NA,carcass_survey,2014,2011,NA,NA,NA,NA,AME,2011 (8.1),Spawner,Late,Wet,451.3186,513.94,68.88553928,79.2594004
+AR116,NA,Spawning,NA,carcass_survey,2014,2011,NA,NA,NA,NA,AME,2011 (8.1),Spawner,Early,Wet,241.4994,579.4908,36.22151574,90.11854593
+AR119,NA,Spawning,NA,carcass_survey,2014,2011,NA,NA,NA,NA,AME,2011 (8.1),Spawner,Early,Wet,207.2656,464.5707,35.49373939,71.08088216
+AR120,NA,Spawning,NA,carcass_survey,2014,2012,NA,NA,NA,NA,AME,2012 (2.3),Spawner,Late,Intermediate,516.7795,516.7795,79.72979197,79.72979197
+AR124,NA,Spawning,NA,carcass_survey,2014,2012,NA,NA,NA,NA,AME,2012 (2.3),Spawner,Late,Intermediate,572.7832,572.7832,89.00736491,89.00736491
+AR125,NA,Spawning,NA,carcass_survey,2014,2011,NA,NA,NA,NA,AME,2011 (8.1),Spawner,Late,Wet,548.9201,548.9201,85.05420377,85.05420377
+AR127,NA,Spawning,NA,carcass_survey,2014,2012,NA,NA,NA,NA,AME,2012 (2.3),Spawner,Late,Intermediate,327.5537,555.075,48.38264594,86.0738245
+AR128,NA,Spawning,NA,carcass_survey,2014,2011,NA,NA,NA,NA,AME,2011 (8.1),Spawner,Late,Wet,490.2726,509.1026,75.33865892,78.45803672
+AR130,NA,Spawning,NA,carcass_survey,2014,2012,NA,NA,NA,NA,AME,2012 (2.3),Spawner,Late,Intermediate,576.0849,598.4818,89.55432453,93.26459499
+AR131,NA,Spawning,NA,carcass_survey,2014,2011,NA,NA,NA,NA,AME,2011 (8.1),Spawner,Late,Wet,479.5565,513.0573,73.56342979,79.11317232
+AR132,NA,Spawning,NA,carcass_survey,2014,2012,NA,NA,NA,NA,AME,2012 (2.3),Spawner,Late,Intermediate,493.1408,493.1408,75.81380493,75.81380493
+AR133,NA,Spawning,NA,carcass_survey,2014,2011,NA,NA,NA,NA,AME,2011 (8.1),Spawner,Late,Wet,505.3597,565,77.8379879,87.718
+AR134,NA,Spawning,NA,carcass_survey,2014,2011,NA,NA,NA,NA,AME,2011 (8.1),Spawner,Early,Wet,218.8575,480.9784,35.74017159,73.79898174
+AR138,NA,Spawning,NA,carcass_survey,2014,2011,NA,NA,NA,NA,AME,2011 (8.1),Spawner,Late,Wet,437.0079,537.6126,66.51482871,83.18100332
+AR141,NA,Spawning,NA,carcass_survey,2014,2011,NA,NA,NA,NA,AME,2011 (8.1),Spawner,Late,Wet,411.7075,450.2391,62.32356445,68.70670931
+AR142,NA,Spawning,NA,carcass_survey,2014,2011,NA,NA,NA,NA,AME,2011 (8.1),Spawner,Early,Wet,241.5454,543.5193,36.22249366,84.15950724
+AR147,NA,Spawning,NA,carcass_survey,2014,2011,NA,NA,NA,NA,AME,2011 (8.1),Spawner,Late,Wet,489.4885,536.7643,75.20876491,83.04047394
+AR15-101,NA,Spawning,NA,carcass_survey,2015,2013,NA,NA,NA,NA,AME,2013 (1.9),Spawner,Late,Intermediate,335.4567,335.4567,49.69185692,49.69185692
+AR15-104,NA,Spawning,NA,carcass_survey,2015,2014,NA,NA,NA,NA,AME,2014 (1),Spawner,Early,Drought,216.4624,554.5155,35.68925416,85.98113773
+AR15-105,NA,Spawning,NA,carcass_survey,2015,2013,NA,NA,NA,NA,AME,2013 (1.9),Spawner,Late,Intermediate,470,495.2512,71.9803,76.16341379
+AR15-106,NA,Spawning,NA,carcass_survey,2015,2014,NA,NA,NA,NA,AME,2014 (1),Spawner,Late,Drought,564.7578,564.7578,87.67787715,87.67787715
+AR15-107,NA,Spawning,NA,carcass_survey,2015,2013,NA,NA,NA,NA,AME,2013 (1.9),Spawner,Early,Intermediate,240.2372,473.9003,36.19468263,72.6264237
+AR15-113,NA,Spawning,NA,carcass_survey,2015,2013,NA,NA,NA,NA,AME,2013 (1.9),Spawner,Early,Intermediate,229.3927,480.9653,35.96413941,73.7968116
+AR15-114,NA,Spawning,NA,carcass_survey,2015,2012,NA,NA,NA,NA,AME,2012 (2.3),Spawner,Late,Intermediate,559.9952,588.0134,86.88890483,91.53039984
+AR15-125,NA,Spawning,NA,carcass_survey,2015,2013,NA,NA,NA,NA,AME,2013 (1.9),Spawner,Late,Intermediate,557.5023,567.4661,86.47593102,88.12653413
+AR15-129,NA,Spawning,NA,carcass_survey,2015,2013,NA,NA,NA,NA,AME,2013 (1.9),Spawner,Late,Intermediate,467.9185,547.7679,71.63547871,84.86333031
+AR15-134,NA,Spawning,NA,carcass_survey,2015,2013,NA,NA,NA,NA,AME,2013 (1.9),Spawner,Late,Intermediate,514.3834,514.3834,79.33285404,79.33285404
+AR15-135,NA,Spawning,NA,carcass_survey,2015,2012,NA,NA,NA,NA,AME,2012 (2.3),Spawner,Late,Intermediate,386.3519,436.0547,58.12315575,66.3569216
+AR15-136,NA,Spawning,NA,carcass_survey,2015,2013,NA,NA,NA,NA,AME,2013 (1.9),Spawner,Late,Intermediate,585.037,585.037,91.03732942,91.03732942
+AR15-137,NA,Spawning,NA,carcass_survey,2015,2013,NA,NA,NA,NA,AME,2013 (1.9),Spawner,Late,Intermediate,477.3794,524.0202,73.2027714,80.92928633
+AR15-140,NA,Spawning,NA,carcass_survey,2015,2013,NA,NA,NA,NA,AME,2013 (1.9),Spawner,Late,Intermediate,482.6573,521.1497,74.07710832,80.4537593
+AR15-1402,NA,Spawning,NA,carcass_survey,2015,2013,NA,NA,NA,NA,AME,2013 (1.9),Spawner,Late,Intermediate,423.162,423.162,64.22111692,64.22111692
+AR15-1406,NA,Spawning,NA,carcass_survey,2015,2013,NA,NA,NA,NA,AME,2013 (1.9),Spawner,Late,Intermediate,551.6101,551.6101,85.49982917,85.49982917
+AR15-1413,NA,Spawning,NA,carcass_survey,2015,2013,NA,NA,NA,NA,AME,2013 (1.9),Spawner,Late,Intermediate,396.5518,485.0841,59.81287119,74.47913201
+AR15-1415,NA,Spawning,NA,carcass_survey,2015,2013,NA,NA,NA,NA,AME,2013 (1.9),Spawner,Late,Intermediate,415.5216,508.3491,62.95540826,78.33321191
+AR15-142,NA,Spawning,NA,carcass_survey,2015,2013,NA,NA,NA,NA,AME,2013 (1.9),Spawner,Late,Intermediate,498.3289,498.3289,76.67326557,76.67326557
+AR15-1423,NA,Spawning,NA,carcass_survey,2015,2013,NA,NA,NA,NA,AME,2013 (1.9),Spawner,Late,Intermediate,515.6638,543.2137,79.54496511,84.10888154
+AR15-143,NA,Spawning,NA,carcass_survey,2015,2014,NA,NA,NA,NA,AME,2014 (1),Spawner,Early,Drought,229.1086,462.6877,35.95809973,70.76894438
+AR15-1441,NA,Spawning,NA,carcass_survey,2015,2013,NA,NA,NA,NA,AME,2013 (1.9),Spawner,Late,Intermediate,596.7935,596.7935,92.98491121,92.98491121
+AR15-1450,NA,Spawning,NA,carcass_survey,2015,2012,NA,NA,NA,NA,AME,2012 (2.3),Spawner,Late,Intermediate,548.2075,572.6541,84.93615445,88.98597821
+AR15-1452,NA,Spawning,NA,carcass_survey,2015,2013,NA,NA,NA,NA,AME,2013 (1.9),Spawner,Early,Intermediate,227.5538,487.6471,35.92504623,74.90371859
+AR15-1455,NA,Spawning,NA,carcass_survey,2015,2013,NA,NA,NA,NA,AME,2013 (1.9),Spawner,Late,Intermediate,505.7776,512.2666,77.90721722,78.98218496
+AR15-1456,NA,Spawning,NA,carcass_survey,2015,2013,NA,NA,NA,NA,AME,2013 (1.9),Spawner,Late,Intermediate,366.454,441.8251,54.82686964,67.31284607
+AR15-1457,NA,Spawning,NA,carcass_survey,2015,2013,NA,NA,NA,NA,AME,2013 (1.9),Spawner,Late,Intermediate,591.2408,591.2408,92.06505093,92.06505093
+AR15-146,NA,Spawning,NA,carcass_survey,2015,2013,NA,NA,NA,NA,AME,2013 (1.9),Spawner,Late,Intermediate,434.7248,490.3981,66.13661037,75.35944925
+AR15-1476,NA,Spawning,NA,carcass_survey,2015,2013,NA,NA,NA,NA,AME,2013 (1.9),Spawner,Late,Intermediate,454.9099,498.7736,69.48047403,76.74693458
+AR15-148,NA,Spawning,NA,carcass_survey,2015,2013,NA,NA,NA,NA,AME,2013 (1.9),Spawner,Early,Intermediate,274.6254,590,39.61454376,91.8595
+AR15-1480,NA,Spawning,NA,carcass_survey,2015,2013,NA,NA,NA,NA,AME,2013 (1.9),Spawner,Late,Intermediate,384.3406,465.6794,57.7899638,71.2645494
+AR15-1481,NA,Spawning,NA,carcass_survey,2015,2012,NA,NA,NA,NA,AME,2012 (2.3),Spawner,Late,Intermediate,509.0652,539.2062,78.45184103,83.44499909
+AR15-1482,NA,Spawning,NA,carcass_survey,2015,2013,NA,NA,NA,NA,AME,2013 (1.9),Spawner,Late,Intermediate,429.8556,491.6078,65.3299787,75.55984815
+AR15-1484,NA,Spawning,NA,carcass_survey,2015,2013,NA,NA,NA,NA,AME,2013 (1.9),Spawner,Late,Intermediate,532.3411,579.5309,82.30772663,90.12518889
+AR15-1488,NA,Spawning,NA,carcass_survey,2015,2013,NA,NA,NA,NA,AME,2013 (1.9),Spawner,Late,Intermediate,478.0277,509.8777,73.31016878,78.58643978
+AR15-1489,NA,Spawning,NA,carcass_survey,2015,2013,NA,NA,NA,NA,AME,2013 (1.9),Spawner,Late,Intermediate,547.4033,547.4033,84.80293068,84.80293068
+AR15-1491,NA,Spawning,NA,carcass_survey,2015,2013,NA,NA,NA,NA,AME,2013 (1.9),Spawner,Late,Intermediate,625.2332,664.8367,97.69623191,104.2569477
+AR15-1492,NA,Spawning,NA,carcass_survey,2015,2013,NA,NA,NA,NA,AME,2013 (1.9),Spawner,Late,Intermediate,448.8946,538.2935,68.48397944,83.29380121
+AR15-1493,NA,Spawning,NA,carcass_survey,2015,2014,NA,NA,NA,NA,AME,2014 (1),Spawner,Late,Drought,611.0454,611.0454,95.34588096,95.34588096
+AR15-1495,NA,Spawning,NA,carcass_survey,2015,2013,NA,NA,NA,NA,AME,2013 (1.9),Spawner,Late,Intermediate,475,506.6167,72.8086,78.04622252
+AR15-1496,NA,Spawning,NA,carcass_survey,2015,2013,NA,NA,NA,NA,AME,2013 (1.9),Spawner,Late,Intermediate,459.8727,512.9762,70.30261148,79.09973729
+AR15-1497,NA,Spawning,NA,carcass_survey,2015,2013,NA,NA,NA,NA,AME,2013 (1.9),Spawner,Late,Intermediate,432.9925,474.7084,65.84963755,72.76029354
+AR15-15,NA,Spawning,NA,carcass_survey,2015,2013,NA,NA,NA,NA,AME,2013 (1.9),Spawner,Late,Intermediate,477.9606,535.8083,73.299053,82.88210298
+AR15-1501,NA,Spawning,NA,carcass_survey,2015,2013,NA,NA,NA,NA,AME,2013 (1.9),Spawner,Late,Intermediate,456.5438,510.2826,69.75114591,78.65351552
+AR15-1504,NA,Spawning,NA,carcass_survey,2015,2013,NA,NA,NA,NA,AME,2013 (1.9),Spawner,Late,Intermediate,566.3604,566.3604,87.94336386,87.94336386
+AR15-1505,NA,Spawning,NA,carcass_survey,2015,2014,NA,NA,NA,NA,AME,2014 (1),Spawner,Late,Drought,593.0092,593.0092,92.35800407,92.35800407
+AR15-1507,NA,Spawning,NA,carcass_survey,2015,2013,NA,NA,NA,NA,AME,2013 (1.9),Spawner,Late,Intermediate,511.5685,511.5685,78.86653771,78.86653771
+AR15-1508,NA,Spawning,NA,carcass_survey,2015,2013,NA,NA,NA,NA,AME,2013 (1.9),Spawner,Late,Intermediate,548.6242,548.6242,85.00518497,85.00518497
+AR15-153,NA,Spawning,NA,carcass_survey,2015,2013,NA,NA,NA,NA,AME,2013 (1.9),Spawner,Late,Intermediate,536.4996,536.4996,82.99662374,82.99662374
+AR15-1533,NA,Spawning,NA,carcass_survey,2015,2013,NA,NA,NA,NA,AME,2013 (1.9),Spawner,Late,Intermediate,455.8077,455.8077,69.62920358,69.62920358
+AR15-1535,NA,Spawning,NA,carcass_survey,2015,2013,NA,NA,NA,NA,AME,2013 (1.9),Spawner,Late,Intermediate,537.5616,537.5616,83.17255466,83.17255466
+AR15-1539,NA,Spawning,NA,carcass_survey,2015,2014,NA,NA,NA,NA,AME,2014 (1),Spawner,Late,Drought,458.079,504.6349,70.00546714,77.71791753
+AR15-1544,NA,Spawning,NA,carcass_survey,2015,2012,NA,NA,NA,NA,AME,2012 (2.3),Spawner,Late,Intermediate,418.1122,481.3685,63.38456705,73.86360571
+AR15-1545,NA,Spawning,NA,carcass_survey,2015,2013,NA,NA,NA,NA,AME,2013 (1.9),Spawner,Late,Intermediate,514.0836,514.0836,79.28318918,79.28318918
+AR15-1546,NA,Spawning,NA,carcass_survey,2015,2013,NA,NA,NA,NA,AME,2013 (1.9),Spawner,Late,Intermediate,552.1504,552.1504,85.58933526,85.58933526
+AR15-1549,NA,Spawning,NA,carcass_survey,2015,2013,NA,NA,NA,NA,AME,2013 (1.9),Spawner,Early,Intermediate,222.5439,433.3963,35.81854077,65.91653106
+AR15-1551,NA,Spawning,NA,carcass_survey,2015,2013,NA,NA,NA,NA,AME,2013 (1.9),Spawner,Late,Intermediate,499.9433,499.9433,76.94070708,76.94070708
+AR15-1552,NA,Spawning,NA,carcass_survey,2015,2013,NA,NA,NA,NA,AME,2013 (1.9),Spawner,Late,Intermediate,456.6172,473.5179,69.76330535,72.56307531
+AR15-1556,NA,Spawning,NA,carcass_survey,2015,2013,NA,NA,NA,NA,AME,2013 (1.9),Spawner,Late,Intermediate,448.6994,448.6994,68.4516426,68.4516426
+AR15-156,NA,Spawning,NA,carcass_survey,2015,2013,NA,NA,NA,NA,AME,2013 (1.9),Spawner,Early,Intermediate,216.6522,404.4873,35.69328912,61.12746612
+AR15-157,NA,Spawning,NA,carcass_survey,2015,2013,NA,NA,NA,NA,AME,2013 (1.9),Spawner,Early,Intermediate,234.7106,469.6589,36.07719265,71.92379337
+AR15-1571,NA,Spawning,NA,carcass_survey,2015,2013,NA,NA,NA,NA,AME,2013 (1.9),Spawner,Late,Intermediate,436.5786,502.8671,66.44371088,77.42506379
+AR15-1574,NA,Spawning,NA,carcass_survey,2015,2013,NA,NA,NA,NA,AME,2013 (1.9),Spawner,Late,Intermediate,472.1529,498.8995,72.33694941,76.76779117
+AR15-1576,NA,Spawning,NA,carcass_survey,2015,2012,NA,NA,NA,NA,AME,2012 (2.3),Spawner,Late,Intermediate,418.5696,457.4401,63.46033994,69.89962697
+AR15-158,NA,Spawning,NA,carcass_survey,2015,2014,NA,NA,NA,NA,AME,2014 (1),Spawner,Early,Drought,189.3076,403.8283,35.11197027,61.01829618
+AR15-1583,NA,Spawning,NA,carcass_survey,2015,2013,NA,NA,NA,NA,AME,2013 (1.9),Spawner,Late,Intermediate,380.828,435.2478,57.20806648,66.22325055
+AR15-1589,NA,Spawning,NA,carcass_survey,2015,2013,NA,NA,NA,NA,AME,2013 (1.9),Spawner,Late,Intermediate,455.7694,479.4664,69.6228588,73.54850382
+AR15-1595,NA,Spawning,NA,carcass_survey,2015,2013,NA,NA,NA,NA,AME,2013 (1.9),Spawner,Late,Intermediate,380.2212,453.2612,57.10754399,69.20735039
+AR15-1600,NA,Spawning,NA,carcass_survey,2015,2012,NA,NA,NA,NA,AME,2012 (2.3),Spawner,Late,Intermediate,465,488.2979,71.152,75.01153011
+AR15-1601,NA,Spawning,NA,carcass_survey,2015,2013,NA,NA,NA,NA,AME,2013 (1.9),Spawner,Late,Intermediate,436.949,479.4015,66.50507134,73.53775249
+AR15-1602,NA,Spawning,NA,carcass_survey,2015,2013,NA,NA,NA,NA,AME,2013 (1.9),Spawner,Late,Intermediate,519.4737,519.4737,80.17611314,80.17611314
+AR15-1605,NA,Spawning,NA,carcass_survey,2015,2013,NA,NA,NA,NA,AME,2013 (1.9),Spawner,Late,Intermediate,443.2161,468.6356,67.54327913,71.7542735
+AR15-1611,NA,Spawning,NA,carcass_survey,2015,2013,NA,NA,NA,NA,AME,2013 (1.9),Spawner,Late,Intermediate,399.8934,471.7277,60.36644064,72.26651078
+AR15-1614,NA,Spawning,NA,carcass_survey,2015,2013,NA,NA,NA,NA,AME,2013 (1.9),Spawner,Late,Intermediate,599.3495,599.3495,93.40833817,93.40833817
+AR15-1625,NA,Spawning,NA,carcass_survey,2015,2013,NA,NA,NA,NA,AME,2013 (1.9),Spawner,Early,Intermediate,226.0572,444.1666,35.89323001,67.70073896
+AR15-1627,NA,Spawning,NA,carcass_survey,2015,2013,NA,NA,NA,NA,AME,2013 (1.9),Spawner,Late,Intermediate,426.2411,460.0246,64.73120063,70.32777524
+AR15-1629,NA,Spawning,NA,carcass_survey,2015,2013,NA,NA,NA,NA,AME,2013 (1.9),Spawner,Late,Intermediate,540.3532,540.3532,83.63501111,83.63501111
+AR15-1636,NA,Spawning,NA,carcass_survey,2015,2013,NA,NA,NA,NA,AME,2013 (1.9),Spawner,Late,Intermediate,445.8829,516.4801,67.98506121,79.68019337
+AR15-1640,NA,Spawning,NA,carcass_survey,2015,2013,NA,NA,NA,NA,AME,2013 (1.9),Spawner,Late,Intermediate,331.5501,386.0812,49.04468957,58.07831159
+AR15-1644,NA,Spawning,NA,carcass_survey,2015,2014,NA,NA,NA,NA,AME,2014 (1),Spawner,Late,Drought,565.3062,565.3062,87.76872509,87.76872509
+AR15-1645,NA,Spawning,NA,carcass_survey,2015,2013,NA,NA,NA,NA,AME,2013 (1.9),Spawner,Late,Intermediate,453.9496,492.7385,69.32139074,75.74715991
+AR15-1648,NA,Spawning,NA,carcass_survey,2015,2013,NA,NA,NA,NA,AME,2013 (1.9),Spawner,Late,Intermediate,475.2115,515.6505,72.84363709,79.54276183
+AR15-1650,NA,Spawning,NA,carcass_survey,2015,2012,NA,NA,NA,NA,AME,2012 (2.3),Spawner,Late,Intermediate,499.2744,560.3648,76.8298971,86.95013277
+AR15-1652,NA,Spawning,NA,carcass_survey,2015,2012,NA,NA,NA,NA,AME,2012 (2.3),Spawner,Late,Intermediate,454.4657,492.7899,69.40688786,75.75567483
+AR15-1654,NA,Spawning,NA,carcass_survey,2015,2013,NA,NA,NA,NA,AME,2013 (1.9),Spawner,Late,Intermediate,413.7716,469.4732,62.66550326,71.89303031
+AR15-1656,NA,Spawning,NA,carcass_survey,2015,2013,NA,NA,NA,NA,AME,2013 (1.9),Spawner,Late,Intermediate,393.3457,450.0118,59.28174866,68.66905479
+AR15-1657,NA,Spawning,NA,carcass_survey,2015,2013,NA,NA,NA,NA,AME,2013 (1.9),Spawner,Early,Intermediate,243.9452,486.7965,36.27351101,74.76280819
+AR15-1659,NA,Spawning,NA,carcass_survey,2015,2013,NA,NA,NA,NA,AME,2013 (1.9),Spawner,Late,Intermediate,495.456,511.7589,76.19734096,78.89807937
+AR15-1692,NA,Spawning,NA,carcass_survey,2015,2012,NA,NA,NA,NA,AME,2012 (2.3),Spawner,Late,Intermediate,588.8949,588.8949,91.67642913,91.67642913
+AR15-1700,NA,Spawning,NA,carcass_survey,2015,2013,NA,NA,NA,NA,AME,2013 (1.9),Spawner,Late,Intermediate,438.626,475.8614,66.78288316,72.95129952
+AR15-1704,NA,Spawning,NA,carcass_survey,2015,2013,NA,NA,NA,NA,AME,2013 (1.9),Spawner,Late,Intermediate,411.5342,452.6545,62.29485557,69.10684447
+AR15-1708,NA,Spawning,NA,carcass_survey,2015,2013,NA,NA,NA,NA,AME,2013 (1.9),Spawner,Late,Intermediate,353.7757,426.3341,52.72658246,64.74660701
+AR15-1710,NA,Spawning,NA,carcass_survey,2015,2013,NA,NA,NA,NA,AME,2013 (1.9),Spawner,Late,Intermediate,490.7519,490.7519,75.41805975,75.41805975
+AR15-1714,NA,Spawning,NA,carcass_survey,2015,2013,NA,NA,NA,NA,AME,2013 (1.9),Spawner,Late,Intermediate,474.5137,525.0037,72.72803954,81.09221294
+AR15-1717,NA,Spawning,NA,carcass_survey,2015,2013,NA,NA,NA,NA,AME,2013 (1.9),Spawner,Late,Intermediate,475.7685,475.7685,72.93590971,72.93590971
+AR15-1718,NA,Spawning,NA,carcass_survey,2015,2013,NA,NA,NA,NA,AME,2013 (1.9),Spawner,Late,Intermediate,526.8283,526.8283,81.39447618,81.39447618
+AR15-1719,NA,Spawning,NA,carcass_survey,2015,2013,NA,NA,NA,NA,AME,2013 (1.9),Spawner,Late,Intermediate,530,530,81.9199,81.9199
+AR15-1734,NA,Spawning,NA,carcass_survey,2015,2013,NA,NA,NA,NA,AME,2013 (1.9),Spawner,Late,Intermediate,635.4285,635.4285,99.38518531,99.38518531
+AR15-1737,NA,Spawning,NA,carcass_survey,2015,2013,NA,NA,NA,NA,AME,2013 (1.9),Spawner,Early,Intermediate,241.0759,496.5673,36.21251256,76.38143892
+AR15-1738,NA,Spawning,NA,carcass_survey,2015,2013,NA,NA,NA,NA,AME,2013 (1.9),Spawner,Late,Intermediate,445.5323,465.8724,67.92698082,71.29652178
+AR15-1740,NA,Spawning,NA,carcass_survey,2015,2013,NA,NA,NA,NA,AME,2013 (1.9),Spawner,Late,Intermediate,403.7406,439.821,61.0037678,66.98084686
+AR15-1745,NA,Spawning,NA,carcass_survey,2015,2013,NA,NA,NA,NA,AME,2013 (1.9),Spawner,Late,Intermediate,549.5698,556.2261,85.16183307,86.26451573
+AR15-175,NA,Spawning,NA,carcass_survey,2015,2013,NA,NA,NA,NA,AME,2013 (1.9),Spawner,Early,Intermediate,240.4116,521.7045,36.1983902,80.54566747
+AR15-1750,NA,Spawning,NA,carcass_survey,2015,2013,NA,NA,NA,NA,AME,2013 (1.9),Spawner,Late,Intermediate,416.0281,463.7259,63.03931505,70.94093259
+AR15-1753,NA,Spawning,NA,carcass_survey,2015,2013,NA,NA,NA,NA,AME,2013 (1.9),Spawner,Late,Intermediate,427.4776,468.5753,64.93603922,71.7442842
+AR15-1754,NA,Spawning,NA,carcass_survey,2015,2013,NA,NA,NA,NA,AME,2013 (1.9),Spawner,Late,Intermediate,430.8544,463.7154,65.4954399,70.93919316
+AR15-1755,NA,Spawning,NA,carcass_survey,2015,2013,NA,NA,NA,NA,AME,2013 (1.9),Spawner,Late,Intermediate,547.6554,547.6554,84.84469356,84.84469356
+AR15-1772,NA,Spawning,NA,carcass_survey,2015,2013,NA,NA,NA,NA,AME,2013 (1.9),Spawner,Late,Intermediate,495.2763,508.2931,76.16757186,78.32393495
+AR15-1774,NA,Spawning,NA,carcass_survey,2015,2013,NA,NA,NA,NA,AME,2013 (1.9),Spawner,Late,Intermediate,521.5539,580.5491,80.52071907,90.29386391
+AR15-1781,NA,Spawning,NA,carcass_survey,2015,2013,NA,NA,NA,NA,AME,2013 (1.9),Spawner,Late,Intermediate,614.762,614.762,95.96157292,95.96157292
+AR15-1789,NA,Spawning,NA,carcass_survey,2015,2013,NA,NA,NA,NA,AME,2013 (1.9),Spawner,Late,Intermediate,518.0085,536.2028,79.93338811,82.94745585
+AR15-1791,NA,Spawning,NA,carcass_survey,2015,2013,NA,NA,NA,NA,AME,2013 (1.9),Spawner,Late,Intermediate,540.9048,540.9048,83.72638917,83.72638917
+AR15-1802,NA,Spawning,NA,carcass_survey,2015,2012,NA,NA,NA,NA,AME,2012 (2.3),Spawner,Late,Intermediate,499.3999,499.3999,76.85068743,76.85068743
+AR15-1805,NA,Spawning,NA,carcass_survey,2015,2013,NA,NA,NA,NA,AME,2013 (1.9),Spawner,Late,Intermediate,494.1575,542.6312,75.98223145,84.01238459
+AR15-1814,NA,Spawning,NA,carcass_survey,2015,2013,NA,NA,NA,NA,AME,2013 (1.9),Spawner,Late,Intermediate,483.5017,553.9705,74.21699162,85.89085303
+AR15-1815,NA,Spawning,NA,carcass_survey,2015,2012,NA,NA,NA,NA,AME,2012 (2.3),Spawner,Late,Intermediate,439.6173,464.406,66.94710192,71.05359796
+AR15-1816,NA,Spawning,NA,carcass_survey,2015,2013,NA,NA,NA,NA,AME,2013 (1.9),Spawner,Late,Intermediate,350.897,373.3762,52.24969702,55.97360129
+AR15-1817,NA,Spawning,NA,carcass_survey,2015,2013,NA,NA,NA,NA,AME,2013 (1.9),Spawner,Late,Intermediate,578.6309,578.6309,89.97609489,89.97609489
+AR15-1819,NA,Spawning,NA,carcass_survey,2015,2012,NA,NA,NA,NA,AME,2012 (2.3),Spawner,Late,Intermediate,384.2523,408.9601,57.77533602,61.86843017
+AR15-1820,NA,Spawning,NA,carcass_survey,2015,2014,NA,NA,NA,NA,AME,2014 (1),Spawner,Late,Drought,537.4864,537.4864,83.16009702,83.16009702
+AR15-1821,NA,Spawning,NA,carcass_survey,2015,2013,NA,NA,NA,NA,AME,2013 (1.9),Spawner,Late,Intermediate,507.4611,538.8242,78.18610583,83.38171697
+AR15-1822,NA,Spawning,NA,carcass_survey,2015,2013,NA,NA,NA,NA,AME,2013 (1.9),Spawner,Late,Intermediate,559.2591,559.2591,86.76696251,86.76696251
+AR15-1825,NA,Spawning,NA,carcass_survey,2015,2012,NA,NA,NA,NA,AME,2012 (2.3),Spawner,Late,Intermediate,445.8026,485.8354,67.97175872,74.60359236
+AR15-1830,NA,Spawning,NA,carcass_survey,2015,2013,NA,NA,NA,NA,AME,2013 (1.9),Spawner,Late,Intermediate,551.885,551.885,85.5453691,85.5453691
+AR15-1832,NA,Spawning,NA,carcass_survey,2015,2013,NA,NA,NA,NA,AME,2013 (1.9),Spawner,Late,Intermediate,461.0698,505.089,70.50092307,77.79314374
+AR15-1838,NA,Spawning,NA,carcass_survey,2015,2013,NA,NA,NA,NA,AME,2013 (1.9),Spawner,Late,Intermediate,352.1493,393.9172,52.45715304,59.37642335
+AR15-1849,NA,Spawning,NA,carcass_survey,2015,2013,NA,NA,NA,NA,AME,2013 (1.9),Spawner,Late,Intermediate,413.8493,464.2229,62.67837504,71.02326561
+AR15-1851,NA,Spawning,NA,carcass_survey,2015,2013,NA,NA,NA,NA,AME,2013 (1.9),Spawner,Late,Intermediate,533.0087,590.9337,82.41832124,92.01417674
+AR15-1852,NA,Spawning,NA,carcass_survey,2015,2013,NA,NA,NA,NA,AME,2013 (1.9),Spawner,Late,Intermediate,492.1983,492.1983,75.65767038,75.65767038
+AR15-1855,NA,Spawning,NA,carcass_survey,2015,2013,NA,NA,NA,NA,AME,2013 (1.9),Spawner,Late,Intermediate,547.1957,576.1627,84.76853966,89.56721288
+AR15-1856,NA,Spawning,NA,carcass_survey,2015,2013,NA,NA,NA,NA,AME,2013 (1.9),Spawner,Late,Intermediate,394.4037,449.8663,59.45701694,68.64495126
+AR15-1857,NA,Spawning,NA,carcass_survey,2015,2014,NA,NA,NA,NA,AME,2014 (1),Spawner,Late,Drought,570.5453,570.5453,88.6366344,88.6366344
+AR15-1863,NA,Spawning,NA,carcass_survey,2015,2013,NA,NA,NA,NA,AME,2013 (1.9),Spawner,Late,Intermediate,574.5257,574.5257,89.29602746,89.29602746
+AR15-1867,NA,Spawning,NA,carcass_survey,2015,2012,NA,NA,NA,NA,AME,2012 (2.3),Spawner,Late,Intermediate,527.5972,527.5972,81.52185215,81.52185215
+AR15-1882,NA,Spawning,NA,carcass_survey,2015,2013,NA,NA,NA,NA,AME,2013 (1.9),Spawner,Early,Intermediate,241.4757,458.042,36.22101191,69.99933772
+AR15-1896,NA,Spawning,NA,carcass_survey,2015,2013,NA,NA,NA,NA,AME,2013 (1.9),Spawner,Late,Intermediate,522.6563,522.6563,80.70334266,80.70334266
+AR15-19,NA,Spawning,NA,carcass_survey,2015,2013,NA,NA,NA,NA,AME,2013 (1.9),Spawner,Late,Intermediate,552.7167,559.9588,85.68314852,86.88287481
+AR15-1908,NA,Spawning,NA,carcass_survey,2015,2012,NA,NA,NA,NA,AME,2012 (2.3),Spawner,Late,Intermediate,548.1364,548.1364,84.92437602,84.92437602
+AR15-1910,NA,Spawning,NA,carcass_survey,2015,2013,NA,NA,NA,NA,AME,2013 (1.9),Spawner,Late,Intermediate,373.4016,457.0994,55.97780906,69.8431866
+AR15-1911,NA,Spawning,NA,carcass_survey,2015,2013,NA,NA,NA,NA,AME,2013 (1.9),Spawner,Late,Intermediate,358.0538,461.8171,53.43529251,70.62472079
+AR15-1912,NA,Spawning,NA,carcass_survey,2015,2013,NA,NA,NA,NA,AME,2013 (1.9),Spawner,Late,Intermediate,522.6343,522.6343,80.69969814,80.69969814
+AR15-1913,NA,Spawning,NA,carcass_survey,2015,2013,NA,NA,NA,NA,AME,2013 (1.9),Spawner,Late,Intermediate,396.9232,425.8567,59.87439731,64.66752092
+AR15-1919,NA,Spawning,NA,carcass_survey,2015,2013,NA,NA,NA,NA,AME,2013 (1.9),Spawner,Late,Intermediate,401.5516,429.5885,60.64113806,65.28573091
+AR15-1920,NA,Spawning,NA,carcass_survey,2015,2013,NA,NA,NA,NA,AME,2013 (1.9),Spawner,Late,Intermediate,406.1579,445.5648,61.40421771,67.93236477
+AR15-1923,NA,Spawning,NA,carcass_survey,2015,2013,NA,NA,NA,NA,AME,2013 (1.9),Spawner,Late,Intermediate,614.9385,614.9385,95.99081191,95.99081191
+AR15-1924,NA,Spawning,NA,carcass_survey,2015,2013,NA,NA,NA,NA,AME,2013 (1.9),Spawner,Early,Intermediate,240.1697,473.2133,36.19324765,72.51261528
+AR15-1926,NA,Spawning,NA,carcass_survey,2015,2014,NA,NA,NA,NA,AME,2014 (1),Spawner,Late,Drought,604.0124,604.0124,94.18079418,94.18079418
+AR15-1931,NA,Spawning,NA,carcass_survey,2015,2013,NA,NA,NA,NA,AME,2013 (1.9),Spawner,Late,Intermediate,376.1568,419.0375,56.43423549,63.53785225
+AR15-1932,NA,Spawning,NA,carcass_survey,2015,2013,NA,NA,NA,NA,AME,2013 (1.9),Spawner,Early,Intermediate,235.5432,501.5436,36.09489289,77.20581278
+AR15-1934,NA,Spawning,NA,carcass_survey,2015,2013,NA,NA,NA,NA,AME,2013 (1.9),Spawner,Late,Intermediate,420.2785,420.2785,63.74343631,63.74343631
+AR15-1935,NA,Spawning,NA,carcass_survey,2015,2014,NA,NA,NA,NA,AME,2014 (1),Spawner,Late,Drought,536.9549,536.9549,83.07204873,83.07204873
+AR15-1936,NA,Spawning,NA,carcass_survey,2015,2013,NA,NA,NA,NA,AME,2013 (1.9),Spawner,Late,Intermediate,478.3216,521.1062,73.35885626,80.44655309
+AR15-1940,NA,Spawning,NA,carcass_survey,2015,2013,NA,NA,NA,NA,AME,2013 (1.9),Spawner,Early,Intermediate,236.8214,414.8124,36.12206614,62.83792218
+AR15-1941,NA,Spawning,NA,carcass_survey,2015,2013,NA,NA,NA,NA,AME,2013 (1.9),Spawner,Late,Intermediate,436.3159,501.9928,66.40019199,77.28022725
+AR15-1942,NA,Spawning,NA,carcass_survey,2015,2012,NA,NA,NA,NA,AME,2012 (2.3),Spawner,Late,Intermediate,568.6379,604.0395,88.32065451,94.18528357
+AR15-1955,NA,Spawning,NA,carcass_survey,2015,2014,NA,NA,NA,NA,AME,2014 (1),Spawner,Late,Drought,466.0956,512.8694,71.3334971,79.0820448
+AR15-1960,NA,Spawning,NA,carcass_survey,2015,2013,NA,NA,NA,NA,AME,2013 (1.9),Spawner,Late,Intermediate,559.6726,559.6726,86.83546292,86.83546292
+AR15-1965,NA,Spawning,NA,carcass_survey,2015,2013,NA,NA,NA,NA,AME,2013 (1.9),Spawner,Late,Intermediate,655.9217,655.9217,102.7800888,102.7800888
+AR15-1966,NA,Spawning,NA,carcass_survey,2015,2013,NA,NA,NA,NA,AME,2013 (1.9),Spawner,Late,Intermediate,525.8731,525.8731,81.23623775,81.23623775
+AR15-1974,NA,Spawning,NA,carcass_survey,2015,2013,NA,NA,NA,NA,AME,2013 (1.9),Spawner,Late,Intermediate,472.6033,509.0831,72.41156268,78.45480635
+AR15-1985,NA,Spawning,NA,carcass_survey,2015,2013,NA,NA,NA,NA,AME,2013 (1.9),Spawner,Early,Intermediate,220.9085,487.0605,35.7837738,74.80654243
+AR15-1992,NA,Spawning,NA,carcass_survey,2015,2013,NA,NA,NA,NA,AME,2013 (1.9),Spawner,Late,Intermediate,429.979,475.6209,65.35042114,72.91145829
+AR15-1993,NA,Spawning,NA,carcass_survey,2015,2013,NA,NA,NA,NA,AME,2013 (1.9),Spawner,Late,Intermediate,570.8333,570.8333,88.68434448,88.68434448
+AR15-1995,NA,Spawning,NA,carcass_survey,2015,2013,NA,NA,NA,NA,AME,2013 (1.9),Spawner,Late,Intermediate,405.5363,437.2216,61.30124346,66.55023026
+AR15-1997,NA,Spawning,NA,carcass_survey,2015,2013,NA,NA,NA,NA,AME,2013 (1.9),Spawner,Late,Intermediate,536.8912,536.8912,83.06149619,83.06149619
+AR15-2049,NA,Spawning,NA,carcass_survey,2015,2013,NA,NA,NA,NA,AME,2013 (1.9),Spawner,Late,Intermediate,515.4499,515.4499,79.50953043,79.50953043
+AR15-214,NA,Spawning,NA,carcass_survey,2015,2014,NA,NA,NA,NA,AME,2014 (1),Spawner,Early,Drought,220.3367,532.434,35.77161791,82.32311644
+AR15-22,NA,Spawning,NA,carcass_survey,2015,2014,NA,NA,NA,NA,AME,2014 (1),Spawner,Late,Drought,430.9732,464.7501,65.51512031,71.11060157
+AR15-221,NA,Spawning,NA,carcass_survey,2015,2013,NA,NA,NA,NA,AME,2013 (1.9),Spawner,Late,Intermediate,561.786,561.786,87.18556876,87.18556876
+AR15-223,NA,Spawning,NA,carcass_survey,2015,2013,NA,NA,NA,NA,AME,2013 (1.9),Spawner,Late,Intermediate,436.2309,487.4985,66.38611089,74.87910151
+AR15-228,NA,Spawning,NA,carcass_survey,2015,2013,NA,NA,NA,NA,AME,2013 (1.9),Spawner,Late,Intermediate,544.5046,544.5046,84.32273204,84.32273204
+AR15-231,NA,Spawning,NA,carcass_survey,2015,2014,NA,NA,NA,NA,AME,2014 (1),Spawner,Late,Drought,495.4704,495.4704,76.19972646,76.19972646
+AR15-24,NA,Spawning,NA,carcass_survey,2015,2013,NA,NA,NA,NA,AME,2013 (1.9),Spawner,Early,Intermediate,150,433.2231,34.27633,65.88783875
+AR15-248,NA,Spawning,NA,carcass_survey,2015,2013,NA,NA,NA,NA,AME,2013 (1.9),Spawner,Late,Intermediate,490.3492,490.3492,75.35134847,75.35134847
+AR15-250,NA,Spawning,NA,carcass_survey,2015,2013,NA,NA,NA,NA,AME,2013 (1.9),Spawner,Late,Intermediate,531.6834,548.8188,82.19877204,85.03742241
+AR15-268,NA,Spawning,NA,carcass_survey,2015,2013,NA,NA,NA,NA,AME,2013 (1.9),Spawner,Late,Intermediate,441.4861,487.2498,67.25668733,74.83790187
+AR15-269,NA,Spawning,NA,carcass_survey,2015,2013,NA,NA,NA,NA,AME,2013 (1.9),Spawner,Late,Intermediate,466.359,499.0106,71.37713194,76.786196
+AR15-271,NA,Spawning,NA,carcass_survey,2015,2013,NA,NA,NA,NA,AME,2013 (1.9),Spawner,Early,Intermediate,245.3408,415.9864,36.30318007,63.03240702
+AR15-274,NA,Spawning,NA,carcass_survey,2015,2013,NA,NA,NA,NA,AME,2013 (1.9),Spawner,Late,Intermediate,506.9163,545.6779,78.09585426,84.51710091
+AR15-276,NA,Spawning,NA,carcass_survey,2015,2013,NA,NA,NA,NA,AME,2013 (1.9),Spawner,Late,Intermediate,543.102,563.2935,84.09037732,87.43530121
+AR15-279,NA,Spawning,NA,carcass_survey,2015,2013,NA,NA,NA,NA,AME,2013 (1.9),Spawner,Late,Intermediate,475.1416,475.1416,72.83205746,72.83205746
+AR15-280,NA,Spawning,NA,carcass_survey,2015,2013,NA,NA,NA,NA,AME,2013 (1.9),Spawner,Late,Intermediate,531.3988,531.3988,82.15162521,82.15162521
+AR15-289,NA,Spawning,NA,carcass_survey,2015,2013,NA,NA,NA,NA,AME,2013 (1.9),Spawner,Early,Intermediate,221.974,442.7255,35.80642527,67.46200633
+AR15-29,NA,Spawning,NA,carcass_survey,2015,2013,NA,NA,NA,NA,AME,2013 (1.9),Spawner,Early,Intermediate,253.1121,559.1293,36.46839013,86.74545984
+AR15-296,NA,Spawning,NA,carcass_survey,2015,2013,NA,NA,NA,NA,AME,2013 (1.9),Spawner,Late,Intermediate,501.1405,501.1405,77.13903523,77.13903523
+AR15-297,NA,Spawning,NA,carcass_survey,2015,2012,NA,NA,NA,NA,AME,2012 (2.3),Spawner,Late,Intermediate,540,561.2808,83.5765,87.10187733
+AR15-308,NA,Spawning,NA,carcass_survey,2015,2013,NA,NA,NA,NA,AME,2013 (1.9),Spawner,Early,Intermediate,226.6822,503.6113,35.90651689,77.54834796
+AR15-324,NA,Spawning,NA,carcass_survey,2015,2013,NA,NA,NA,NA,AME,2013 (1.9),Spawner,Late,Intermediate,597.336,604.6744,93.07478176,94.2904611
+AR15-326,NA,Spawning,NA,carcass_survey,2015,2013,NA,NA,NA,NA,AME,2013 (1.9),Spawner,Early,Intermediate,251.8154,509.6287,36.44082359,78.54519044
+AR15-33,NA,Spawning,NA,carcass_survey,2015,2014,NA,NA,NA,NA,AME,2014 (1),Spawner,Late,Drought,609.0545,609.0545,95.01606847,95.01606847
+AR15-356,NA,Spawning,NA,carcass_survey,2015,2013,NA,NA,NA,NA,AME,2013 (1.9),Spawner,Late,Intermediate,415.1452,464.1239,62.89305383,71.00686527
+AR15-357,NA,Spawning,NA,carcass_survey,2015,2013,NA,NA,NA,NA,AME,2013 (1.9),Spawner,Late,Intermediate,486.7209,522.8404,74.75028429,80.73384066
+AR15-359,NA,Spawning,NA,carcass_survey,2015,2012,NA,NA,NA,NA,AME,2012 (2.3),Spawner,Late,Intermediate,538.3613,560.1855,83.30503296,86.92042993
+AR15-360,NA,Spawning,NA,carcass_survey,2015,2013,NA,NA,NA,NA,AME,2013 (1.9),Spawner,Late,Intermediate,506.2293,506.2293,77.98204584,77.98204584
+AR15-361,NA,Spawning,NA,carcass_survey,2015,2012,NA,NA,NA,NA,AME,2012 (2.3),Spawner,Early,Intermediate,250.2643,539.2838,36.40784875,83.45785431
+AR15-362,NA,Spawning,NA,carcass_survey,2015,2013,NA,NA,NA,NA,AME,2013 (1.9),Spawner,Late,Intermediate,482.0419,523.7429,73.97516115,80.88334881
+AR15-374,NA,Spawning,NA,carcass_survey,2015,2014,NA,NA,NA,NA,AME,2014 (1),Spawner,Late,Drought,555.4533,555.4533,86.13649368,86.13649368
+AR15-375,NA,Spawning,NA,carcass_survey,2015,2012,NA,NA,NA,NA,AME,2012 (2.3),Spawner,Late,Intermediate,510.3933,510.3933,78.67185408,78.67185408
+AR15-377,NA,Spawning,NA,carcass_survey,2015,2013,NA,NA,NA,NA,AME,2013 (1.9),Spawner,Early,Intermediate,249.0446,455.3301,36.38191915,69.55008437
+AR15-379,NA,Spawning,NA,carcass_survey,2015,2013,NA,NA,NA,NA,AME,2013 (1.9),Spawner,Late,Intermediate,483.9919,504.6526,74.29819815,77.72084972
+AR15-387,NA,Spawning,NA,carcass_survey,2015,2013,NA,NA,NA,NA,AME,2013 (1.9),Spawner,Early,Intermediate,240.4081,554.8235,36.1983158,86.03216101
+AR15-388,NA,Spawning,NA,carcass_survey,2015,2013,NA,NA,NA,NA,AME,2013 (1.9),Spawner,Late,Intermediate,543.9058,562.2325,84.22353483,87.25953595
+AR15-389,NA,Spawning,NA,carcass_survey,2015,2013,NA,NA,NA,NA,AME,2013 (1.9),Spawner,Late,Intermediate,441.731,525.2484,67.29725746,81.13274994
+AR15-390,NA,Spawning,NA,carcass_survey,2015,2013,NA,NA,NA,NA,AME,2013 (1.9),Spawner,Late,Intermediate,396.5139,465.4946,59.80659267,71.23393544
+AR15-397,NA,Spawning,NA,carcass_survey,2015,2013,NA,NA,NA,NA,AME,2013 (1.9),Spawner,Late,Intermediate,517.6597,556.2824,79.8756059,86.27384238
+AR15-401,NA,Spawning,NA,carcass_survey,2015,2013,NA,NA,NA,NA,AME,2013 (1.9),Spawner,Late,Intermediate,458.2793,458.2793,70.03864884,70.03864884
+AR15-410,NA,Spawning,NA,carcass_survey,2015,2013,NA,NA,NA,NA,AME,2013 (1.9),Spawner,Early,Intermediate,170,433.9768,34.70151,66.01269669
+AR15-411,NA,Spawning,NA,carcass_survey,2015,2013,NA,NA,NA,NA,AME,2013 (1.9),Spawner,Late,Intermediate,459.9596,476.7059,70.31700734,73.09119939
+AR15-413,NA,Spawning,NA,carcass_survey,2015,2013,NA,NA,NA,NA,AME,2013 (1.9),Spawner,Early,Intermediate,190.766,518.6057,35.14297439,80.03232026
+AR15-414,NA,Spawning,NA,carcass_survey,2015,2013,NA,NA,NA,NA,AME,2013 (1.9),Spawner,Late,Intermediate,407.0527,440.8792,61.55245028,67.15614827
+AR15-417,NA,Spawning,NA,carcass_survey,2015,2013,NA,NA,NA,NA,AME,2013 (1.9),Spawner,Late,Intermediate,460,490.3679,70.3237,75.35444631
+AR15-418,NA,Spawning,NA,carcass_survey,2015,2013,NA,NA,NA,NA,AME,2013 (1.9),Spawner,Late,Intermediate,474.1986,519.3415,72.67584008,80.15421289
+AR15-423,NA,Spawning,NA,carcass_survey,2015,2013,NA,NA,NA,NA,AME,2013 (1.9),Spawner,Late,Intermediate,405,429.9745,61.2124,65.34967567
+AR15-424,NA,Spawning,NA,carcass_survey,2015,2013,NA,NA,NA,NA,AME,2013 (1.9),Spawner,Early,Intermediate,198.7886,447.3931,35.31352685,68.23524095
+AR15-433,NA,Spawning,NA,carcass_survey,2015,2013,NA,NA,NA,NA,AME,2013 (1.9),Spawner,Late,Intermediate,512.8996,551.5957,79.08704774,85.49744366
+AR15-436,NA,Spawning,NA,carcass_survey,2015,2013,NA,NA,NA,NA,AME,2013 (1.9),Spawner,Late,Intermediate,474.0494,474.0494,72.6511236,72.6511236
+AR15-437,NA,Spawning,NA,carcass_survey,2015,2013,NA,NA,NA,NA,AME,2013 (1.9),Spawner,Early,Intermediate,304.2461,304.2461,44.52150893,44.52150893
+AR15-438,NA,Spawning,NA,carcass_survey,2015,2013,NA,NA,NA,NA,AME,2013 (1.9),Spawner,Late,Intermediate,493.7477,510.9122,75.91434398,78.75781505
+AR15-453,NA,Spawning,NA,carcass_survey,2015,2013,NA,NA,NA,NA,AME,2013 (1.9),Spawner,Late,Intermediate,590,590,91.8595,91.8595
+AR15-459,NA,Spawning,NA,carcass_survey,2015,2013,NA,NA,NA,NA,AME,2013 (1.9),Spawner,Late,Intermediate,384.7904,432.0442,57.86447766,65.69254217
+AR15-465,NA,Spawning,NA,carcass_survey,2015,2013,NA,NA,NA,NA,AME,2013 (1.9),Spawner,Late,Intermediate,365.2941,365.2941,54.63472061,54.63472061
+AR15-476,NA,Spawning,NA,carcass_survey,2015,2013,NA,NA,NA,NA,AME,2013 (1.9),Spawner,Early,Intermediate,242.4079,529.0773,36.24082955,81.76704552
+AR15-487,NA,Spawning,NA,carcass_survey,2015,2013,NA,NA,NA,NA,AME,2013 (1.9),Spawner,Late,Intermediate,536.9189,536.9189,83.06608497,83.06608497
+AR15-488,NA,Spawning,NA,carcass_survey,2015,2013,NA,NA,NA,NA,AME,2013 (1.9),Spawner,Early,Intermediate,210.4574,466.4322,35.56159387,71.38925825
+AR15-503,NA,Spawning,NA,carcass_survey,2015,2013,NA,NA,NA,NA,AME,2013 (1.9),Spawner,Early,Intermediate,239.0364,483.1178,36.16915483,74.15339475
+AR15-504,NA,Spawning,NA,carcass_survey,2015,2013,NA,NA,NA,NA,AME,2013 (1.9),Spawner,Early,Intermediate,232.9683,512.7183,36.04015309,79.05701358
+AR15-509,NA,Spawning,NA,carcass_survey,2015,2013,NA,NA,NA,NA,AME,2013 (1.9),Spawner,Late,Intermediate,470,470,71.9803,71.9803
+AR15-512,NA,Spawning,NA,carcass_survey,2015,2014,NA,NA,NA,NA,AME,2014 (1),Spawner,Late,Drought,512.3857,512.3857,79.00191506,79.00191506
+AR15-515,NA,Spawning,NA,carcass_survey,2015,2014,NA,NA,NA,NA,AME,2014 (1),Spawner,Late,Drought,472.3243,514.0784,72.36534354,79.28232774
+AR15-516,NA,Spawning,NA,carcass_survey,2015,2013,NA,NA,NA,NA,AME,2013 (1.9),Spawner,Late,Intermediate,429.4516,476.653,65.26305206,73.08243598
+AR15-519,NA,Spawning,NA,carcass_survey,2015,2013,NA,NA,NA,NA,AME,2013 (1.9),Spawner,Late,Intermediate,495.6522,549.3034,76.22984345,85.11770124
+AR15-520,NA,Spawning,NA,carcass_survey,2015,2014,NA,NA,NA,NA,AME,2014 (1),Spawner,Late,Drought,566.5846,566.5846,87.98050484,87.98050484
+AR15-525,NA,Spawning,NA,carcass_survey,2015,2013,NA,NA,NA,NA,AME,2013 (1.9),Spawner,Early,Intermediate,224.1542,480.0719,35.85277414,73.64881095
+AR15-528,NA,Spawning,NA,carcass_survey,2015,2013,NA,NA,NA,NA,AME,2013 (1.9),Spawner,Late,Intermediate,411.2743,478.1679,62.25180054,73.33339431
+AR15-532,NA,Spawning,NA,carcass_survey,2015,2013,NA,NA,NA,NA,AME,2013 (1.9),Spawner,Late,Intermediate,490.5109,490.5109,75.37813569,75.37813569
+AR15-539,NA,Spawning,NA,carcass_survey,2015,2013,NA,NA,NA,NA,AME,2013 (1.9),Spawner,Late,Intermediate,438.573,470.9415,66.77410318,72.13626889
+AR15-544,NA,Spawning,NA,carcass_survey,2015,2013,NA,NA,NA,NA,AME,2013 (1.9),Spawner,Late,Intermediate,409.7383,466.5085,61.99734678,71.40189811
+AR15-545,NA,Spawning,NA,carcass_survey,2015,2012,NA,NA,NA,NA,AME,2012 (2.3),Spawner,Late,Intermediate,494.6075,546.7355,76.05677845,84.69230293
+AR15-546,NA,Spawning,NA,carcass_survey,2015,2012,NA,NA,NA,NA,AME,2012 (2.3),Spawner,Late,Intermediate,528.4371,564.84,81.66098999,87.6914944
+AR15-548,NA,Spawning,NA,carcass_survey,2015,2013,NA,NA,NA,NA,AME,2013 (1.9),Spawner,Early,Intermediate,211.3073,467.0066,35.57966189,71.48441336
+AR15-552,NA,Spawning,NA,carcass_survey,2015,2013,NA,NA,NA,NA,AME,2013 (1.9),Spawner,Late,Intermediate,548.6836,590.3452,85.01502518,91.91668583
+AR15-556,NA,Spawning,NA,carcass_survey,2015,2013,NA,NA,NA,NA,AME,2013 (1.9),Spawner,Late,Intermediate,652.6104,652.6104,102.2315389,102.2315389
+AR15-557,NA,Spawning,NA,carcass_survey,2015,2013,NA,NA,NA,NA,AME,2013 (1.9),Spawner,Early,Intermediate,235.7585,516.057,36.09946995,79.61010262
+AR15-559,NA,Spawning,NA,carcass_survey,2015,2013,NA,NA,NA,NA,AME,2013 (1.9),Spawner,Late,Intermediate,495.0959,566.8924,76.13768679,88.03149498
+AR15-560,NA,Spawning,NA,carcass_survey,2015,2013,NA,NA,NA,NA,AME,2013 (1.9),Spawner,Late,Intermediate,543.8409,574.8893,84.21278349,89.35626144
+AR15-563,NA,Spawning,NA,carcass_survey,2015,2012,NA,NA,NA,NA,AME,2012 (2.3),Spawner,Early,Intermediate,211.0006,480.7263,35.57314176,73.75721886
+AR15-565,NA,Spawning,NA,carcass_survey,2015,2013,NA,NA,NA,NA,AME,2013 (1.9),Spawner,Early,Intermediate,243.1603,461.3866,36.25682482,70.55340416
+AR15-572,NA,Spawning,NA,carcass_survey,2015,2013,NA,NA,NA,NA,AME,2013 (1.9),Spawner,Late,Intermediate,532.2646,532.2646,82.29505364,82.29505364
+AR15-585,NA,Spawning,NA,carcass_survey,2015,2013,NA,NA,NA,NA,AME,2013 (1.9),Spawner,Late,Intermediate,568.7601,568.7601,88.34089817,88.34089817
+AR15-586,NA,Spawning,NA,carcass_survey,2015,2013,NA,NA,NA,NA,AME,2013 (1.9),Spawner,Late,Intermediate,445.7871,503.4743,67.96919099,77.52565254
+AR15-590,NA,Spawning,NA,carcass_survey,2015,2014,NA,NA,NA,NA,AME,2014 (1),Spawner,Early,Drought,219.3763,462.2838,35.75120076,70.70203431
+AR15-596,NA,Spawning,NA,carcass_survey,2015,2013,NA,NA,NA,NA,AME,2013 (1.9),Spawner,Early,Intermediate,209.9825,439.351,35.55149797,66.90298666
+AR15-598,NA,Spawning,NA,carcass_survey,2015,2013,NA,NA,NA,NA,AME,2013 (1.9),Spawner,Late,Intermediate,408.3889,408.3889,61.77380517,61.77380517
+AR15-600,NA,Spawning,NA,carcass_survey,2015,2013,NA,NA,NA,NA,AME,2013 (1.9),Spawner,Early,Intermediate,312.4791,510.7353,45.88538771,78.7285098
+AR15-603,NA,Spawning,NA,carcass_survey,2015,2013,NA,NA,NA,NA,AME,2013 (1.9),Spawner,Late,Intermediate,407.9438,444.0946,61.70006991,67.68881144
+AR15-605,NA,Spawning,NA,carcass_survey,2015,2013,NA,NA,NA,NA,AME,2013 (1.9),Spawner,Late,Intermediate,367.0929,389.7618,54.93270981,58.68803979
+AR15-607,NA,Spawning,NA,carcass_survey,2015,2012,NA,NA,NA,NA,AME,2012 (2.3),Spawner,Late,Intermediate,421.7975,470.5728,63.99507385,72.07519005
+AR15-614,NA,Spawning,NA,carcass_survey,2015,2013,NA,NA,NA,NA,AME,2013 (1.9),Spawner,Early,Intermediate,221.2037,492.2535,35.79004946,75.66681481
+AR15-618,NA,Spawning,NA,carcass_survey,2015,2013,NA,NA,NA,NA,AME,2013 (1.9),Spawner,Late,Intermediate,464.4797,550.3956,71.0658071,85.2986351
+AR15-623,NA,Spawning,NA,carcass_survey,2015,2013,NA,NA,NA,NA,AME,2013 (1.9),Spawner,Early,Intermediate,221.6584,525.5241,35.79971593,81.17842241
+AR15-626,NA,Spawning,NA,carcass_survey,2015,2013,NA,NA,NA,NA,AME,2013 (1.9),Spawner,Early,Intermediate,233.284,512.9684,36.04686456,79.09844514
+AR15-654,NA,Spawning,NA,carcass_survey,2015,2013,NA,NA,NA,NA,AME,2013 (1.9),Spawner,Late,Intermediate,396.5423,459.397,59.81129742,70.22380702
+AR15-656,NA,Spawning,NA,carcass_survey,2015,2013,NA,NA,NA,NA,AME,2013 (1.9),Spawner,Late,Intermediate,477.1991,514.7205,73.17290291,79.38869803
+AR15-657,NA,Spawning,NA,carcass_survey,2015,2013,NA,NA,NA,NA,AME,2013 (1.9),Spawner,Late,Intermediate,545.3621,583.0482,84.46478549,90.70786481
+AR15-661,NA,Spawning,NA,carcass_survey,2015,2012,NA,NA,NA,NA,AME,2012 (2.3),Spawner,Late,Intermediate,577.3348,577.3348,89.76138297,89.76138297
+AR15-665,NA,Spawning,NA,carcass_survey,2015,2013,NA,NA,NA,NA,AME,2013 (1.9),Spawner,Early,Intermediate,245.8215,494.6272,36.31339927,76.06004195
+AR15-666,NA,Spawning,NA,carcass_survey,2015,2013,NA,NA,NA,NA,AME,2013 (1.9),Spawner,Late,Intermediate,378.465,479.3914,56.8166119,73.53607932
+AR15-672,NA,Spawning,NA,carcass_survey,2015,2013,NA,NA,NA,NA,AME,2013 (1.9),Spawner,Late,Intermediate,418.211,418.211,63.40093426,63.40093426
+AR15-674,NA,Spawning,NA,carcass_survey,2015,2013,NA,NA,NA,NA,AME,2013 (1.9),Spawner,Late,Intermediate,516.4583,558.3034,79.67658198,86.60864124
+AR15-68,NA,Spawning,NA,carcass_survey,2015,2012,NA,NA,NA,NA,AME,2012 (2.3),Spawner,Late,Intermediate,575.2129,575.2129,89.40986901,89.40986901
+AR15-685,NA,Spawning,NA,carcass_survey,2015,2013,NA,NA,NA,NA,AME,2013 (1.9),Spawner,Late,Intermediate,545.6629,545.6629,84.51461601,84.51461601
+AR15-693,NA,Spawning,NA,carcass_survey,2015,2013,NA,NA,NA,NA,AME,2013 (1.9),Spawner,Early,Intermediate,197.3753,477.475,35.2834815,73.2186085
+AR15-699,NA,Spawning,NA,carcass_survey,2015,2013,NA,NA,NA,NA,AME,2013 (1.9),Spawner,Late,Intermediate,541.2907,541.2907,83.79031736,83.79031736
+AR15-70,NA,Spawning,NA,carcass_survey,2015,2013,NA,NA,NA,NA,AME,2013 (1.9),Spawner,Early,Intermediate,192.134,355.8426,35.17205671,53.06898512
+AR15-701,NA,Spawning,NA,carcass_survey,2015,2013,NA,NA,NA,NA,AME,2013 (1.9),Spawner,Late,Intermediate,430.107,467.2328,65.37162562,71.52188565
+AR15-703,NA,Spawning,NA,carcass_survey,2015,2013,NA,NA,NA,NA,AME,2013 (1.9),Spawner,Late,Intermediate,612.4897,612.4897,95.5851437,95.5851437
+AR15-708,NA,Spawning,NA,carcass_survey,2015,2013,NA,NA,NA,NA,AME,2013 (1.9),Spawner,Late,Intermediate,449.4043,481.9353,68.56841634,73.9575018
+AR15-710,NA,Spawning,NA,carcass_survey,2015,2013,NA,NA,NA,NA,AME,2013 (1.9),Spawner,Late,Intermediate,440.0849,482.1953,67.02456453,74.0005734
+AR15-714,NA,Spawning,NA,carcass_survey,2015,2013,NA,NA,NA,NA,AME,2013 (1.9),Spawner,Late,Intermediate,563.1471,563.1471,87.41104859,87.41104859
+AR15-717,NA,Spawning,NA,carcass_survey,2015,2013,NA,NA,NA,NA,AME,2013 (1.9),Spawner,Late,Intermediate,506.2623,544.5916,77.98751262,84.33714446
+AR15-718,NA,Spawning,NA,carcass_survey,2015,2013,NA,NA,NA,NA,AME,2013 (1.9),Spawner,Late,Intermediate,424.3647,424.3647,64.4203562,64.4203562
+AR15-721,NA,Spawning,NA,carcass_survey,2015,2013,NA,NA,NA,NA,AME,2013 (1.9),Spawner,Late,Intermediate,387.4445,487.7271,58.30415587,74.91697139
+AR15-724,NA,Spawning,NA,carcass_survey,2015,2013,NA,NA,NA,NA,AME,2013 (1.9),Spawner,Late,Intermediate,457.04,512.2591,69.8333464,78.98094251
+AR15-726,NA,Spawning,NA,carcass_survey,2015,2013,NA,NA,NA,NA,AME,2013 (1.9),Spawner,Early,Intermediate,224.8679,501.2959,35.86794669,77.16477879
+AR15-727,NA,Spawning,NA,carcass_survey,2015,2013,NA,NA,NA,NA,AME,2013 (1.9),Spawner,Early,Intermediate,232.7507,451.9999,36.03552713,68.99840343
+AR15-728,NA,Spawning,NA,carcass_survey,2015,2013,NA,NA,NA,NA,AME,2013 (1.9),Spawner,Late,Intermediate,409.9508,482.1386,62.03254953,73.99118048
+AR15-73,NA,Spawning,NA,carcass_survey,2015,2013,NA,NA,NA,NA,AME,2013 (1.9),Spawner,Late,Intermediate,498.2808,551.5871,76.66529733,85.49601899
+AR15-730,NA,Spawning,NA,carcass_survey,2015,2013,NA,NA,NA,NA,AME,2013 (1.9),Spawner,Early,Intermediate,278.9007,278.9007,40.32278996,40.32278996
+AR15-731,NA,Spawning,NA,carcass_survey,2015,2014,NA,NA,NA,NA,AME,2014 (1),Spawner,Late,Drought,430.4123,477.9043,65.42220162,73.28972634
+AR15-733,NA,Spawning,NA,carcass_survey,2015,2014,NA,NA,NA,NA,AME,2014 (1),Spawner,Late,Drought,462.9053,462.9053,70.804992,70.804992
+AR15-734,NA,Spawning,NA,carcass_survey,2015,2013,NA,NA,NA,NA,AME,2013 (1.9),Spawner,Late,Intermediate,590.6032,590.6032,91.95942611,91.95942611
+AR15-735,NA,Spawning,NA,carcass_survey,2015,2013,NA,NA,NA,NA,AME,2013 (1.9),Spawner,Late,Intermediate,457.467,573.4393,69.90408322,89.11605444
+AR15-737,NA,Spawning,NA,carcass_survey,2015,2013,NA,NA,NA,NA,AME,2013 (1.9),Spawner,Early,Intermediate,228.6923,517.6488,35.94924961,79.87380021
+AR15-740,NA,Spawning,NA,carcass_survey,2015,2013,NA,NA,NA,NA,AME,2013 (1.9),Spawner,Early,Intermediate,210.4968,466.5803,35.56243147,71.4137925
+AR15-742,NA,Spawning,NA,carcass_survey,2015,2013,NA,NA,NA,NA,AME,2013 (1.9),Spawner,Late,Intermediate,444.4051,496.3087,67.74024887,76.33859924
+AR15-744,NA,Spawning,NA,carcass_survey,2015,2013,NA,NA,NA,NA,AME,2013 (1.9),Spawner,Late,Intermediate,421.7303,454.8318,63.9839415,69.46753599
+AR15-745,NA,Spawning,NA,carcass_survey,2015,2014,NA,NA,NA,NA,AME,2014 (1),Spawner,Early,Drought,206.1343,475.318,35.46968908,72.86127988
+AR15-755,NA,Spawning,NA,carcass_survey,2015,2014,NA,NA,NA,NA,AME,2014 (1),Spawner,Late,Drought,526.4008,526.4008,81.32365653,81.32365653
+AR15-757,NA,Spawning,NA,carcass_survey,2015,2014,NA,NA,NA,NA,AME,2014 (1),Spawner,Late,Drought,595.2318,595.2318,92.72619999,92.72619999
+AR15-770,NA,Spawning,NA,carcass_survey,2015,2013,NA,NA,NA,NA,AME,2013 (1.9),Spawner,Late,Intermediate,419.5408,480.4416,63.62122893,73.71005546
+AR15-775,NA,Spawning,NA,carcass_survey,2015,2013,NA,NA,NA,NA,AME,2013 (1.9),Spawner,Late,Intermediate,439.9563,470.1321,67.00326066,72.00218369
+AR15-776,NA,Spawning,NA,carcass_survey,2015,2012,NA,NA,NA,NA,AME,2012 (2.3),Spawner,Late,Intermediate,504.6106,546.4378,77.713892,84.64298595
+AR15-782,NA,Spawning,NA,carcass_survey,2015,2013,NA,NA,NA,NA,AME,2013 (1.9),Spawner,Late,Intermediate,544.4563,544.4563,84.31473066,84.31473066
+AR15-783,NA,Spawning,NA,carcass_survey,2015,2013,NA,NA,NA,NA,AME,2013 (1.9),Spawner,Early,Intermediate,241.4623,467.3541,36.22072704,71.54198021
+AR15-784,NA,Spawning,NA,carcass_survey,2015,2013,NA,NA,NA,NA,AME,2013 (1.9),Spawner,Late,Intermediate,561.1215,561.1215,87.07548769,87.07548769
+AR15-787,NA,Spawning,NA,carcass_survey,2015,2013,NA,NA,NA,NA,AME,2013 (1.9),Spawner,Late,Intermediate,459.1447,495.2873,70.182011,76.16939412
+AR15-788,NA,Spawning,NA,carcass_survey,2015,2013,NA,NA,NA,NA,AME,2013 (1.9),Spawner,Late,Intermediate,536.6919,536.6919,83.02848015,83.02848015
+AR15-791,NA,Spawning,NA,carcass_survey,2015,2013,NA,NA,NA,NA,AME,2013 (1.9),Spawner,Late,Intermediate,404.8229,451.6707,61.18306161,68.94386816
+AR15-792,NA,Spawning,NA,carcass_survey,2015,2012,NA,NA,NA,NA,AME,2012 (2.3),Spawner,Late,Intermediate,422.9809,490.3367,64.19111589,75.34927772
+AR15-796,NA,Spawning,NA,carcass_survey,2015,2013,NA,NA,NA,NA,AME,2013 (1.9),Spawner,Early,Intermediate,225.0594,528.6468,35.87201778,81.69572889
+AR15-797,NA,Spawning,NA,carcass_survey,2015,2012,NA,NA,NA,NA,AME,2012 (2.3),Spawner,Late,Intermediate,619.3971,619.3971,96.72942359,96.72942359
+AR15-84,NA,Spawning,NA,carcass_survey,2015,2013,NA,NA,NA,NA,AME,2013 (1.9),Spawner,Late,Intermediate,485.9773,547.4928,74.62709952,84.81775725
+AR15-88,NA,Spawning,NA,carcass_survey,2015,2013,NA,NA,NA,NA,AME,2013 (1.9),Spawner,Late,Intermediate,486.3647,527.1232,74.6912762,81.44332931
+AR15-94,NA,Spawning,NA,carcass_survey,2015,2013,NA,NA,NA,NA,AME,2013 (1.9),Spawner,Late,Intermediate,421.848,513.9163,64.00343968,79.25547426
+AR151,NA,Spawning,NA,carcass_survey,2014,2012,NA,NA,NA,NA,AME,2012 (2.3),Spawner,Late,Intermediate,513.4044,575.3355,79.1706729,89.43017893
+AR152,NA,Spawning,NA,carcass_survey,2014,2012,NA,NA,NA,NA,AME,2012 (2.3),Spawner,Late,Intermediate,463.1204,496.1125,70.84062546,76.30609675
+AR153,NA,Spawning,NA,carcass_survey,2014,2012,NA,NA,NA,NA,AME,2012 (2.3),Spawner,Late,Intermediate,540.0477,564.7721,83.58440198,87.68024609
+AR154,NA,Spawning,NA,carcass_survey,2014,2012,NA,NA,NA,NA,AME,2012 (2.3),Spawner,Late,Intermediate,662.4768,662.4768,103.8660067,103.8660067
+AR156,NA,Spawning,NA,carcass_survey,2014,2012,NA,NA,NA,NA,AME,2012 (2.3),Spawner,Early,Intermediate,182.3476,418.9106,34.96400763,63.51683
+AR165,NA,Spawning,NA,carcass_survey,2014,2012,NA,NA,NA,NA,AME,2012 (2.3),Spawner,Early,Intermediate,237.1841,460.3607,36.12977678,70.38345356
+AR166,NA,Spawning,NA,carcass_survey,2014,2012,NA,NA,NA,NA,AME,2012 (2.3),Spawner,Late,Intermediate,455.9527,495.7388,69.65322428,76.24418961
+AR16_2509,NA,Spawning,NA,carcass_survey,2016,2014,NA,NA,NA,NA,AME,2014 (1),Spawner,Late,Drought,561.7563,561.7563,87.18064866,87.18064866
+AR16_2516,NA,Spawning,NA,carcass_survey,2016,2014,NA,NA,NA,NA,AME,2014 (1),Spawner,Late,Drought,495.0768,522.8287,76.13452269,80.73190244
+AR16_2522,NA,Spawning,NA,carcass_survey,2016,2014,NA,NA,NA,NA,AME,2014 (1),Spawner,Late,Drought,611.904,611.904,95.48811664,95.48811664
+AR16_2532,NA,Spawning,NA,carcass_survey,2016,2014,NA,NA,NA,NA,AME,2014 (1),Spawner,Late,Drought,556.7873,556.7873,86.35748412,86.35748412
+AR16_2536,NA,Spawning,NA,carcass_survey,2016,2014,NA,NA,NA,NA,AME,2014 (1),Spawner,Late,Drought,467.5109,495.1585,71.56795569,76.14805711
+AR16_2537,NA,Spawning,NA,carcass_survey,2016,2013,NA,NA,NA,NA,AME,2013 (1.9),Spawner,Late,Intermediate,401.9466,438.8385,60.70657376,66.81808591
+AR16_2548,NA,Spawning,NA,carcass_survey,2016,2013,NA,NA,NA,NA,AME,2013 (1.9),Spawner,Late,Intermediate,409.0288,454.9864,61.87981101,69.49314702
+AR16_2563,NA,Spawning,NA,carcass_survey,2016,2014,NA,NA,NA,NA,AME,2014 (1),Spawner,Late,Drought,540.9584,540.9584,83.73526854,83.73526854
+AR16_2567,NA,Spawning,NA,carcass_survey,2016,2014,NA,NA,NA,NA,AME,2014 (1),Spawner,Early,Drought,273.3641,489.0373,39.40559681,75.13401912
+AR16_2575,NA,Spawning,NA,carcass_survey,2016,2014,NA,NA,NA,NA,AME,2014 (1),Spawner,Late,Drought,421.3016,509.5877,63.91292306,78.53839838
+AR16_2583,NA,Spawning,NA,carcass_survey,2016,2014,NA,NA,NA,NA,AME,2014 (1),Spawner,Late,Drought,558.1741,558.1741,86.58722141,86.58722141
+AR16_2597,NA,Spawning,NA,carcass_survey,2016,2013,NA,NA,NA,NA,AME,2013 (1.9),Spawner,Late,Intermediate,390.8141,434.4177,58.86236381,66.08573618
+AR16_2599,NA,Spawning,NA,carcass_survey,2016,2014,NA,NA,NA,NA,AME,2014 (1),Spawner,Late,Drought,524.055,524.055,80.9350513,80.9350513
+AR16_2601,NA,Spawning,NA,carcass_survey,2016,2014,NA,NA,NA,NA,AME,2014 (1),Spawner,Late,Drought,426.0128,500,64.69338045,76.9501
+AR16_2602,NA,Spawning,NA,carcass_survey,2016,2014,NA,NA,NA,NA,AME,2014 (1),Spawner,Late,Drought,393.8399,418.1037,59.36361783,63.38315894
+AR16_2605,NA,Spawning,NA,carcass_survey,2016,2014,NA,NA,NA,NA,AME,2014 (1),Spawner,Late,Drought,396.466,475.3554,59.79865756,72.86747556
+AR16_2606,NA,Spawning,NA,carcass_survey,2016,2014,NA,NA,NA,NA,AME,2014 (1),Spawner,Late,Drought,423.0523,501.2889,64.20294402,77.16361917
+AR16_2607,NA,Spawning,NA,carcass_survey,2016,2014,NA,NA,NA,NA,AME,2014 (1),Spawner,Late,Drought,379.5849,490.7072,57.00213453,75.41065475
+AR16_2612,NA,Spawning,NA,carcass_survey,2016,2013,NA,NA,NA,NA,AME,2013 (1.9),Spawner,Early,Intermediate,240.3097,456.8614,36.19622391,69.80375952
+AR16_2618,NA,Spawning,NA,carcass_survey,2016,2014,NA,NA,NA,NA,AME,2014 (1),Spawner,Late,Drought,629.2757,629.2757,98.36591246,98.36591246
+AR16_2625,NA,Spawning,NA,carcass_survey,2016,2013,NA,NA,NA,NA,AME,2013 (1.9),Spawner,Late,Intermediate,349.515,379.8788,52.0207549,57.05082201
+AR16_2630,NA,Spawning,NA,carcass_survey,2016,2014,NA,NA,NA,NA,AME,2014 (1),Spawner,Late,Drought,550.4349,550.4349,85.30514553,85.30514553
+AR16_2636,NA,Spawning,NA,carcass_survey,2016,2014,NA,NA,NA,NA,AME,2014 (1),Spawner,Late,Drought,567.3994,567.3994,88.1154846,88.1154846
+AR16_2638,NA,Spawning,NA,carcass_survey,2016,2014,NA,NA,NA,NA,AME,2014 (1),Spawner,Late,Drought,550,550,85.2331,85.2331
+AR16_2644,NA,Spawning,NA,carcass_survey,2016,2014,NA,NA,NA,NA,AME,2014 (1),Spawner,Late,Drought,462.923,462.923,70.80792418,70.80792418
+AR16_2646,NA,Spawning,NA,carcass_survey,2016,2015,NA,NA,NA,NA,AME,2015 (1.1),Spawner,Late,Drought,608.9086,608.9086,94.99189868,94.99189868
+AR16_2653,NA,Spawning,NA,carcass_survey,2016,2014,NA,NA,NA,NA,AME,2014 (1),Spawner,Late,Drought,547.1649,547.1649,84.76343733,84.76343733
+AR16_2655,NA,Spawning,NA,carcass_survey,2016,2013,NA,NA,NA,NA,AME,2013 (1.9),Spawner,Late,Intermediate,405,498.3053,61.2124,76.669356
+AR16_2660,NA,Spawning,NA,carcass_survey,2016,2014,NA,NA,NA,NA,AME,2014 (1),Spawner,Late,Drought,528.7556,528.7556,81.7137527,81.7137527
+AR16_2663,NA,Spawning,NA,carcass_survey,2016,2014,NA,NA,NA,NA,AME,2014 (1),Spawner,Late,Drought,552.6078,552.6078,85.66510815,85.66510815
+AR16_2667,NA,Spawning,NA,carcass_survey,2016,2014,NA,NA,NA,NA,AME,2014 (1),Spawner,Late,Drought,542.252,542.252,83.94956632,83.94956632
+AR16_2669,NA,Spawning,NA,carcass_survey,2016,2014,NA,NA,NA,NA,AME,2014 (1),Spawner,Late,Drought,582.9649,582.9649,90.69406533,90.69406533
+AR16_2671,NA,Spawning,NA,carcass_survey,2016,2013,NA,NA,NA,NA,AME,2013 (1.9),Spawner,Late,Intermediate,444.0315,514.291,67.67835829,79.31754706
+AR16_2679,NA,Spawning,NA,carcass_survey,2016,2014,NA,NA,NA,NA,AME,2014 (1),Spawner,Late,Drought,544.2261,544.2261,84.27659573,84.27659573
+AR16_2685,NA,Spawning,NA,carcass_survey,2016,2013,NA,NA,NA,NA,AME,2013 (1.9),Spawner,Early,Intermediate,219.4129,487.5712,35.75197884,74.89114499
+AR16_2687,NA,Spawning,NA,carcass_survey,2016,2014,NA,NA,NA,NA,AME,2014 (1),Spawner,Early,Drought,229.9577,484.9499,35.97615074,74.45690043
+AR16_2695,NA,Spawning,NA,carcass_survey,2016,2014,NA,NA,NA,NA,AME,2014 (1),Spawner,Late,Drought,540.8156,540.8156,83.7116123,83.7116123
+AR16_2697,NA,Spawning,NA,carcass_survey,2016,2014,NA,NA,NA,NA,AME,2014 (1),Spawner,Late,Drought,425,519.7855,64.5256,80.22776593
+AR16_2698,NA,Spawning,NA,carcass_survey,2016,2014,NA,NA,NA,NA,AME,2014 (1),Spawner,Late,Drought,537.5137,537.5137,83.16461954,83.16461954
+AR16_2701,NA,Spawning,NA,carcass_survey,2016,2015,NA,NA,NA,NA,AME,2015 (1.1),Spawner,Late,Drought,549.1257,549.1257,85.08826346,85.08826346
+AR16_2715,NA,Spawning,NA,carcass_survey,2016,2014,NA,NA,NA,NA,AME,2014 (1),Spawner,Late,Drought,425,474.0351,64.5256,72.64875467
+AR16_2737,NA,Spawning,NA,carcass_survey,2016,2015,NA,NA,NA,NA,AME,2015 (1.1),Spawner,Late,Drought,558.8579,558.8579,86.70049971,86.70049971
+AR16_2745,NA,Spawning,NA,carcass_survey,2016,2014,NA,NA,NA,NA,AME,2014 (1),Spawner,Late,Drought,437.4794,509.7921,66.5929374,78.57225929
+AR16_2748,NA,Spawning,NA,carcass_survey,2016,2015,NA,NA,NA,NA,AME,2015 (1.1),Spawner,Late,Drought,620,620,96.8293,96.8293
+AR16_2750,NA,Spawning,NA,carcass_survey,2016,2014,NA,NA,NA,NA,AME,2014 (1),Spawner,Late,Drought,623.6308,623.6308,97.43077833,97.43077833
+AR16_2753,NA,Spawning,NA,carcass_survey,2016,2014,NA,NA,NA,NA,AME,2014 (1),Spawner,Late,Drought,584.4934,584.4934,90.94727664,90.94727664
+AR16_2756,NA,Spawning,NA,carcass_survey,2016,2014,NA,NA,NA,NA,AME,2014 (1),Spawner,Late,Drought,430.1058,516.8242,65.37142683,79.73719697
+AR16_2759,NA,Spawning,NA,carcass_survey,2016,2014,NA,NA,NA,NA,AME,2014 (1),Spawner,Late,Drought,546.237,546.237,84.60972142,84.60972142
+AR16_2778,NA,Spawning,NA,carcass_survey,2016,2014,NA,NA,NA,NA,AME,2014 (1),Spawner,Late,Drought,574.0869,574.0869,89.22333585,89.22333585
+AR16_2780,NA,Spawning,NA,carcass_survey,2016,2014,NA,NA,NA,NA,AME,2014 (1),Spawner,Late,Drought,559.8685,559.8685,86.86791571,86.86791571
+AR16_2782,NA,Spawning,NA,carcass_survey,2016,2014,NA,NA,NA,NA,AME,2014 (1),Spawner,Late,Drought,623.9732,623.9732,97.48750031,97.48750031
+AR16_2789,NA,Spawning,NA,carcass_survey,2016,2014,NA,NA,NA,NA,AME,2014 (1),Spawner,Late,Drought,378.5803,427.0065,56.8357125,64.85799679
+AR16_2795,NA,Spawning,NA,carcass_survey,2016,2014,NA,NA,NA,NA,AME,2014 (1),Spawner,Late,Drought,530,605,81.9199,94.3444
+AR16_2869,NA,Spawning,NA,carcass_survey,2016,2013,NA,NA,NA,NA,AME,2013 (1.9),Spawner,Late,Intermediate,455.1409,519.1875,69.51874149,80.12870125
+AR171,NA,Spawning,NA,carcass_survey,2014,2013,NA,NA,NA,NA,AME,2013 (1.9),Spawner,Late,Intermediate,475.5435,529.8228,72.89863621,81.89054505
+AR172,NA,Spawning,NA,carcass_survey,2014,2012,NA,NA,NA,NA,AME,2012 (2.3),Spawner,Late,Intermediate,584.2721,611.8362,90.91061609,95.47688489
+AR176,NA,Spawning,NA,carcass_survey,2014,2012,NA,NA,NA,NA,AME,2012 (2.3),Spawner,Late,Intermediate,547.6874,560.1564,84.84999468,86.91560922
+AR178,NA,Spawning,NA,carcass_survey,2014,2012,NA,NA,NA,NA,AME,2012 (2.3),Spawner,Late,Intermediate,447.2704,447.2704,68.21491446,68.21491446
+AR17_2722,NA,Spawning,NA,carcass_survey,2017,2015,NA,NA,NA,NA,AME,2015 (1.1),Spawner,Late,Drought,408.5398,474.7464,61.79880327,72.76658862
+AR17_2820,NA,Spawning,NA,carcass_survey,2017,2015,NA,NA,NA,NA,AME,2015 (1.1),Spawner,Late,Drought,565.7284,565.7284,87.83866674,87.83866674
+AR17_2829,NA,Spawning,NA,carcass_survey,2017,2016,NA,NA,NA,NA,AME,2016 (4.2),Spawner,Late,Intermediate,600,600,93.5161,93.5161
+AR17_2858,NA,Spawning,NA,carcass_survey,2017,2015,NA,NA,NA,NA,AME,2015 (1.1),Spawner,Late,Drought,591.9777,591.9777,92.18712578,92.18712578
+AR17_2860,NA,Spawning,NA,carcass_survey,2017,2015,NA,NA,NA,NA,AME,2015 (1.1),Spawner,Late,Drought,520.8121,520.8121,80.39783249,80.39783249
+AR17_2864,NA,Spawning,NA,carcass_survey,2017,2015,NA,NA,NA,NA,AME,2015 (1.1),Spawner,Late,Drought,489.9323,489.9323,75.28228482,75.28228482
+AR17_2882,NA,Spawning,NA,carcass_survey,2017,2015,NA,NA,NA,NA,AME,2015 (1.1),Spawner,Late,Drought,517.2231,517.2231,79.80327875,79.80327875
+AR17_3126,NA,Spawning,NA,carcass_survey,2017,2016,NA,NA,NA,NA,AME,2016 (4.2),Spawner,Early,Intermediate,298.5615,527.3456,43.57979809,81.4801721
+AR17_3127,NA,Spawning,NA,carcass_survey,2017,2015,NA,NA,NA,NA,AME,2015 (1.1),Spawner,Late,Drought,538.4614,538.4614,83.32161552,83.32161552
+AR17_3137,NA,Spawning,NA,carcass_survey,2017,2015,NA,NA,NA,NA,AME,2015 (1.1),Spawner,Late,Drought,546.0921,546.0921,84.58571729,84.58571729
+AR17_3167,NA,Spawning,NA,carcass_survey,2017,2015,NA,NA,NA,NA,AME,2015 (1.1),Spawner,Late,Drought,512.7434,512.7434,79.06117164,79.06117164
+AR17_3174,NA,Spawning,NA,carcass_survey,2017,2015,NA,NA,NA,NA,AME,2015 (1.1),Spawner,Late,Drought,524.3541,524.3541,80.98460021,80.98460021
+AR17_3193,NA,Spawning,NA,carcass_survey,2017,2015,NA,NA,NA,NA,AME,2015 (1.1),Spawner,Late,Drought,493.7589,493.7589,75.91619937,75.91619937
+AR17_3227,NA,Spawning,NA,carcass_survey,2017,2015,NA,NA,NA,NA,AME,2015 (1.1),Spawner,Late,Drought,508.9687,557.8963,78.43585484,86.54120106
+AR17_3238,NA,Spawning,NA,carcass_survey,2017,2016,NA,NA,NA,NA,AME,2016 (4.2),Spawner,Late,Intermediate,600,600,93.5161,93.5161
+AR17_3245,NA,Spawning,NA,carcass_survey,2017,2015,NA,NA,NA,NA,AME,2015 (1.1),Spawner,Late,Drought,526.4364,526.4364,81.32955402,81.32955402
+AR17_3253,NA,Spawning,NA,carcass_survey,2017,2015,NA,NA,NA,NA,AME,2015 (1.1),Spawner,Late,Drought,500.3106,500.3106,77.001554,77.001554
+AR17_3270,NA,Spawning,NA,carcass_survey,2017,2014,NA,NA,NA,NA,AME,2014 (1),Spawner,Late,Drought,522.588,522.588,80.69202808,80.69202808
+AR17_3275,NA,Spawning,NA,carcass_survey,2017,2015,NA,NA,NA,NA,AME,2015 (1.1),Spawner,Late,Drought,555.5545,555.5545,86.15325847,86.15325847
+AR17_3296,NA,Spawning,NA,carcass_survey,2017,2015,NA,NA,NA,NA,AME,2015 (1.1),Spawner,Late,Drought,559.936,559.936,86.87909776,86.87909776
+AR17_3299,NA,Spawning,NA,carcass_survey,2017,2015,NA,NA,NA,NA,AME,2015 (1.1),Spawner,Late,Drought,542.9825,542.9825,84.07058095,84.07058095
+AR17_3313,NA,Spawning,NA,carcass_survey,2017,2015,NA,NA,NA,NA,AME,2015 (1.1),Spawner,Late,Drought,505,505,77.7784,77.7784
+AR17_4016,NA,Spawning,NA,carcass_survey,2017,2015,NA,NA,NA,NA,AME,2015 (1.1),Spawner,Early,Drought,238.4059,530,36.15575103,81.9199
+AR17_4045,NA,Spawning,NA,carcass_survey,2017,2015,NA,NA,NA,NA,AME,2015 (1.1),Spawner,Late,Drought,352.7537,529.3116,52.55727794,81.80585966
+AR17_4058,NA,Spawning,NA,carcass_survey,2017,2015,NA,NA,NA,NA,AME,2015 (1.1),Spawner,Late,Drought,500.0446,500.0446,76.95748844,76.95748844
+AR17_4106,NA,Spawning,NA,carcass_survey,2017,2015,NA,NA,NA,NA,AME,2015 (1.1),Spawner,Late,Drought,495.883,495.883,76.26807778,76.26807778
+AR17_4112,NA,Spawning,NA,carcass_survey,2017,2015,NA,NA,NA,NA,AME,2015 (1.1),Spawner,Late,Drought,549.8318,549.8318,85.20523599,85.20523599
+AR17_4131,NA,Spawning,NA,carcass_survey,2017,2015,NA,NA,NA,NA,AME,2015 (1.1),Spawner,Late,Drought,538.6098,538.6098,83.34619947,83.34619947
+AR17_4142,NA,Spawning,NA,carcass_survey,2017,2015,NA,NA,NA,NA,AME,2015 (1.1),Spawner,Late,Drought,484.7366,484.7366,74.42156516,74.42156516
+AR17_4159,NA,Spawning,NA,carcass_survey,2017,2015,NA,NA,NA,NA,AME,2015 (1.1),Spawner,Late,Drought,564.9802,564.9802,87.71471993,87.71471993
+AR17_4181,NA,Spawning,NA,carcass_survey,2017,2015,NA,NA,NA,NA,AME,2015 (1.1),Spawner,Late,Drought,545.8889,545.8889,84.55205517,84.55205517
+AR17_4198,NA,Spawning,NA,carcass_survey,2017,2015,NA,NA,NA,NA,AME,2015 (1.1),Spawner,Late,Drought,541.0772,541.0772,83.75494895,83.75494895
+AR17_4229,NA,Spawning,NA,carcass_survey,2017,2015,NA,NA,NA,NA,AME,2015 (1.1),Spawner,Late,Drought,512.6919,541.5829,79.05264015,83.83872321
+AR17_4231,NA,Spawning,NA,carcass_survey,2017,2015,NA,NA,NA,NA,AME,2015 (1.1),Spawner,Late,Drought,540,540,83.5765,83.5765
+AR17_4234,NA,Spawning,NA,carcass_survey,2017,2015,NA,NA,NA,NA,AME,2015 (1.1),Spawner,Late,Drought,618.3983,618.3983,96.56396238,96.56396238
+AR17_4250,NA,Spawning,NA,carcass_survey,2017,2015,NA,NA,NA,NA,AME,2015 (1.1),Spawner,Late,Drought,564.4658,564.4658,87.62950443,87.62950443
+AR17_4266,NA,Spawning,NA,carcass_survey,2017,2015,NA,NA,NA,NA,AME,2015 (1.1),Spawner,Late,Drought,319.8985,381.9922,47.11448551,57.40092785
+AR17_4283,NA,Spawning,NA,carcass_survey,2017,2015,NA,NA,NA,NA,AME,2015 (1.1),Spawner,Late,Drought,571.5921,571.5921,88.81004729,88.81004729
+AR17_4286,NA,Spawning,NA,carcass_survey,2017,2015,NA,NA,NA,NA,AME,2015 (1.1),Spawner,Early,Drought,220.708,420.1801,35.77951137,63.72713537
+AR17_4288,NA,Spawning,NA,carcass_survey,2017,2015,NA,NA,NA,NA,AME,2015 (1.1),Spawner,Late,Drought,357.5821,357.5821,53.35715069,53.35715069
+AR17_4289,NA,Spawning,NA,carcass_survey,2017,2015,NA,NA,NA,NA,AME,2015 (1.1),Spawner,Late,Drought,536.5166,536.5166,82.99943996,82.99943996
+AR17_4293,NA,Spawning,NA,carcass_survey,2017,2015,NA,NA,NA,NA,AME,2015 (1.1),Spawner,Late,Drought,544.2608,544.2608,84.28234413,84.28234413
+AR17_4326,NA,Spawning,NA,carcass_survey,2017,2015,NA,NA,NA,NA,AME,2015 (1.1),Spawner,Late,Drought,564.1373,564.1373,87.57508512,87.57508512
+AR17_4327,NA,Spawning,NA,carcass_survey,2017,2015,NA,NA,NA,NA,AME,2015 (1.1),Spawner,Late,Drought,518.842,518.842,80.07146572,80.07146572
+AR17_4333,NA,Spawning,NA,carcass_survey,2017,2015,NA,NA,NA,NA,AME,2015 (1.1),Spawner,Late,Drought,536.998,536.998,83.07918868,83.07918868
+AR17_4340,NA,Spawning,NA,carcass_survey,2017,2015,NA,NA,NA,NA,AME,2015 (1.1),Spawner,Late,Drought,505.4165,505.4165,77.84739739,77.84739739
+AR17_4347,NA,Spawning,NA,carcass_survey,2017,2014,NA,NA,NA,NA,AME,2014 (1),Spawner,Late,Drought,463.5335,501.9435,70.90905961,77.27206021
+AR17_4371,NA,Spawning,NA,carcass_survey,2017,2015,NA,NA,NA,NA,AME,2015 (1.1),Spawner,Late,Drought,374.7704,466.2897,56.20456446,71.3656517
+AR17_4378,NA,Spawning,NA,carcass_survey,2017,2015,NA,NA,NA,NA,AME,2015 (1.1),Spawner,Late,Drought,370.5178,457.3678,55.50007875,69.88764975
+AR17_4388,NA,Spawning,NA,carcass_survey,2017,2015,NA,NA,NA,NA,AME,2015 (1.1),Spawner,Late,Drought,427.2017,469.2502,64.89033362,71.85608813
+AR17_4397,NA,Spawning,NA,carcass_survey,2017,2015,NA,NA,NA,NA,AME,2015 (1.1),Spawner,Late,Drought,392.7808,443.3249,59.18816733,67.56130293
+AR17_4417,NA,Spawning,NA,carcass_survey,2017,2015,NA,NA,NA,NA,AME,2015 (1.1),Spawner,Early,Drought,180,414.683,34.9141,62.81648578
+AR17_4421,NA,Spawning,NA,carcass_survey,2017,2015,NA,NA,NA,NA,AME,2015 (1.1),Spawner,Late,Drought,540.6997,540.6997,83.6924123,83.6924123
+AR17_4428,NA,Spawning,NA,carcass_survey,2017,2015,NA,NA,NA,NA,AME,2015 (1.1),Spawner,Late,Drought,557.7076,557.7076,86.50994102,86.50994102
+AR17_4450,NA,Spawning,NA,carcass_survey,2017,2016,NA,NA,NA,NA,AME,2016 (4.2),Spawner,Late,Intermediate,431.1146,509.0644,65.53854464,78.4517085
+AR17_4462,NA,Spawning,NA,carcass_survey,2017,2015,NA,NA,NA,NA,AME,2015 (1.1),Spawner,Late,Drought,531.308,531.308,82.13658328,82.13658328
+AR17_4496,NA,Spawning,NA,carcass_survey,2017,2015,NA,NA,NA,NA,AME,2015 (1.1),Spawner,Late,Drought,518.1841,518.1841,79.96247801,79.96247801
+AR17_4546,NA,Spawning,NA,carcass_survey,2017,2015,NA,NA,NA,NA,AME,2015 (1.1),Spawner,Late,Drought,494.9949,494.9949,76.12095513,76.12095513
+AR17_4549,NA,Spawning,NA,carcass_survey,2017,2015,NA,NA,NA,NA,AME,2015 (1.1),Spawner,Late,Drought,527.5535,527.5535,81.51461281,81.51461281
+AR17_4556,NA,Spawning,NA,carcass_survey,2017,2015,NA,NA,NA,NA,AME,2015 (1.1),Spawner,Late,Drought,528.0495,528.0495,81.59678017,81.59678017
+AR17_4578,NA,Spawning,NA,carcass_survey,2017,2015,NA,NA,NA,NA,AME,2015 (1.1),Spawner,Late,Drought,484.5211,484.5211,74.38586543,74.38586543
+AR17_4581,NA,Spawning,NA,carcass_survey,2017,2015,NA,NA,NA,NA,AME,2015 (1.1),Spawner,Late,Drought,523.1871,523.1871,80.79127499,80.79127499
+AR17_4583,NA,Spawning,NA,carcass_survey,2017,2015,NA,NA,NA,NA,AME,2015 (1.1),Spawner,Late,Drought,562.6179,562.6179,87.32338131,87.32338131
+AR17_4586,NA,Spawning,NA,carcass_survey,2017,2015,NA,NA,NA,NA,AME,2015 (1.1),Spawner,Late,Drought,534.4976,534.4976,82.66497242,82.66497242
+AR17_4598,NA,Spawning,NA,carcass_survey,2017,2015,NA,NA,NA,NA,AME,2015 (1.1),Spawner,Late,Drought,615.6869,615.6869,96.11479185,96.11479185
+AR17_4602,NA,Spawning,NA,carcass_survey,2017,2015,NA,NA,NA,NA,AME,2015 (1.1),Spawner,Late,Drought,562.8648,562.8648,87.36428277,87.36428277
+AR17_4618,NA,Spawning,NA,carcass_survey,2017,2015,NA,NA,NA,NA,AME,2015 (1.1),Spawner,Late,Drought,523.7017,523.7017,80.87652362,80.87652362
+AR17_4620,NA,Spawning,NA,carcass_survey,2017,2015,NA,NA,NA,NA,AME,2015 (1.1),Spawner,Late,Drought,578.6027,578.6027,89.97142328,89.97142328
+AR17_4621,NA,Spawning,NA,carcass_survey,2017,2015,NA,NA,NA,NA,AME,2015 (1.1),Spawner,Late,Drought,523.5615,523.5615,80.85329809,80.85329809
+AR17_4624,NA,Spawning,NA,carcass_survey,2017,2015,NA,NA,NA,NA,AME,2015 (1.1),Spawner,Late,Drought,531.3001,531.3001,82.13527457,82.13527457
+AR17_4674,NA,Spawning,NA,carcass_survey,2017,2015,NA,NA,NA,NA,AME,2015 (1.1),Spawner,Late,Drought,510.1065,510.1065,78.62434279,78.62434279
+AR17_4680,NA,Spawning,NA,carcass_survey,2017,2015,NA,NA,NA,NA,AME,2015 (1.1),Spawner,Late,Drought,534.9312,534.9312,82.73680259,82.73680259
+AR17_4686,NA,Spawning,NA,carcass_survey,2017,2015,NA,NA,NA,NA,AME,2015 (1.1),Spawner,Late,Drought,527.9199,527.9199,81.57531063,81.57531063
+AR17_4704,NA,Spawning,NA,carcass_survey,2017,2015,NA,NA,NA,NA,AME,2015 (1.1),Spawner,Late,Drought,523.1357,523.1357,80.78276006,80.78276006
+AR17_4764,NA,Spawning,NA,carcass_survey,2017,2015,NA,NA,NA,NA,AME,2015 (1.1),Spawner,Late,Drought,560.5891,560.5891,86.98729031,86.98729031
+AR17_4797,NA,Spawning,NA,carcass_survey,2017,2014,NA,NA,NA,NA,AME,2014 (1),Spawner,Late,Drought,392.1066,497.7324,59.07647936,76.57444938
+AR17_4807,NA,Spawning,NA,carcass_survey,2017,2015,NA,NA,NA,NA,AME,2015 (1.1),Spawner,Late,Drought,568.6282,568.6282,88.31904761,88.31904761
+AR17_4823,NA,Spawning,NA,carcass_survey,2017,2015,NA,NA,NA,NA,AME,2015 (1.1),Spawner,Late,Drought,562.615,562.615,87.3229009,87.3229009
+AR17_4836,NA,Spawning,NA,carcass_survey,2017,2015,NA,NA,NA,NA,AME,2015 (1.1),Spawner,Late,Drought,541.2285,541.2285,83.78001331,83.78001331
+AR17_4844,NA,Spawning,NA,carcass_survey,2017,2014,NA,NA,NA,NA,AME,2014 (1),Spawner,Late,Drought,557.8183,557.8183,86.52827958,86.52827958
+AR17_4847,NA,Spawning,NA,carcass_survey,2017,2015,NA,NA,NA,NA,AME,2015 (1.1),Spawner,Late,Drought,554.9609,554.9609,86.05492269,86.05492269
+AR17_4848,NA,Spawning,NA,carcass_survey,2017,2015,NA,NA,NA,NA,AME,2015 (1.1),Spawner,Late,Drought,560.1711,572.9961,86.91804443,89.04263393
+AR17_4860,NA,Spawning,NA,carcass_survey,2017,2015,NA,NA,NA,NA,AME,2015 (1.1),Spawner,Late,Drought,539.1758,539.1758,83.43996303,83.43996303
+AR17_4865,NA,Spawning,NA,carcass_survey,2017,2015,NA,NA,NA,NA,AME,2015 (1.1),Spawner,Late,Drought,620.9404,620.9404,96.98508666,96.98508666
+AR17_4866,NA,Spawning,NA,carcass_survey,2017,2015,NA,NA,NA,NA,AME,2015 (1.1),Spawner,Late,Drought,519.4652,519.4652,80.17470503,80.17470503
+AR17_4867,NA,Spawning,NA,carcass_survey,2017,2015,NA,NA,NA,NA,AME,2015 (1.1),Spawner,Late,Drought,475.3686,543.1681,72.86966228,84.10132745
+AR17_4868,NA,Spawning,NA,carcass_survey,2017,2015,NA,NA,NA,NA,AME,2015 (1.1),Spawner,Late,Drought,489.9131,489.9131,75.27910415,75.27910415
+AR17_4873,NA,Spawning,NA,carcass_survey,2017,2015,NA,NA,NA,NA,AME,2015 (1.1),Spawner,Late,Drought,575.1034,575.1034,89.39172924,89.39172924
+AR182,NA,Spawning,NA,carcass_survey,2014,2012,NA,NA,NA,NA,AME,2012 (2.3),Spawner,Late,Intermediate,559.0941,632,86.73962861,98.81722
+AR183,NA,Spawning,NA,carcass_survey,2014,2012,NA,NA,NA,NA,AME,2012 (2.3),Spawner,Late,Intermediate,468.1559,496.57,71.67480639,76.3818862
+AR186,NA,Spawning,NA,carcass_survey,2014,2012,NA,NA,NA,NA,AME,2012 (2.3),Spawner,Early,Intermediate,230.0044,523.5269,35.97714354,80.84756625
+AR188,NA,Spawning,NA,carcass_survey,2014,2011,NA,NA,NA,NA,AME,2011 (8.1),Spawner,Late,Wet,412.7613,412.7613,62.49813696,62.49813696
+AR190,NA,Spawning,NA,carcass_survey,2014,2012,NA,NA,NA,NA,AME,2012 (2.3),Spawner,Late,Intermediate,511.0123,563.5203,78.77439762,87.4728729
+AR191,NA,Spawning,NA,carcass_survey,2014,2012,NA,NA,NA,NA,AME,2012 (2.3),Spawner,Early,Intermediate,228.6174,435.876,35.94765731,66.32731816
+AR192,NA,Spawning,NA,carcass_survey,2014,2012,NA,NA,NA,NA,AME,2012 (2.3),Spawner,Late,Intermediate,473.8013,531.7105,72.61002336,82.20326143
+AR194,NA,Spawning,NA,carcass_survey,2014,2012,NA,NA,NA,NA,AME,2012 (2.3),Spawner,Late,Intermediate,505.3825,505.3825,77.84176495,77.84176495
+AR195,NA,Spawning,NA,carcass_survey,2014,2012,NA,NA,NA,NA,AME,2012 (2.3),Spawner,Late,Intermediate,379.3938,401.4379,56.97047691,60.62230251
+AR199,NA,Spawning,NA,carcass_survey,2014,2011,NA,NA,NA,NA,AME,2011 (8.1),Spawner,Late,Wet,382.8768,412.4668,57.54747069,62.44935009
+AR200,NA,Spawning,NA,carcass_survey,2014,2012,NA,NA,NA,NA,AME,2012 (2.3),Spawner,Late,Intermediate,547.3583,577.2721,84.79547598,89.75099609
+AR205,NA,Spawning,NA,carcass_survey,2014,2011,NA,NA,NA,NA,AME,2011 (8.1),Spawner,Late,Wet,328.5135,410.4436,48.54164641,62.11418678
+AR210,NA,Spawning,NA,carcass_survey,2014,2012,NA,NA,NA,NA,AME,2012 (2.3),Spawner,Late,Intermediate,487.144,637.4577,74.82037504,99.72134258
+AR216,NA,Spawning,NA,carcass_survey,2014,2011,NA,NA,NA,NA,AME,2011 (8.1),Spawner,Late,Wet,389.672,406.3901,58.67316352,61.44268397
+AR221,NA,Spawning,NA,carcass_survey,2014,2011,NA,NA,NA,NA,AME,2011 (8.1),Spawner,Early,Wet,235.2159,450.3633,36.08793482,68.72728428
+AR224,NA,Spawning,NA,carcass_survey,2014,2012,NA,NA,NA,NA,AME,2012 (2.3),Spawner,Late,Intermediate,553.711,553.711,85.84786426,85.84786426
+AR225,NA,Spawning,NA,carcass_survey,2014,2012,NA,NA,NA,NA,AME,2012 (2.3),Spawner,Late,Intermediate,499.065,592.6511,76.7952079,92.29868123
+AR226,NA,Spawning,NA,carcass_survey,2014,2012,NA,NA,NA,NA,AME,2012 (2.3),Spawner,Late,Intermediate,506.3625,506.3625,78.00411175,78.00411175
+AR228,NA,Spawning,NA,carcass_survey,2014,2011,NA,NA,NA,NA,AME,2011 (8.1),Spawner,Early,Wet,225.1959,467.4316,35.87491964,71.55481886
+AR230,NA,Spawning,NA,carcass_survey,2014,2011,NA,NA,NA,NA,AME,2011 (8.1),Spawner,Late,Wet,489.0938,489.0938,75.14337891,75.14337891
+AR231,NA,Spawning,NA,carcass_survey,2014,2011,NA,NA,NA,NA,AME,2011 (8.1),Spawner,Late,Wet,496.3357,504.9245,76.34307206,77.76589267
+AR235,NA,Spawning,NA,carcass_survey,2014,2011,NA,NA,NA,NA,AME,2011 (8.1),Spawner,Early,Wet,191.8665,495.7972,35.16636992,76.25386415
+AR236,NA,Spawning,NA,carcass_survey,2014,2012,NA,NA,NA,NA,AME,2012 (2.3),Spawner,Late,Intermediate,590,590,91.8595,91.8595
+AR239,NA,Spawning,NA,carcass_survey,2014,2011,NA,NA,NA,NA,AME,2011 (8.1),Spawner,Late,Wet,400,570,60.3841,88.5463
+AR241,NA,Spawning,NA,carcass_survey,2014,2012,NA,NA,NA,NA,AME,2012 (2.3),Spawner,Late,Intermediate,578.2659,578.2659,89.91562899,89.91562899
+AR242,NA,Spawning,NA,carcass_survey,2014,2012,NA,NA,NA,NA,AME,2012 (2.3),Spawner,Late,Intermediate,487.8065,520,74.93012479,80.2633
+AR245,NA,Spawning,NA,carcass_survey,2014,2011,NA,NA,NA,NA,AME,2011 (8.1),Spawner,Late,Wet,404.6327,496.7732,61.15155308,76.41554831
+AR248,NA,Spawning,NA,carcass_survey,2014,2012,NA,NA,NA,NA,AME,2012 (2.3),Spawner,Late,Intermediate,414.7389,447.5157,62.82574617,68.25555086
+AR256,NA,Spawning,NA,carcass_survey,2014,2012,NA,NA,NA,NA,AME,2012 (2.3),Spawner,Late,Intermediate,467.2333,496.8752,71.52196848,76.43244563
+AR264,NA,Spawning,NA,carcass_survey,2014,2012,NA,NA,NA,NA,AME,2012 (2.3),Spawner,Late,Intermediate,466.2704,545.8364,71.36245446,84.54335802
+AR266,NA,Spawning,NA,carcass_survey,2014,2012,NA,NA,NA,NA,AME,2012 (2.3),Spawner,Late,Intermediate,534.7378,534.7378,82.70476395,82.70476395
+AR273,NA,Spawning,NA,carcass_survey,2014,2012,NA,NA,NA,NA,AME,2012 (2.3),Spawner,Late,Intermediate,497.2949,497.2949,76.50197313,76.50197313
+AR275,NA,Spawning,NA,carcass_survey,2014,2012,NA,NA,NA,NA,AME,2012 (2.3),Spawner,Late,Intermediate,526.3856,560.2284,81.3211385,86.92753674
+AR276,NA,Spawning,NA,carcass_survey,2014,2011,NA,NA,NA,NA,AME,2011 (8.1),Spawner,Late,Wet,483.6498,483.6498,74.24152587,74.24152587
+AR278,NA,Spawning,NA,carcass_survey,2014,2012,NA,NA,NA,NA,AME,2012 (2.3),Spawner,Late,Intermediate,500,600,76.9501,93.5161
+AR279,NA,Spawning,NA,carcass_survey,2014,2011,NA,NA,NA,NA,AME,2011 (8.1),Spawner,Early,Wet,245.9143,486.2865,36.3153721,74.67832159
+AR280,NA,Spawning,NA,carcass_survey,2014,2012,NA,NA,NA,NA,AME,2012 (2.3),Spawner,Late,Intermediate,514.6458,514.6458,79.37632323,79.37632323
+AR281,NA,Spawning,NA,carcass_survey,2014,2012,NA,NA,NA,NA,AME,2012 (2.3),Spawner,Late,Intermediate,442.6295,466.2655,67.44610297,71.36164273
+AR287,NA,Spawning,NA,carcass_survey,2014,2012,NA,NA,NA,NA,AME,2012 (2.3),Spawner,Late,Intermediate,525.3337,527.9673,81.14688074,81.58316292
+AR289,NA,Spawning,NA,carcass_survey,2014,2012,NA,NA,NA,NA,AME,2012 (2.3),Spawner,Late,Intermediate,481.0637,509.932,73.81311254,78.59543512
+AR290,NA,Spawning,NA,carcass_survey,2014,2012,NA,NA,NA,NA,AME,2012 (2.3),Spawner,Late,Intermediate,433.3824,540,65.91422838,83.5765
+AR293,NA,Spawning,NA,carcass_survey,2014,2012,NA,NA,NA,NA,AME,2012 (2.3),Spawner,Late,Intermediate,511.1886,511.1886,78.80360348,78.80360348
+AR298,NA,Spawning,NA,carcass_survey,2014,2013,NA,NA,NA,NA,AME,2013 (1.9),Spawner,Early,Intermediate,229.5045,495.6613,35.96651617,76.23135096
+AR299,NA,Spawning,NA,carcass_survey,2014,2012,NA,NA,NA,NA,AME,2012 (2.3),Spawner,Late,Intermediate,565.6085,565.6085,87.81880411,87.81880411
+AR300,NA,Spawning,NA,carcass_survey,2014,2012,NA,NA,NA,NA,AME,2012 (2.3),Spawner,Late,Intermediate,560.4681,560.4681,86.96724545,86.96724545
+AR301,NA,Spawning,NA,carcass_survey,2014,2012,NA,NA,NA,NA,AME,2012 (2.3),Spawner,Late,Intermediate,551.728,551.728,85.51936048,85.51936048
+AR303,NA,Spawning,NA,carcass_survey,2014,2012,NA,NA,NA,NA,AME,2012 (2.3),Spawner,Late,Intermediate,586.1305,586.1305,91.21847863,91.21847863
+AR304,NA,Spawning,NA,carcass_survey,2014,2011,NA,NA,NA,NA,AME,2011 (8.1),Spawner,Late,Wet,452.7269,510.8075,69.11883825,78.74047045
+AR305,NA,Spawning,NA,carcass_survey,2014,2011,NA,NA,NA,NA,AME,2011 (8.1),Spawner,Late,Wet,492.7112,492.7112,75.74263739,75.74263739
+AR306,NA,Spawning,NA,carcass_survey,2014,2011,NA,NA,NA,NA,AME,2011 (8.1),Spawner,Late,Wet,487.248,510.4201,74.83760368,78.67629377
+AR309,NA,Spawning,NA,carcass_survey,2014,2012,NA,NA,NA,NA,AME,2012 (2.3),Spawner,Late,Intermediate,428.5131,470.4675,65.10758015,72.05774605
+AR310,NA,Spawning,NA,carcass_survey,2014,2011,NA,NA,NA,NA,AME,2011 (8.1),Spawner,Late,Wet,421.1455,438.7393,63.88706353,66.80165244
+AR311,NA,Spawning,NA,carcass_survey,2014,2012,NA,NA,NA,NA,AME,2012 (2.3),Spawner,Late,Intermediate,535.5386,535.5386,82.83742448,82.83742448
+AR312,NA,Spawning,NA,carcass_survey,2014,2012,NA,NA,NA,NA,AME,2012 (2.3),Spawner,Late,Intermediate,446.2097,640,68.0391989,100.1425
+AR313,NA,Spawning,NA,carcass_survey,2014,2011,NA,NA,NA,NA,AME,2011 (8.1),Spawner,Late,Wet,465.9503,497.8951,71.3094267,76.60140227
+AR316,NA,Spawning,NA,carcass_survey,2014,2011,NA,NA,NA,NA,AME,2011 (8.1),Spawner,Late,Wet,399.4135,442.5933,60.28694041,67.44010608
+AR317,NA,Spawning,NA,carcass_survey,2014,2011,NA,NA,NA,NA,AME,2011 (8.1),Spawner,Late,Wet,499.3807,499.3807,76.84750676,76.84750676
+AR318,NA,Spawning,NA,carcass_survey,2014,2012,NA,NA,NA,NA,AME,2012 (2.3),Spawner,Late,Intermediate,476.9559,523.6009,73.13261439,80.85982509
+AR319,NA,Spawning,NA,carcass_survey,2014,2012,NA,NA,NA,NA,AME,2012 (2.3),Spawner,Late,Intermediate,403.0562,500.6197,60.89039009,77.0527595
+AR321,NA,Spawning,NA,carcass_survey,2014,2012,NA,NA,NA,NA,AME,2012 (2.3),Spawner,Late,Intermediate,434.5178,434.5178,66.10231875,66.10231875
+AR322,NA,Spawning,NA,carcass_survey,2014,2012,NA,NA,NA,NA,AME,2012 (2.3),Spawner,Late,Intermediate,436.8606,513.9964,66.490427,79.26874362
+AR325,NA,Spawning,NA,carcass_survey,2014,2012,NA,NA,NA,NA,AME,2012 (2.3),Spawner,Late,Intermediate,445.0501,495.3247,67.84709957,76.1755898
+AR331,NA,Spawning,NA,carcass_survey,2014,2012,NA,NA,NA,NA,AME,2012 (2.3),Spawner,Late,Intermediate,519.1017,541.6566,80.11448762,83.85093236
+AR332,NA,Spawning,NA,carcass_survey,2014,2012,NA,NA,NA,NA,AME,2012 (2.3),Spawner,Late,Intermediate,495.3588,622.3246,76.18123881,97.21439324
+AR335,NA,Spawning,NA,carcass_survey,2014,2012,NA,NA,NA,NA,AME,2012 (2.3),Spawner,Late,Intermediate,540.1316,540.1316,83.59830086,83.59830086
+AR337,NA,Spawning,NA,carcass_survey,2014,2012,NA,NA,NA,NA,AME,2012 (2.3),Spawner,Late,Intermediate,383.6192,400.1904,57.67045667,60.41564166
+AR338,NA,Spawning,NA,carcass_survey,2014,2012,NA,NA,NA,NA,AME,2012 (2.3),Spawner,Late,Intermediate,510.2729,556.5553,78.65190861,86.319051
+AR339,NA,Spawning,NA,carcass_survey,2014,2011,NA,NA,NA,NA,AME,2011 (8.1),Spawner,Late,Wet,445.8217,478.0078,67.97492282,73.30687215
+AR340,NA,Spawning,NA,carcass_survey,2014,2012,NA,NA,NA,NA,AME,2012 (2.3),Spawner,Late,Intermediate,502.5554,552.6242,77.37342756,85.66782497
+AR347,NA,Spawning,NA,carcass_survey,2014,2012,NA,NA,NA,NA,AME,2012 (2.3),Spawner,Early,Intermediate,229.0923,552.8564,35.95775321,85.70629122
+AR353,NA,Spawning,NA,carcass_survey,2014,2012,NA,NA,NA,NA,AME,2012 (2.3),Spawner,Late,Intermediate,443.0031,574.2647,67.50799355,89.2527902
+AR354,NA,Spawning,NA,carcass_survey,2014,2012,NA,NA,NA,NA,AME,2012 (2.3),Spawner,Late,Intermediate,401.7875,461.2538,60.68021725,70.53140451
+AR357,NA,Spawning,NA,carcass_survey,2014,2012,NA,NA,NA,NA,AME,2012 (2.3),Spawner,Early,Intermediate,237.688,463.4102,36.14048919,70.88863373
+AR360,NA,Spawning,NA,carcass_survey,2014,2012,NA,NA,NA,NA,AME,2012 (2.3),Spawner,Early,Intermediate,233.3666,471.7191,36.04862055,72.26508611
+AR362,NA,Spawning,NA,carcass_survey,2014,2012,NA,NA,NA,NA,AME,2012 (2.3),Spawner,Late,Intermediate,501.3153,536.9342,77.1679926,83.06861957
+AR364,NA,Spawning,NA,carcass_survey,2014,2012,NA,NA,NA,NA,AME,2012 (2.3),Spawner,Late,Intermediate,413.1637,738.2045,62.56479854,116.4110575
+AR371,NA,Spawning,NA,carcass_survey,2014,2012,NA,NA,NA,NA,AME,2012 (2.3),Spawner,Late,Intermediate,451.6062,489.3433,68.93318309,75.18471108
+AR372,NA,Spawning,NA,carcass_survey,2014,2012,NA,NA,NA,NA,AME,2012 (2.3),Spawner,Late,Intermediate,507.1321,507.1321,78.13160369,78.13160369
+AR376,NA,Spawning,NA,carcass_survey,2014,2011,NA,NA,NA,NA,AME,2011 (8.1),Spawner,Late,Wet,441.6569,475,67.28498205,72.8086
+AR377,NA,Spawning,NA,carcass_survey,2014,2011,NA,NA,NA,NA,AME,2011 (8.1),Spawner,Late,Wet,477.1752,477.1752,73.16894363,73.16894363
+AR378,NA,Spawning,NA,carcass_survey,2014,2012,NA,NA,NA,NA,AME,2012 (2.3),Spawner,Late,Intermediate,469.5966,469.5966,71.91347276,71.91347276
+AR383,NA,Spawning,NA,carcass_survey,2014,2012,NA,NA,NA,NA,AME,2012 (2.3),Spawner,Late,Intermediate,472.9656,492.1117,72.4715813,75.64332422
+AR384,NA,Spawning,NA,carcass_survey,2014,2011,NA,NA,NA,NA,AME,2011 (8.1),Spawner,Late,Wet,459.8983,509.5537,70.30685238,78.53276594
+AR386,NA,Spawning,NA,carcass_survey,2014,2011,NA,NA,NA,NA,AME,2011 (8.1),Spawner,Early,Wet,209.1979,436.6139,35.53481816,66.44955867
+AR395,NA,Spawning,NA,carcass_survey,2014,2012,NA,NA,NA,NA,AME,2012 (2.3),Spawner,Late,Intermediate,365.7082,388.8785,54.70332041,58.54171231
+AR405,NA,Spawning,NA,carcass_survey,2014,2011,NA,NA,NA,NA,AME,2011 (8.1),Spawner,Early,Wet,237.2665,440.0078,36.13152852,67.01179215
+AR409,NA,Spawning,NA,carcass_survey,2014,2012,NA,NA,NA,NA,AME,2012 (2.3),Spawner,Late,Intermediate,463.5118,463.5118,70.90546479,70.90546479
+AR410,NA,Spawning,NA,carcass_survey,2014,2012,NA,NA,NA,NA,AME,2012 (2.3),Spawner,Late,Intermediate,541.4692,541.4692,83.81988767,83.81988767
+AR413,NA,Spawning,NA,carcass_survey,2014,2011,NA,NA,NA,NA,AME,2011 (8.1),Spawner,Early,Wet,289.4101,499.7957,42.06377717,76.91625566
+AR416,NA,Spawning,NA,carcass_survey,2014,2012,NA,NA,NA,NA,AME,2012 (2.3),Spawner,Late,Intermediate,588.0888,588.0888,91.54289061,91.54289061
+AR425,NA,Spawning,NA,carcass_survey,2014,2012,NA,NA,NA,NA,AME,2012 (2.3),Spawner,Late,Intermediate,390.2618,464.1722,58.77086979,71.01486665
+AR428,NA,Spawning,NA,carcass_survey,2014,2012,NA,NA,NA,NA,AME,2012 (2.3),Spawner,Late,Intermediate,501.3068,501.3068,77.16658449,77.16658449
+AR429,NA,Spawning,NA,carcass_survey,2014,2012,NA,NA,NA,NA,AME,2012 (2.3),Spawner,Late,Intermediate,431.5124,497.3247,65.60444418,76.5069098
+AR431,NA,Spawning,NA,carcass_survey,2014,2011,NA,NA,NA,NA,AME,2011 (8.1),Spawner,Late,Wet,485.2836,499.3967,74.51218118,76.85015732
+AR433,NA,Spawning,NA,carcass_survey,2014,2011,NA,NA,NA,NA,AME,2011 (8.1),Spawner,Late,Wet,460.5793,504.3424,70.41966684,77.66946198
+AR435,NA,Spawning,NA,carcass_survey,2014,2012,NA,NA,NA,NA,AME,2012 (2.3),Spawner,Late,Intermediate,457.3775,488.5868,69.88925665,75.05938929
+AR437,NA,Spawning,NA,carcass_survey,2014,2013,NA,NA,NA,NA,AME,2013 (1.9),Spawner,Late,Intermediate,415.4063,502.125,62.93630766,77.3021275
+AR439,NA,Spawning,NA,carcass_survey,2014,2012,NA,NA,NA,NA,AME,2012 (2.3),Spawner,Late,Intermediate,560,560,86.8897,86.8897
+AR444,NA,Spawning,NA,carcass_survey,2014,2011,NA,NA,NA,NA,AME,2011 (8.1),Spawner,Late,Wet,481.2446,481.2446,73.84308044,73.84308044
+AR446,NA,Spawning,NA,carcass_survey,2014,2012,NA,NA,NA,NA,AME,2012 (2.3),Spawner,Late,Intermediate,420.1559,547.2551,63.72312639,84.77837987
+AR450,NA,Spawning,NA,carcass_survey,2014,2012,NA,NA,NA,NA,AME,2012 (2.3),Spawner,Early,Intermediate,200,445.4595,35.33928,67.91492077
+AR456,NA,Spawning,NA,carcass_survey,2014,2012,NA,NA,NA,NA,AME,2012 (2.3),Spawner,Late,Intermediate,482.9988,531.8748,74.13368121,82.23047937
+AR457,NA,Spawning,NA,carcass_survey,2014,2011,NA,NA,NA,NA,AME,2011 (8.1),Spawner,Early,Wet,226.5075,444.0679,35.90280294,67.68438831
+AR458,NA,Spawning,NA,carcass_survey,2014,2012,NA,NA,NA,NA,AME,2012 (2.3),Spawner,Early,Intermediate,193.0577,472.9969,35.19169364,72.47676645
+AR460,NA,Spawning,NA,carcass_survey,2014,2012,NA,NA,NA,NA,AME,2012 (2.3),Spawner,Late,Intermediate,396.9197,439.8946,59.8738175,66.99303944
+AR463,NA,Spawning,NA,carcass_survey,2014,2012,NA,NA,NA,NA,AME,2012 (2.3),Spawner,Late,Intermediate,501.2984,501.2984,77.16519294,77.16519294
+AR464,NA,Spawning,NA,carcass_survey,2014,2011,NA,NA,NA,NA,AME,2011 (8.1),Spawner,Late,Wet,461.3341,522.4378,70.54470701,80.66714595
+AR465,NA,Spawning,NA,carcass_survey,2014,2011,NA,NA,NA,NA,AME,2011 (8.1),Spawner,Late,Wet,462.5016,483.5977,70.73811506,74.23289498
+AR468,NA,Spawning,NA,carcass_survey,2014,2012,NA,NA,NA,NA,AME,2012 (2.3),Spawner,Late,Intermediate,376.7237,475.4048,56.52814814,72.87565917
+AR469,NA,Spawning,NA,carcass_survey,2014,2012,NA,NA,NA,NA,AME,2012 (2.3),Spawner,Late,Intermediate,434.6841,474.462,66.12986801,72.71947492
+AR473,NA,Spawning,NA,carcass_survey,2014,2012,NA,NA,NA,NA,AME,2012 (2.3),Spawner,Late,Intermediate,448.5543,488.8269,68.42760534,75.09916425
+AR474,NA,Spawning,NA,carcass_survey,2014,2012,NA,NA,NA,NA,AME,2012 (2.3),Spawner,Late,Intermediate,540.4416,540.4416,83.64965546,83.64965546
+AR477,NA,Spawning,NA,carcass_survey,2014,2012,NA,NA,NA,NA,AME,2012 (2.3),Spawner,Late,Intermediate,507.8012,507.8012,78.24244679,78.24244679
+AR478,NA,Spawning,NA,carcass_survey,2014,2012,NA,NA,NA,NA,AME,2012 (2.3),Spawner,Late,Intermediate,494.7504,523.1945,76.08045126,80.79250087
+AR480,NA,Spawning,NA,carcass_survey,2014,2012,NA,NA,NA,NA,AME,2012 (2.3),Spawner,Late,Intermediate,576.8553,576.8553,89.681949,89.681949
+AR482,NA,Spawning,NA,carcass_survey,2014,2011,NA,NA,NA,NA,AME,2011 (8.1),Spawner,Late,Wet,421.4684,445.6622,63.94055514,67.94850005
+AR483,NA,Spawning,NA,carcass_survey,2014,2011,NA,NA,NA,NA,AME,2011 (8.1),Spawner,Late,Wet,441.7667,467.2116,67.30317152,71.51837366
+AR485,NA,Spawning,NA,carcass_survey,2014,2012,NA,NA,NA,NA,AME,2012 (2.3),Spawner,Late,Intermediate,420,496.5137,63.6973,76.37255954
+AR487,NA,Spawning,NA,carcass_survey,2014,2012,NA,NA,NA,NA,AME,2012 (2.3),Spawner,Late,Intermediate,507.4911,507.4911,78.19107563,78.19107563
+AR488,NA,Spawning,NA,carcass_survey,2014,2012,NA,NA,NA,NA,AME,2012 (2.3),Spawner,Late,Intermediate,495.2691,495.2691,76.16637911,76.16637911
+AR489,NA,Spawning,NA,carcass_survey,2014,2011,NA,NA,NA,NA,AME,2011 (8.1),Spawner,Late,Wet,426.1053,470.9754,64.708704,72.14188476
+AR490,NA,Spawning,NA,carcass_survey,2014,2012,NA,NA,NA,NA,AME,2012 (2.3),Spawner,Late,Intermediate,369.1995,417.3247,55.28168917,63.2541098
+AR491,NA,Spawning,NA,carcass_survey,2014,2012,NA,NA,NA,NA,AME,2012 (2.3),Spawner,Late,Intermediate,541.094,541.094,83.75773204,83.75773204
+AR493,NA,Spawning,NA,carcass_survey,2014,2011,NA,NA,NA,NA,AME,2011 (8.1),Spawner,Late,Wet,466.7395,466.7395,71.44016557,71.44016557
+AR497,NA,Spawning,NA,carcass_survey,2014,2011,NA,NA,NA,NA,AME,2011 (8.1),Spawner,Late,Wet,459.6894,459.6894,70.272246,70.272246
+AR498,NA,Spawning,NA,carcass_survey,2014,2012,NA,NA,NA,NA,AME,2012 (2.3),Spawner,Late,Intermediate,489.2524,534.2395,75.16965258,82.62221557
+AR499,NA,Spawning,NA,carcass_survey,2014,2012,NA,NA,NA,NA,AME,2012 (2.3),Spawner,Late,Intermediate,390.6479,564.0157,58.83483111,87.55494086
+AR500,NA,Spawning,NA,carcass_survey,2014,2011,NA,NA,NA,NA,AME,2011 (8.1),Spawner,Late,Wet,383.518,456.8975,57.65369188,69.80973985
+AR505,NA,Spawning,NA,carcass_survey,2014,2012,NA,NA,NA,NA,AME,2012 (2.3),Spawner,Late,Intermediate,417.0401,533.0781,63.20696297,82.42981805
+AR508,NA,Spawning,NA,carcass_survey,2014,2011,NA,NA,NA,NA,AME,2011 (8.1),Spawner,Late,Wet,442.9056,489.2019,67.4918417,75.16128675
+AR509,NA,Spawning,NA,carcass_survey,2014,2012,NA,NA,NA,NA,AME,2012 (2.3),Spawner,Late,Intermediate,419.6833,513.9866,63.64483548,79.26712016
+AR520,NA,Spawning,NA,carcass_survey,2014,2012,NA,NA,NA,NA,AME,2012 (2.3),Spawner,Early,Intermediate,184.4536,358.4005,35.00877908,53.49272683
+AR522,NA,Spawning,NA,carcass_survey,2014,2012,NA,NA,NA,NA,AME,2012 (2.3),Spawner,Late,Intermediate,360.7176,461.3157,53.87657762,70.54165886
+AR523,NA,Spawning,NA,carcass_survey,2014,2011,NA,NA,NA,NA,AME,2011 (8.1),Spawner,Late,Wet,423.0342,423.0342,64.19994557,64.19994557
+AR525,NA,Spawning,NA,carcass_survey,2014,2012,NA,NA,NA,NA,AME,2012 (2.3),Spawner,Late,Intermediate,491.6677,519.0623,75.56977118,80.10796062
+AR527,NA,Spawning,NA,carcass_survey,2014,2012,NA,NA,NA,NA,AME,2012 (2.3),Spawner,Late,Intermediate,438.6495,470.3008,66.78677617,72.03013053
+AR530,NA,Spawning,NA,carcass_survey,2014,2012,NA,NA,NA,NA,AME,2012 (2.3),Spawner,Late,Intermediate,542.7999,542.7999,84.04033143,84.04033143
+AR532,NA,Spawning,NA,carcass_survey,2014,2012,NA,NA,NA,NA,AME,2012 (2.3),Spawner,Late,Intermediate,567.3798,588.873,88.11223767,91.67280118
+AR539,NA,Spawning,NA,carcass_survey,2014,2012,NA,NA,NA,NA,AME,2012 (2.3),Spawner,Late,Intermediate,518,518,79.93198,79.93198
+AR540,NA,Spawning,NA,carcass_survey,2014,2012,NA,NA,NA,NA,AME,2012 (2.3),Spawner,Late,Intermediate,585.0256,585.0256,91.0354409,91.0354409
+AR542,NA,Spawning,NA,carcass_survey,2014,2011,NA,NA,NA,NA,AME,2011 (8.1),Spawner,Late,Wet,471.9371,570,72.30119999,88.5463
+AR544,NA,Spawning,NA,carcass_survey,2014,2011,NA,NA,NA,NA,AME,2011 (8.1),Spawner,Late,Wet,517.0486,569.8247,79.77437108,88.5172598
+AR546,NA,Spawning,NA,carcass_survey,2014,2011,NA,NA,NA,NA,AME,2011 (8.1),Spawner,Late,Wet,457.9653,457.9653,69.9866316,69.9866316
+AR547,NA,Spawning,NA,carcass_survey,2014,2012,NA,NA,NA,NA,AME,2012 (2.3),Spawner,Late,Intermediate,488.9767,488.9767,75.12398012,75.12398012
+AR550,NA,Spawning,NA,carcass_survey,2014,2012,NA,NA,NA,NA,AME,2012 (2.3),Spawner,Late,Intermediate,521.2953,521.2953,80.4778794,80.4778794
+AR551,NA,Spawning,NA,carcass_survey,2014,2012,NA,NA,NA,NA,AME,2012 (2.3),Spawner,Late,Intermediate,504.7204,519.8401,77.73208146,80.23681097
+AR556,NA,Spawning,NA,carcass_survey,2014,2012,NA,NA,NA,NA,AME,2012 (2.3),Spawner,Late,Intermediate,555,555,86.0614,86.0614
+AR557,NA,Spawning,NA,carcass_survey,2014,2012,NA,NA,NA,NA,AME,2012 (2.3),Spawner,Late,Intermediate,451.5006,451.5006,68.9156894,68.9156894
+AR559,NA,Spawning,NA,carcass_survey,2014,2012,NA,NA,NA,NA,AME,2012 (2.3),Spawner,Late,Intermediate,494.7783,529.7893,76.08507318,81.88499544
+AR560,NA,Spawning,NA,carcass_survey,2014,2012,NA,NA,NA,NA,AME,2012 (2.3),Spawner,Late,Intermediate,558.2225,558.2225,86.59523935,86.59523935
+AR563,NA,Spawning,NA,carcass_survey,2014,2012,NA,NA,NA,NA,AME,2012 (2.3),Spawner,Late,Intermediate,513.488,513.488,79.18452208,79.18452208
+AR566,NA,Spawning,NA,carcass_survey,2014,2012,NA,NA,NA,NA,AME,2012 (2.3),Spawner,Late,Intermediate,516.3312,516.3312,79.65552659,79.65552659
+AR569,NA,Spawning,NA,carcass_survey,2014,2012,NA,NA,NA,NA,AME,2012 (2.3),Spawner,Late,Intermediate,520,570.3492,80.2633,88.60414847
+AR570,NA,Spawning,NA,carcass_survey,2014,2012,NA,NA,NA,NA,AME,2012 (2.3),Spawner,Late,Intermediate,568.8506,568.8506,88.3558904,88.3558904
+AR575,NA,Spawning,NA,carcass_survey,2014,2012,NA,NA,NA,NA,AME,2012 (2.3),Spawner,Late,Intermediate,540.699,567.7067,83.69229634,88.16639192
+AR576,NA,Spawning,NA,carcass_survey,2014,2012,NA,NA,NA,NA,AME,2012 (2.3),Spawner,Late,Intermediate,419.1215,419.1215,63.55176769,63.55176769
+AR577,NA,Spawning,NA,carcass_survey,2014,2012,NA,NA,NA,NA,AME,2012 (2.3),Spawner,Late,Intermediate,601.7207,617.759,93.80115116,96.45805594
+AR580,NA,Spawning,NA,carcass_survey,2014,2012,NA,NA,NA,NA,AME,2012 (2.3),Spawner,Late,Intermediate,506.4811,590.5099,78.02375903,91.94397003
+AR583,NA,Spawning,NA,carcass_survey,2014,2012,NA,NA,NA,NA,AME,2012 (2.3),Spawner,Late,Intermediate,564.7897,564.7897,87.6831617,87.6831617
+AR585,NA,Spawning,NA,carcass_survey,2014,2012,NA,NA,NA,NA,AME,2012 (2.3),Spawner,Late,Intermediate,558.1434,558.1434,86.58213564,86.58213564
+AR586,NA,Spawning,NA,carcass_survey,2014,2011,NA,NA,NA,NA,AME,2011 (8.1),Spawner,Late,Wet,419.4137,462.5438,63.60017354,70.74510591
+AR637,NA,Spawning,NA,carcass_survey,2014,2012,NA,NA,NA,NA,AME,2012 (2.3),Spawner,Late,Intermediate,583.6488,583.6488,90.80736021,90.80736021
+AR639,NA,Spawning,NA,carcass_survey,2014,2012,NA,NA,NA,NA,AME,2012 (2.3),Spawner,Early,Intermediate,211.8477,457.6971,35.59115025,69.94220159
+AR640,NA,Spawning,NA,carcass_survey,2014,2011,NA,NA,NA,NA,AME,2011 (8.1),Spawner,Late,Wet,378.8586,413.7103,56.88181568,62.6553483
+AR641,NA,Spawning,NA,carcass_survey,2014,2012,NA,NA,NA,NA,AME,2012 (2.3),Spawner,Late,Intermediate,499.9281,499.9281,76.93818905,76.93818905
+AR643,NA,Spawning,NA,carcass_survey,2014,2011,NA,NA,NA,NA,AME,2011 (8.1),Spawner,Early,Wet,200,474.3229,35.33928,72.69643161
+AR647,NA,Spawning,NA,carcass_survey,2014,2011,NA,NA,NA,NA,AME,2011 (8.1),Spawner,Late,Wet,395.3389,446.4343,59.61194217,68.07640614
+AR650,NA,Spawning,NA,carcass_survey,2014,2012,NA,NA,NA,NA,AME,2012 (2.3),Spawner,Late,Intermediate,432.4215,506.487,65.75504569,78.02473642
+AR651,NA,Spawning,NA,carcass_survey,2014,2012,NA,NA,NA,NA,AME,2012 (2.3),Spawner,Late,Intermediate,590.3344,590.3344,91.9148967,91.9148967
+AR653,NA,Spawning,NA,carcass_survey,2014,2011,NA,NA,NA,NA,AME,2011 (8.1),Spawner,Late,Wet,416.8563,487.3826,63.17651466,74.85990152
+AR654,NA,Spawning,NA,carcass_survey,2014,2012,NA,NA,NA,NA,AME,2012 (2.3),Spawner,Late,Intermediate,482.0824,556.8666,73.98187038,86.37062096
+AR655,NA,Spawning,NA,carcass_survey,2014,2012,NA,NA,NA,NA,AME,2012 (2.3),Spawner,Late,Intermediate,467.8704,467.8704,71.62751046,71.62751046
+AR658,NA,Spawning,NA,carcass_survey,2014,2011,NA,NA,NA,NA,AME,2011 (8.1),Spawner,Early,Wet,200.3858,471.8303,35.34748172,72.2835075
+AR662,NA,Spawning,NA,carcass_survey,2014,2012,NA,NA,NA,NA,AME,2012 (2.3),Spawner,Early,Intermediate,240.1268,500.062,36.19233564,76.96037092
+AR663,NA,Spawning,NA,carcass_survey,2014,2012,NA,NA,NA,NA,AME,2012 (2.3),Spawner,Late,Intermediate,451.711,490.6988,68.95054426,75.40926321
+AR664,NA,Spawning,NA,carcass_survey,2014,2012,NA,NA,NA,NA,AME,2012 (2.3),Spawner,Early,Intermediate,209.0166,492.6612,35.5309639,75.73435439
+AR666,NA,Spawning,NA,carcass_survey,2014,2011,NA,NA,NA,NA,AME,2011 (8.1),Spawner,Late,Wet,403.8307,468.8874,61.01869376,71.79598668
+AR667,NA,Spawning,NA,carcass_survey,2014,2012,NA,NA,NA,NA,AME,2012 (2.3),Spawner,Late,Intermediate,433.1342,538.4236,65.87311157,83.31535358
+AR670,NA,Spawning,NA,carcass_survey,2014,2011,NA,NA,NA,NA,AME,2011 (8.1),Spawner,Late,Wet,446.121,451.6292,68.02450486,68.93699327
+AR671,NA,Spawning,NA,carcass_survey,2014,2012,NA,NA,NA,NA,AME,2012 (2.3),Spawner,Early,Intermediate,241.7313,509.7577,36.22644571,78.56656058
+AR675,NA,Spawning,NA,carcass_survey,2014,2011,NA,NA,NA,NA,AME,2011 (8.1),Spawner,Late,Wet,364.6116,392.9285,54.52165766,59.21263531
+AR681,NA,Spawning,NA,carcass_survey,2014,2012,NA,NA,NA,NA,AME,2012 (2.3),Spawner,Late,Intermediate,358.0794,436.31,53.4395334,66.3992146
+AR685,NA,Spawning,NA,carcass_survey,2014,2011,NA,NA,NA,NA,AME,2011 (8.1),Spawner,Late,Wet,434.8187,469.8915,66.15216584,71.96232589
+AR689,NA,Spawning,NA,carcass_survey,2014,2012,NA,NA,NA,NA,AME,2012 (2.3),Spawner,Late,Intermediate,451.7759,535.2655,68.96129559,82.79218273
+AR690,NA,Spawning,NA,carcass_survey,2014,2011,NA,NA,NA,NA,AME,2011 (8.1),Spawner,Late,Wet,454.9033,475.9023,69.47938068,72.95807502
+AR704,NA,Spawning,NA,carcass_survey,2014,2012,NA,NA,NA,NA,AME,2012 (2.3),Spawner,Late,Intermediate,453.1702,480.9487,69.19227533,73.79406164
+AR706,NA,Spawning,NA,carcass_survey,2014,2012,NA,NA,NA,NA,AME,2012 (2.3),Spawner,Late,Intermediate,396.8604,396.8604,59.86399386,59.86399386
+AR707,NA,Spawning,NA,carcass_survey,2014,2011,NA,NA,NA,NA,AME,2011 (8.1),Spawner,Late,Wet,445.682,501.0597,67.95178012,77.1256499
+AR708,NA,Spawning,NA,carcass_survey,2014,2012,NA,NA,NA,NA,AME,2012 (2.3),Spawner,Late,Intermediate,415.0749,474.6193,62.88140793,72.74553324
+AR710,NA,Spawning,NA,carcass_survey,2014,2012,NA,NA,NA,NA,AME,2012 (2.3),Spawner,Late,Intermediate,537.3633,537.3633,83.13970428,83.13970428
+AR712,NA,Spawning,NA,carcass_survey,2014,2012,NA,NA,NA,NA,AME,2012 (2.3),Spawner,Early,Intermediate,228.2277,470.2308,35.93937267,72.01853433
+AR713,NA,Spawning,NA,carcass_survey,2014,2012,NA,NA,NA,NA,AME,2012 (2.3),Spawner,Late,Intermediate,442.0133,490.0738,67.34402328,75.30572571
+AR714,NA,Spawning,NA,carcass_survey,2014,2012,NA,NA,NA,NA,AME,2012 (2.3),Spawner,Late,Intermediate,572.1696,572.1696,88.90571594,88.90571594
+AR716,NA,Spawning,NA,carcass_survey,2014,2012,NA,NA,NA,NA,AME,2012 (2.3),Spawner,Early,Intermediate,199.5078,437.0115,35.32881632,66.51542509
+AR718,NA,Spawning,NA,carcass_survey,2014,2012,NA,NA,NA,NA,AME,2012 (2.3),Spawner,Late,Intermediate,536.4621,536.4621,82.99041149,82.99041149
+AR720,NA,Spawning,NA,carcass_survey,2014,2011,NA,NA,NA,NA,AME,2011 (8.1),Spawner,Late,Wet,485.7924,492.7348,74.59646898,75.74654697
+AR763,NA,Spawning,NA,carcass_survey,2014,2012,NA,NA,NA,NA,AME,2012 (2.3),Spawner,Early,Intermediate,238.1033,461.0259,36.14931805,70.49365059
+AR766,NA,Spawning,NA,carcass_survey,2014,2013,NA,NA,NA,NA,AME,2013 (1.9),Spawner,Early,Intermediate,228.3726,461.8489,35.9424531,70.62998877
+AR778,NA,Spawning,NA,carcass_survey,2014,2011,NA,NA,NA,NA,AME,2011 (8.1),Spawner,Late,Wet,492.2017,492.2017,75.65823362,75.65823362
+AR783,NA,Spawning,NA,carcass_survey,2014,2011,NA,NA,NA,NA,AME,2011 (8.1),Spawner,Late,Wet,413.407,413.407,62.60510362,62.60510362
+AR785,NA,Spawning,NA,carcass_survey,2014,2012,NA,NA,NA,NA,AME,2012 (2.3),Spawner,Early,Intermediate,183.8494,478.5474,34.99593439,73.39626228
+AR801,NA,Spawning,NA,carcass_survey,2014,2012,NA,NA,NA,NA,AME,2012 (2.3),Spawner,Late,Intermediate,480,480,73.6369,73.6369
+AR808,NA,Spawning,NA,carcass_survey,2014,2012,NA,NA,NA,NA,AME,2012 (2.3),Spawner,Late,Intermediate,392.6903,418.823,59.1731751,63.50231818
+AR812,NA,Spawning,NA,carcass_survey,2014,2012,NA,NA,NA,NA,AME,2012 (2.3),Spawner,Late,Intermediate,554.2351,554.2351,85.93468667,85.93468667
+AR815,NA,Spawning,NA,carcass_survey,2014,2012,NA,NA,NA,NA,AME,2012 (2.3),Spawner,Late,Intermediate,350,445.2376,52.1011,67.87816082
+AR828,NA,Spawning,NA,carcass_survey,2014,2012,NA,NA,NA,NA,AME,2012 (2.3),Spawner,Early,Intermediate,205.9872,486.5808,35.46656188,74.72707533
+AR837,NA,Spawning,NA,carcass_survey,2014,2013,NA,NA,NA,NA,AME,2013 (1.9),Spawner,Early,Intermediate,208.7024,448.1832,35.52428432,68.36612891
+AR879,NA,Spawning,NA,carcass_survey,2014,2011,NA,NA,NA,NA,AME,2011 (8.1),Spawner,Late,Wet,428.9216,467.9672,65.17525226,71.64354635
+AR887,NA,Spawning,NA,carcass_survey,2014,2011,NA,NA,NA,NA,AME,2011 (8.1),Spawner,Late,Wet,430.9976,430.9976,65.51916242,65.51916242
+AR894,NA,Spawning,NA,carcass_survey,2014,2012,NA,NA,NA,NA,AME,2012 (2.3),Spawner,Late,Intermediate,506.516,558.9806,78.02954056,86.7208262
+AR896,NA,Spawning,NA,carcass_survey,2014,2012,NA,NA,NA,NA,AME,2012 (2.3),Spawner,Late,Intermediate,403.9882,480.002,61.04478521,73.63723132
